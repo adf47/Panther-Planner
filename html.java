@@ -8,14 +8,18 @@ public class html{
  
  public static void main(String [] args) throws IOException
  {
- 	int term = 23550;
+ 	int classNum = 23550;
  	int cnt = 0;
  	while(cnt != 1000) //gets 1000 classes from the website
  	{
- 		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+term+"&TERM=2174");
- 		if(!url.equals(""))System.out.println(url);
+ 		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+classNum+"&TERM=2174");
+ 		if(!url.equals(""))
+		{
+			System.out.println("Class # - " + classNum);
+			System.out.println(url);
+		}
  		cnt++;
- 		term++;
+ 		classNum++;
  	}
  }
  
@@ -79,21 +83,13 @@ public class html{
 						
             			//temp.delete(temp.lastIndexOf(temp.toString())-5,temp.lastIndexOf(temp.toString()));
             			//inputLine.delete(0,3);
-            			a.append(temp.toString()+"\n");
+            			a.append(temp.toString() + "\n");
             			temp.setLength(0);
             			itemCount++;
             		}
             	}
-				else if(inputLine.contains("<td class=\"style1\">"))
-				{
-					temp.append(in.readLine());
-            		/* temp.delete(0,8);
-					int start = temp.indexOf("<");
-					int end = temp.indexOf(">");
-					temp.delete(start,end+1); */
-					a.append(temp.toString()+"\n");
-            		temp.setLength(0);
-				}
+				
+				
             	
             	//CHECK FOR NEW INDICATOR HERE TO GATHER OTHER ITEMS 
             
