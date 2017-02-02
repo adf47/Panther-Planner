@@ -88,7 +88,69 @@ public class html{
             			itemCount++;
             		}
             	}
-				
+				else if(inputLine.contains(">Description<")) //GET DESCRIPTION!!
+				{
+					temp.append(inputLine+"\n");
+					temp.delete(0,39);
+					while(temp.indexOf("<") != -1)
+					{
+						int start = temp.indexOf("<");
+						int end = temp.indexOf(">");
+						temp.delete(start,end+1);
+					}
+					//move to description -- deleting <> characters until description is reached
+					int x = 0;
+					while(x < 3)
+					{
+						temp.append(in.readLine());
+						int start = temp.indexOf("<");
+						int end = temp.indexOf(">");
+						temp.delete(start,end+1);
+						x++;
+					}
+					temp.append(in.readLine()); //this is the description
+					//remove table tag yet again!!
+					if(temp.indexOf("<") != -1)
+					{
+						int start = temp.indexOf("<");
+						int end = temp.indexOf(">");
+						temp.delete(start,end+1);
+					}
+					a.append(temp.toString() + "\n");
+					temp.setLength(0);
+				}
+				else if(inputLine.contains(">Prerequisite")) //GET Prerequisite(s)
+				{
+					temp.append(inputLine+"\n");
+					temp.delete(0,55);
+					int start = temp.indexOf("<");
+					int end = temp.indexOf(">");
+					temp.delete(start,end+1);
+					
+					//move to description -- deleting <> characters until description is reached
+					int x = 0;
+					while(x < 3)
+					{
+						temp.append(in.readLine());
+						start = temp.indexOf("<");
+						end = temp.indexOf(">");
+						temp.delete(start,end+1);
+						x++;
+					}
+					temp.append(in.readLine()); //prereq.
+					int _and = temp.indexOf("&");
+					int y = temp.indexOf("p;");
+					temp.delete(_and, y+2);
+					//remove table tag yet again!!
+					while(temp.indexOf("<") != -1)
+					{
+						start = temp.indexOf("<");
+						end = temp.indexOf(">");
+						temp.delete(start,end+1);
+					}
+					a.append(temp.toString() + "\n");
+					temp.setLength(0);
+				}
 				
             	
             	//CHECK FOR NEW INDICATOR HERE TO GATHER OTHER ITEMS 
