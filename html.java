@@ -38,9 +38,9 @@ public class html{
             		temp.setLength(0);
             		//System.out.println("In Loop\n");
             		int itemCount = 0;
-            		while(itemCount < 3)
+            		while(itemCount < 6)
             		{
-            			//THIS SCRAPS THE TERM, SUBJECT, CATALOG #, AND TITLE(CLASS NAME)
+            			//THIS SCRAPS THE TERM, SUBJECT, CATALOG #, TITLE(CLASS NAME), CREDITS, GEN EDS. MET
             			temp.append(in.readLine());
             			temp.delete(0,8);
             			if(itemCount < 2)
@@ -49,13 +49,42 @@ public class html{
             				int end = temp.indexOf(">");
             				temp.delete(start,end+1);
             			}
-            			else //in other words if its the course name / title
+						else if(itemCount == 2)//in other words if its the course name / title
+						{
+							temp.delete(0,12);
+            				int start = temp.indexOf("<");
+            				int end = temp.indexOf(">");
+            				temp.delete(start,end+1);
+						}
+            			else if(itemCount == 3) //credits
             			{
-            				temp.delete(0,12);
             				int start = temp.indexOf("<");
             				int end = temp.indexOf(">");
             				temp.delete(start,end+1);
             			}
+						else if(itemCount ==4) //gen ed requirements that this class meets
+						{
+							temp.delete(0,9);
+							while(temp.indexOf("&") != -1)
+							{
+								int _and = temp.indexOf("&");
+								int _semicolon = temp.indexOf(";");
+								temp.delete(_and, _semicolon+1);
+								temp.append("\t");
+							}
+            				int start = temp.indexOf("<");
+            				int end = temp.indexOf(">");
+            				temp.delete(start,end+1);
+						}
+						else
+						{
+							if(inputLine.contains("<td class=\"style1\">"))
+							{
+								int start = temp.indexOf("<");
+								int end = temp.indexOf(">");
+								temp.delete(start,end+1);
+							}
+						}
             			//temp.delete(temp.lastIndexOf(temp.toString())-5,temp.lastIndexOf(temp.toString()));
             			//inputLine.delete(0,3);
             			a.append(temp.toString()+"\n");
