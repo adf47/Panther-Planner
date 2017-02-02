@@ -25,3 +25,15 @@ public class html{
         }
         
 }
+
+
+
+
+/*
+
+	DETAILS OF HOW TO STORE FILE:
+	
+	Term : Subject(major) : Catalog # : Title(class name) : ..... in order
+	
+
+*/
