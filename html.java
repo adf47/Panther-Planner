@@ -4,25 +4,44 @@
 import java.io.*;
 import java.net.*;
 
-public class html{ 
- 
+public class html{
+
  public static void main(String [] args) throws IOException
  {
- 	int classNum = 23550;
+ 	int classNum = 10000;
  	int cnt = 0;
- 	while(cnt != 1000) //gets 1000 classes from the website
- 	{
- 		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+classNum+"&TERM=2174");
- 		if(!url.equals(""))
-		{
-			System.out.println("Class # - " + classNum);
-			System.out.println(url);
-		}
- 		cnt++;
- 		classNum++;
- 	}
+
+      try{
+
+        PrintWriter writer = new PrintWriter("Courses.txt", "UTF-8"); //instanciate print writer
+
+       	while(classNum != 50000) //gets 1000 classes from the website
+       	{
+       		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+classNum+"&TERM=2174");
+       		if(!url.equals("")) //make sure the webspage actually exsists
+      		{
+      			//System.out.println("Class # - " + classNum);
+      			//System.out.println(url);
+
+            //write to text file here
+              writer.println(classNum); //writes class number to file
+              writer.println(url); //writes all other info to file
+
+      		}
+       		cnt++;
+       		classNum++;
+       	}
+
+        writer.close(); //close the file here
+    }
+    catch(Exception e){
+      System.out.println("ERROR! Exiting Program!");
+      System.exit(0);
+    }
+
+
  }
- 
+
  private static String getUrlSource(String url) throws IOException {
             URL yahoo = new URL(url);
             URLConnection yc = yahoo.openConnection();
@@ -32,7 +51,7 @@ public class html{
             StringBuilder temp = new StringBuilder();
             while ((inputLine = in.readLine()) != null)
             {
-            
+
             	if(inputLine.contains("<td>2174</td>")) //to find place where we need to start parsing,
             	{												//Always change the term number to current term when updating
             		temp.append(inputLine+"\n");
@@ -80,7 +99,7 @@ public class html{
             				int end = temp.indexOf(">");
             				temp.delete(start,end+1);
 						}
-						
+
             			//temp.delete(temp.lastIndexOf(temp.toString())-5,temp.lastIndexOf(temp.toString()));
             			//inputLine.delete(0,3);
             			a.append(temp.toString() + "\n");
@@ -126,7 +145,7 @@ public class html{
 					int start = temp.indexOf("<");
 					int end = temp.indexOf(">");
 					temp.delete(start,end+1);
-					
+
 					//move to description -- deleting <> characters until description is reached
 					int x = 0;
 					while(x < 3)
@@ -151,17 +170,17 @@ public class html{
 					a.append(temp.toString() + "\n");
 					temp.setLength(0);
 				}
-				
-            	
-            	//CHECK FOR NEW INDICATOR HERE TO GATHER OTHER ITEMS 
-            
+
+
+            	//CHECK FOR NEW INDICATOR HERE TO GATHER OTHER ITEMS
+
             }
-            
+
             in.close();
-			
+
             return a.toString();
         }
-        
+
 }
 
 
@@ -170,8 +189,8 @@ public class html{
 /*
 
 	DETAILS OF HOW TO STORE FILE:
-	
+
 	Term : Subject(major) : Catalog # : Title(class name) : ..... in order
-	
+
 
 */

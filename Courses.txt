@@ -1,0 +1,744 @@
+10003
+2174
+GER
+1901
+Independent Study
+.5 to 15 cr.
+	
+
+         A course designed for students who wish to work independently on individually designed projects. 
+
+          
+
+10004
+2174
+GREEK
+1902
+Directed Study For Undergrads
+1 to 6 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10005
+2174
+GREEK
+2992
+Phd Reading Examination
+0 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10006
+2174
+HIST
+0100
+Western Civilization 1
+3 cr.
+HSREG			
+
+         This course examines cultural transformations from the ancient world through the 17th century. Drawing on a broad range of sources in order to examine social, political, economic, religious, artistic, and intellectual developments, we will consider the interpretation of historic materials and the role of the historian. 
+
+          
+
+10007
+2174
+HIST
+0601
+United States 1865-Present
+3 cr.
+HS			
+
+         This course explores the contours of U. S. history from the Civil War through the present.  Its purpose is to assist students in understanding why this society has developed in the ways that it has and in assessing what that means for the present and future.  It focuses on the development of the United States into the world’s leading power, the nation’s changing economic and political foundations, race relations and the evolution of the African-American community, the changing status of women, and various cultural and social factors. Students will attend lecture, participate in recitations, read, and write.
+
+          
+
+10008
+2174
+GER
+2990
+M.A. Independent Study
+1 to 15 cr.
+	
+
+         A course designed for MA students working under the supervision of a faculty member on a topic not normally offered through regular courses. Requires regular meetings. Permission of instructor required.
+
+          
+
+10009
+2174
+GREEK
+0220
+Intermediate Greek: Verse
+3 cr.
+	
+
+         The purpose of this course will be to introduce the student to Homer and the Homeric dialect.  Selections from the Iliad</em> will be read, probably books 1, 6 , and 9.  Most time will be devoted to understanding the text and to strengthening the student's grasp of ancient Greek.  Some attention will be paid to literary and historical issues.</td>
+
+        PREQ: GREEK 0210  
+
+10010
+2174
+GER
+3902
+Ph.D. Directed Study
+1 to 15 cr.
+	
+
+         A course designed for Ph.D. students working under the supervision of a faculty member on a topic not normally offered through regular course work. Requires regular meetings.
+
+          
+
+10011
+2174
+HPS
+1901
+Independent Study
+1 to 6 cr.
+	
+
+         A description is not available at this time.
+
+        LVL: So, Jr, or Sr; PLAN: History and Philosophy of Science (BA)  
+
+10012
+2174
+HPS
+2530
+Reading Sem Hist Of Science
+1 to 6 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10013
+2174
+HPS
+3000
+Dissertation Research
+1 to 12 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10014
+2174
+ISSP
+2902
+Directed Study
+1 to 9 cr.
+	
+
+         Registration is limited to students in good academic standing and normally beyond their first year of graduate studies who wish to study or carry out a project in an area not available in a formal course. The work must be under the direct supervision of a faculty member who has approved the proposed work in advance of registration.
+
+        PLAN: Intelligent Systems (MS, PHD)  
+
+10015
+2174
+ISSP
+2990
+Independent Study
+1 to 9 cr.
+	
+
+         Students who are using University facilities to an extent greater than represented by their formal course load (and those students required by a fellowship or other appointment to be full-time students) are required to register for an appropriate number of additional credits of Independent Study to reflect their correct status. All graduate study not under the direct supervision of a specific faculty member is, by definition, Independent Study. This includes study for preliminary evaluation, comprehensive and overview examinations, and the preparation of research proposals, etc.
+
+        PLAN: Intelligent Systems (MS, PHD)  
+
+10016
+2174
+ISSP
+3000
+Research And Dissertation Phd
+1 to 9 cr.
+	
+
+         Research and dissertation PhD work must be under the direct supervision of a faculty member who has approved the proposed work in advance of registration.
+
+        PLAN: Intelligent Systems (MS, PHD)  
+
+10017
+2174
+ITAL
+1902
+Directed Study
+1 to 4 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10018
+2174
+ITAL
+2902
+Directed Study
+1 to 3 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10019
+2174
+ITAL
+2910
+Comprehensive Examination Ma
+1 to 3 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10020
+2174
+ITAL
+2990
+Independent Study
+1 to 3 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10021
+2174
+JPNSE
+0004
+Second Year Japanese 2
+5 cr.
+	
+
+         The fourth term in the sequence of Japanese language instruction, this course is designed to develop the student's ability to read and write modern Japanese, while continuing to increase proficiency in speaking. This includes the introduction of more complex grammatical structures and idiomatic expressions, and the study of about 75 additional characters to accumulative total of 250 characters. Recitation: In addition to the two lecture classes, students must register separately for recitation sections offered five hours per week. These sections, taught by native Japanese speakers, are designed to provide further practice and reinforcement of material learned in lecture classes. 
+
+        PREQ: JPNSE 0003 (MIN GRADE C-)  
+
+10022
+2174
+MATH
+0031
+Algebra
+3 cr.
+A			
+
+         This course covers linear, quadratic, polynomial, rational, exponential and logarithmic functions. The instructor lectures three time each week and undergraduate teaching assistants lead problem solving recitation sessions once each week. This course serves as a prerequisite for Math 0120, Math 0200, and Math 0400. A graphing calculator is required. 
+
+          
+
+10023
+2174
+MILS
+0012
+Adaptive Leadership
+1 cr.
+	
+
+         This course is a continuation of the subjects and skills taught in MILS 0011.  In addition to extending the student's abilities in the areas of leadership, orienteering and map reading, lifesaving and other basic military concepts, the course also introduces the student to the employment of military units.  Individual topics covered include the Army's emerging technological enhancements, the Army organization and structure and the wartime policies and principles.  Each student must also participate in physical training, field training exercises and is expected to wear the Army uniform, which will be provided. Recitation: Laboratory session (scheduled for one Saturday a month 8am to 4pm) emphasizes the skills acquired in the classroom to complete the learning process. Military Science 0012 is open to all students and does not require any contractual arrangements with the United States Army. 
+
+          
+
+10025
+2174
+MILS
+1032
+Applied Leadership
+1 cr.
+	
+
+         This course builds upon the foundation laid in the fall semester with the objective of fully preparing contracted students for participation in the Army’s challenging ROTC Advanced Camp.  The course extends and enhances the student’s leadership, management, communication, fitness and basic military skills in preparing the student for commissioning as an officer in the United States Army.  Practical exercises are used to reinforce all of the skills that the student has developed over the course of the military science instruction.  This course required participation in a demanding physical training program to prepare contracted students for the Army’s ROTC Advanced Camp.  Each student must also register for Leadership Lab, participate in physical training, field training exercises and is expected to wear the Army uniform, which will be provided.  MILS 1032 is open only to contracted students.  Veterans with two or more years of service may enroll with approval.  Recitation: Laboratory session (scheduled for one Saturday a month 8am to 4pm) emphasizes the skills acquired in the classroom to complete the learning process. Expected class size is 20 students. Course is offered every Spring Term.
+
+          
+
+10026
+2174
+JPNSE
+1021
+Third Year Japanese 2
+3 cr.
+	
+
+         This is the second term of the third-year Japanese language course. The goal of this course is the development of a broad competency in speaking and reading the language in a variety of contexts covering a wide range of academic and cultural interests. Increasingly complex conversational situations will be practiced. The selection of reading materials is made in such a way that 450 of the most frequently used Kanji will be covered. Students register for both lecture and recitation. Every day there will be recitation classes, lecture, and language lab hours. The recitations are taught by native Japanese speakers, and are designed to provide further practice and reinforcement of material discussed in lecture classes. 
+
+        PREQ: JPNSE 1020 (MIN GRADE C-)  
+
+10027
+2174
+MILS
+1042
+Company Grade Leadership
+1 cr.
+	
+
+         This capstone course completes the transition from cadet to Army officer and concludes with the student’s commissioning into the United States Army.  During the semester, students continue to act in accordance with their assigned staff and command responsibilities and they prepare for their duties as a Lieutenant in the Army.  This course covers personal and performance counseling, evaluation of subordinate leaders and team-building skills as well as military justice and discipline.  Students bring to bear all of the skills and knowledge that they have accrued over the prior semesters in the Department of Military Science.  Each student must also register for Leadership Lab, participate in physical training, field training exercises and is expected to wear the Army uniform, which will be provided.  MILS 1042 is open only to contracted students.  Recitation: Laboratory session (scheduled for one Saturday a month 8am to 4pm) emphasizes the skills acquired in the classroom to complete the learning process.  Expected class size is 20 students. Course is offered every Spring Term.
+
+          
+
+10028
+2174
+JPNSE
+1901
+Independent Study
+1 to 6 cr.
+	
+
+         Student works on research project under supervision of specific faculty member.
+
+          
+
+10029
+2174
+JS
+0014
+Elementary Hebrew 2
+5 cr.
+L			
+
+         This course continues the work begun in Hebrew 1. Students will further develop their reading, writing and speaking skills with greater emphasis placed on oral communication. Students will develop vocabulary and learn language patterns which will enable them to interact with daily life situations in Hebrew. Class will meet daily and includes work at the language lab.
+
+          
+
+10030
+2174
+LATIN
+1902
+Directed Study For Undergrads
+1 to 6 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10031
+2174
+LATIN
+1901
+Independent Study
+1 to 9 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10032
+2174
+LATIN
+2992
+Graduate Reading Examination
+0 cr.
+	
+
+         A description is not available at this time.
+
+          
+
+10033
+2174
+MATH
+0120
+Business Calculus
+4 cr.
+AQ				
+
+         This course is designed for students in business, economics, and other social sciences. It introduces the basic concepts of limits, continuity, differentiation, integration, maximization, minimization and partial derivatives. The Calculus of Trigonometric Functions is NOT covered. Applications to the social sciences, especially business and economics, are stressed. To enroll in this course, you must have a grade of C or better in Math 0031 taken at the University of Pittsurgh or a minimum placement score as indicated below. 
+
+        PREQ: MATH 0020 or 0031 (MIN GRADE C) or MATH PLACEMENT SCORE (61 or GREATER)  
+
+10034
+2174
+MUSIC
+0511
+Voice
+1 cr.
+	
+
+         This course provides private instruction in vocal performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0511  
+
+10035
+2174
+MUSIC
+0515
+Violin
+1 cr.
+	
+
+         This course provides private instruction in violin performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+          
+
+10037
+2174
+MUSIC
+0516
+Viola
+1 cr.
+	
+
+         This course provides private instruction in viola performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+          
+
+10038
+2174
+MUSIC
+0517
+Violoncello
+1 cr.
+	
+
+         This course provides private instruction in cello performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit.
+
+        PREQ: MUSIC 0517  
+
+10039
+2174
+MUSIC
+0518
+Double Bass / Bass Guitar
+1 cr.
+	
+
+         This course provides private instruction in double bass performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0518  
+
+10040
+2174
+MUSIC
+0529
+Guitar
+1 cr.
+	
+
+         This course provides private instruction in classical guitar performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+          
+
+10041
+2174
+MATH
+0120
+Business Calculus
+4 cr.
+AQ				
+
+         This course is designed for students in business, economics, and other social sciences. It introduces the basic concepts of limits, continuity, differentiation, integration, maximization, minimization and partial derivatives. The Calculus of Trigonometric Functions is NOT covered. Applications to the social sciences, especially business and economics, are stressed. To enroll in this course, you must have a grade of C or better in Math 0031 taken at the University of Pittsurgh or a minimum placement score as indicated below. 
+
+        PREQ: MATH 0020 or 0031 (MIN GRADE C) or MATH PLACEMENT SCORE (61 or GREATER)  
+
+10042
+2174
+MUSIC
+0519
+Flute
+1 cr.
+	
+
+         This course provides private instruction in flute performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0519  
+
+10044
+2174
+MUSIC
+0520
+Oboe
+1 cr.
+	
+
+         This course provides private instruction in oboe performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit.
+
+        PREQ: MUSIC 0520  
+
+10045
+2174
+MUSIC
+0521
+Clarinet
+1 cr.
+	
+
+         This course provides private instruction in clarinet performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0521  
+
+10046
+2174
+MATH
+0200
+Prep For Scientific Calculus
+3 cr.
+A			
+
+         This course is designed for those students who have had high school courses, Algebra I, II, Geometry, and Trigonometry, but feel that more preparation is prudent or necessary to enable them to tackle calculus successfully. The following topics are studied: polynomial functions, rational functions, logarithmic and exponential functions, inverse functions, graphs, asymptotes, conic sections, translation and rotation of axes, trigonometric identities and equations, polar coordinates, systems of equations and limits. Emphasis will be placed on visualization of functions with graphing calculators. Students who want a slower paced precalculus course should take Math 0031 followed by Math 0032. A graphing calculator TI-83 or equivalent is required. The instructor lectures three time a week and graduate teaching assistant leads a problem solving recitation twice a week. One-letter grade rule applies if there is a common final exam. 
+
+        PREQ: MATH 0020 or 0031 (MIN GRADE C) or MATH PLACEMENT SCORE (61 or GREATER)  
+
+10047
+2174
+MUSIC
+0522
+Saxophone
+1 cr.
+	
+
+         This course provides private instruction in saxophone performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0522  
+
+10049
+2174
+MUSIC
+0530
+Jazz Guitar
+1 cr.
+	
+
+         This course provides private instruction in jazz guitar performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0530  
+
+10050
+2174
+MUSIC
+0524
+Trumpet
+1 cr.
+	
+
+         This course provides private instruction in trumpet performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0524  
+
+10051
+2174
+MUSIC
+0526
+Trombone
+1 cr.
+	
+
+         This course provides private instruction in trombone performance; it may be repeated for credit. Instructional fee $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0526  
+
+10052
+2174
+MUSIC
+0527
+Percussion
+1 cr.
+	
+
+         This course provides private instruction in performance on the percussion instruments used in Western music (timpani and battery); it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
+
+        PREQ: MUSIC 0527  
+
+10053
+2174
+MATH
+0220
+Analytc Geometry & Calculus 1
+4 cr.
+AQ				
+
+         This is the first course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0220 covers the derivative and integral of functions of a single variable. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information refer to the web page http://calculus.math.pitt.edu. 
+
+        PREQ: MATH 0032 (MIN GRADE C) or MATH 0200 (MIN GRADE C) or MATH PLACEMENT SCORE (76 or GREATER)  
+
+10056
+2174
+MUSIC
+0631
+Concert Band
+1 cr.
+	
+
+         This ensemble performs selected works from the concert band repertory. The course may be repeated for credit. 
+
+        PREQ: MUSIC 0631  
+
+10057
+2174
+MUSIC
+0211
+Intro To Western Art Music
+3 cr.
+MAHS				
+
+         This course introduces the main stylistic features, composers, and selected compositions of the various periods in the history of Western art music from the Middle Ages to the 20th century. Emphasis is placed on learning to listen more critically and sensitively. 
+
+          
+
+10060
+2174
+LING
+1579
+Phonology
+3 cr.
+	
+
+         This course is an introduction to phonological description and analysis. Students become familiar with the prevailing theoretical proposals on various aspects of phonological structure including sound systems, assimilation, syllable structure, prosodic structure, stress and tone. Students also learn how to evaluate the relative merits of these proposals by testing them on sets of phonological data. This course should provide a solid basis for conducting further phonological research.
+
+        PREQ: LING 1578 or CSD 1026  
+
+10061
+2174
+LING
+2146
+Second Language Acquisition
+3 cr.
+	
+
+         Experienced teachers in the ELI work with the ELI staff in coordinating various curricular areas, or help in training newer teachers, or work on curriculum or materials development. 
+
+        CREQ: LING 1000  
+
+10062
+2174
+MUSIC
+0711
+History Of Jazz
+3 cr.
+MA			
+
+         This course surveys the various musical styles associated with Jazz beginning with the early 1800s through its present state as world concert music. This survey will include Dixieland, ragtime, blues, gospel, spirituals, rhythm and blues, rock, and soul. Recitations: Fall and spring terms only. Students must enroll in one of the several recitation sections that are held during the week. These sessions provide an opportunity for the student to participate in group discussions and to explore the material covered in the lectures. Registration in both lecture and one of the several recitation sections is required. Students should be sure to register for both at the time of registration; students who register for one but not the other will very likely find themselves closed out of the course when attempting to add the necessary section during the add/drop period. 
+
+          
+
+10064
+2174
+LING
+2195
+Practicum Esl Teaching
+1 cr.
+	
+
+         The requirements of the practicum may be fulfilled by supervised teaching either in the ELI or in its informal ESL course (for at least 15 contact hours). Teachers are required to attend orientation and training meetings, be observed in class, attend post-observation discussions, and provide an evaluation of the curriculum. 
+
+          
+
+10065
+2174
+LING
+2579
+Phonology
+3 cr.
+	
+
+         Combined with LING 1579 This course is an advanced introduction to phonological description and analysis. Students become familiar with the prevailing theoretical proposals on various aspects of phonological structure including sound systems, assimilation, syllable structure, prosodic structure, stress and tone. Students also learn how to evaluate the relative merits of these proposals by testing them on sets of phonological data. This course should provide a solid basis for conducting further phonological research.
+
+        PREQ: LING 2578  
+
+10066
+2174
+MATH
+0220
+Analytc Geometry & Calculus 1
+4 cr.
+AQ				
+
+         This is the first course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0220 covers the derivative and integral of functions of a single variable. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information refer to the web page http://calculus.math.pitt.edu. 
+
+        PREQ: MATH 0032 (MIN GRADE C) or MATH 0200 (MIN GRADE C) or MATH PLACEMENT SCORE (76 or GREATER)  
+
+10067
+2174
+MATH
+0230
+Analytc Geometry & Calculus 2
+4 cr.
+AQ				
+
+         This is the second course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0230 covers symbolic and numerical integration techniques and applications, modeling, differential equations, and Taylor series. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information, refer to the web page http://calculus.math.pitt.edu. 
+
+        PREQ: MATH 0220; MIN GRADE: C  
+
+10073
+2174
+LING
+2902
+Directed Study For Ma Students
+1 to 9 cr.
+	
+
+         This course provides for individual work under the guidance of a faculty member. Check with the department on how often this course is offered. 
+
+          
+
+10074
+2174
+LING
+2959
+Departmental Seminar
+1 cr.
+	
+
+         A forum for the exchange of ideas among faculty members and advanced graduate students. Topics to be presented and discussed will include areas of linguistic endeavor which are under current exploration by any of the program participants. 
+
+          
+
+10075
+2174
+LING
+2990
+Indepndnt Study For Ma Studnts
+1 to 9 cr.
+	
+
+         This course provides the opportunity for MA students to pursue work on an individual basis.
+
+          
+
+10077
+2174
+LING
+3000
+Dissertation Research For Phd
+1 to 9 cr.
+	
+
+         This course provides for individual work under the guidance of a faculty member. 
+
+          
+
+10078
+2174
+LING
+3902
+Dircted Study For Phd Students
+1 to 9 cr.
+	
+
+         This course provides for individual work under the guidance of a faculty member. 
+
+          
+
+10079
+2174
+MATH
+0230
+Analytc Geometry & Calculus 2
+4 cr.
+AQ				
+
+         This is the second course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0230 covers symbolic and numerical integration techniques and applications, modeling, differential equations, and Taylor series. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information, refer to the web page http://calculus.math.pitt.edu. 
+
+        PREQ: MATH 0220; MIN GRADE: C  
+
