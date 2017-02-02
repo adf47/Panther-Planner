@@ -38,7 +38,7 @@ public class html{
             		temp.setLength(0);
             		//System.out.println("In Loop\n");
             		int itemCount = 0;
-            		while(itemCount < 6)
+            		while(itemCount < 5)
             		{
             			//THIS SCRAPS THE TERM, SUBJECT, CATALOG #, TITLE(CLASS NAME), CREDITS, GEN EDS. MET
             			temp.append(in.readLine());
@@ -62,7 +62,7 @@ public class html{
             				int end = temp.indexOf(">");
             				temp.delete(start,end+1);
             			}
-						else if(itemCount ==4) //gen ed requirements that this class meets
+						else //gen ed requirements that this class meets
 						{
 							temp.delete(0,9);
 							while(temp.indexOf("&") != -1)
@@ -76,15 +76,7 @@ public class html{
             				int end = temp.indexOf(">");
             				temp.delete(start,end+1);
 						}
-						else
-						{
-							if(inputLine.contains("<td class=\"style1\">"))
-							{
-								int start = temp.indexOf("<");
-								int end = temp.indexOf(">");
-								temp.delete(start,end+1);
-							}
-						}
+						
             			//temp.delete(temp.lastIndexOf(temp.toString())-5,temp.lastIndexOf(temp.toString()));
             			//inputLine.delete(0,3);
             			a.append(temp.toString()+"\n");
@@ -92,6 +84,16 @@ public class html{
             			itemCount++;
             		}
             	}
+				else if(inputLine.contains("<td class=\"style1\">"))
+				{
+					temp.append(in.readLine());
+            		/* temp.delete(0,8);
+					int start = temp.indexOf("<");
+					int end = temp.indexOf(">");
+					temp.delete(start,end+1); */
+					a.append(temp.toString()+"\n");
+            		temp.setLength(0);
+				}
             	
             	//CHECK FOR NEW INDICATOR HERE TO GATHER OTHER ITEMS 
             
