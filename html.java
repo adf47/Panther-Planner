@@ -8,7 +8,15 @@ public class html{
  
  public static void main(String [] args) throws IOException
  {
- 	System.out.println(getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM=23550&TERM=2174"));
+ 	int term = 23550;
+ 	int cnt = 0;
+ 	while(cnt != 1000) //gets 1000 classes from the website
+ 	{
+ 		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+term+"&TERM=2174");
+ 		if(!url.equals(""))System.out.println(url);
+ 		cnt++;
+ 		term++;
+ 	}
  }
  
  private static String getUrlSource(String url) throws IOException {
