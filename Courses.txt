@@ -5,6 +5,8 @@ GER
 Independent Study
 .5 to 15 cr.
 	
+		 / - / TBA;TBA
+    
 
          A course designed for students who wish to work independently on individually designed projects. 
 
@@ -17,6 +19,8 @@ GREEK
 Directed Study For Undergrads
 1 to 6 cr.
 	
+		 / - / 01518;CL
+    
 
          A description is not available at this time.
 
@@ -29,6 +33,8 @@ GREEK
 Phd Reading Examination
 0 cr.
 	
+		 / - / 01518;CL
+    
 
          A description is not available at this time.
 
@@ -41,6 +47,8 @@ HIST
 Western Civilization 1
 3 cr.
 HSREG			
+		MoWe / 03:00 PM-04:15 PM / 00216;CL
+    Archibald,Elizabeth Pitkin
 
          This course examines cultural transformations from the ancient world through the 17th century. Drawing on a broad range of sources in order to examine social, political, economic, religious, artistic, and intellectual developments, we will consider the interpretation of historic materials and the role of the historian. 
 
@@ -53,6 +61,8 @@ HIST
 United States 1865-Present
 3 cr.
 HS			
+		TuTh / 09:00 AM-09:50 AM / 01501;WWPH
+    Ruck,Robert
 
          This course explores the contours of U. S. history from the Civil War through the present.  Its purpose is to assist students in understanding why this society has developed in the ways that it has and in assessing what that means for the present and future.  It focuses on the development of the United States into the world’s leading power, the nation’s changing economic and political foundations, race relations and the evolution of the African-American community, the changing status of women, and various cultural and social factors. Students will attend lecture, participate in recitations, read, and write.
 
@@ -65,6 +75,8 @@ GER
 M.A. Independent Study
 1 to 15 cr.
 	
+		 / - / TBA;TBA
+    
 
          A course designed for MA students working under the supervision of a faculty member on a topic not normally offered through regular courses. Requires regular meetings. Permission of instructor required.
 
@@ -77,6 +89,8 @@ GREEK
 Intermediate Greek: Verse
 3 cr.
 	
+		TuTh / 02:30 PM-03:45 PM / TBA;TBA
+    Bromberg,Jacques Albert
 
          The purpose of this course will be to introduce the student to Homer and the Homeric dialect.  Selections from the Iliad</em> will be read, probably books 1, 6 , and 9.  Most time will be devoted to understanding the text and to strengthening the student's grasp of ancient Greek.  Some attention will be paid to literary and historical issues.</td>
 
@@ -89,6 +103,8 @@ GER
 Ph.D. Directed Study
 1 to 15 cr.
 	
+		 / - / TBA;TBA
+    Halle,Randall N
 
          A course designed for Ph.D. students working under the supervision of a faculty member on a topic not normally offered through regular course work. Requires regular meetings.
 
@@ -101,6 +117,8 @@ HPS
 Independent Study
 1 to 6 cr.
 	
+		 / - / TBA;TBA
+    Chirimuuta,Mazviita D
 
          A description is not available at this time.
 
@@ -113,6 +131,8 @@ HPS
 Reading Sem Hist Of Science
 1 to 6 cr.
 	
+		 / - / TBA;TBA
+    
 
          A description is not available at this time.
 
@@ -125,6 +145,8 @@ HPS
 Dissertation Research
 1 to 12 cr.
 	
+		 / - / TBA;TBA
+    Chirimuuta,Mazviita D
 
          A description is not available at this time.
 
@@ -137,6 +159,8 @@ ISSP
 Directed Study
 1 to 9 cr.
 	
+		 / - / TBA;TBA
+    Ashley,Kevin D
 
          Registration is limited to students in good academic standing and normally beyond their first year of graduate studies who wish to study or carry out a project in an area not available in a formal course. The work must be under the direct supervision of a faculty member who has approved the proposed work in advance of registration.
 
@@ -149,6 +173,8 @@ ISSP
 Independent Study
 1 to 9 cr.
 	
+		 / - / TBA;TBA
+    Ashley,Kevin D
 
          Students who are using University facilities to an extent greater than represented by their formal course load (and those students required by a fellowship or other appointment to be full-time students) are required to register for an appropriate number of additional credits of Independent Study to reflect their correct status. All graduate study not under the direct supervision of a specific faculty member is, by definition, Independent Study. This includes study for preliminary evaluation, comprehensive and overview examinations, and the preparation of research proposals, etc.
 
@@ -161,6 +187,8 @@ ISSP
 Research And Dissertation Phd
 1 to 9 cr.
 	
+		 / - / TBA;TBA
+    Ashley,Kevin D
 
          Research and dissertation PhD work must be under the direct supervision of a faculty member who has approved the proposed work in advance of registration.
 
@@ -173,6 +201,8 @@ ITAL
 Directed Study
 1 to 4 cr.
 	
+		 / - / 01325;CL
+    Savoia,Francesca
 
          A description is not available at this time.
 
@@ -185,6 +215,8 @@ ITAL
 Directed Study
 1 to 3 cr.
 	
+		 / - / 01300;CL
+    Savoia,Francesca
 
          A description is not available at this time.
 
@@ -197,6 +229,8 @@ ITAL
 Comprehensive Examination Ma
 1 to 3 cr.
 	
+		 / - / 01300;CL
+    Savoia,Francesca
 
          A description is not available at this time.
 
@@ -209,6 +243,8 @@ ITAL
 Independent Study
 1 to 3 cr.
 	
+		 / - / 01300;CL
+    Savoia,Francesca
 
          A description is not available at this time.
 
@@ -221,6 +257,8 @@ JPNSE
 Second Year Japanese 2
 5 cr.
 	
+		TuTh / 12:00 PM-12:50 PM / 01045;BENDM
+    Kowalchuck,Noriko Kanisawa
 
          The fourth term in the sequence of Japanese language instruction, this course is designed to develop the student's ability to read and write modern Japanese, while continuing to increase proficiency in speaking. This includes the introduction of more complex grammatical structures and idiomatic expressions, and the study of about 75 additional characters to accumulative total of 250 characters. Recitation: In addition to the two lecture classes, students must register separately for recitation sections offered five hours per week. These sections, taught by native Japanese speakers, are designed to provide further practice and reinforcement of material learned in lecture classes. 
 
@@ -233,6 +271,8 @@ MATH
 Algebra
 3 cr.
 A			
+		MoWeFr / 11:00 AM-11:50 AM / 00205;LAWRN
+    
 
          This course covers linear, quadratic, polynomial, rational, exponential and logarithmic functions. The instructor lectures three time each week and undergraduate teaching assistants lead problem solving recitation sessions once each week. This course serves as a prerequisite for Math 0120, Math 0200, and Math 0400. A graphing calculator is required. 
 
@@ -245,6 +285,8 @@ MILS
 Adaptive Leadership
 1 cr.
 	
+		Th / 08:00 AM-08:50 AM / 0320A;BELLH
+    Chisholm,Justin M
 
          This course is a continuation of the subjects and skills taught in MILS 0011.  In addition to extending the student's abilities in the areas of leadership, orienteering and map reading, lifesaving and other basic military concepts, the course also introduces the student to the employment of military units.  Individual topics covered include the Army's emerging technological enhancements, the Army organization and structure and the wartime policies and principles.  Each student must also participate in physical training, field training exercises and is expected to wear the Army uniform, which will be provided. Recitation: Laboratory session (scheduled for one Saturday a month 8am to 4pm) emphasizes the skills acquired in the classroom to complete the learning process. Military Science 0012 is open to all students and does not require any contractual arrangements with the United States Army. 
 
@@ -257,6 +299,8 @@ MILS
 Applied Leadership
 1 cr.
 	
+		TuTh / 09:30 AM-10:45 AM / 0320C;BELLH
+    Hancock,Shane
 
          This course builds upon the foundation laid in the fall semester with the objective of fully preparing contracted students for participation in the Army’s challenging ROTC Advanced Camp.  The course extends and enhances the student’s leadership, management, communication, fitness and basic military skills in preparing the student for commissioning as an officer in the United States Army.  Practical exercises are used to reinforce all of the skills that the student has developed over the course of the military science instruction.  This course required participation in a demanding physical training program to prepare contracted students for the Army’s ROTC Advanced Camp.  Each student must also register for Leadership Lab, participate in physical training, field training exercises and is expected to wear the Army uniform, which will be provided.  MILS 1032 is open only to contracted students.  Veterans with two or more years of service may enroll with approval.  Recitation: Laboratory session (scheduled for one Saturday a month 8am to 4pm) emphasizes the skills acquired in the classroom to complete the learning process. Expected class size is 20 students. Course is offered every Spring Term.
 
@@ -269,6 +313,8 @@ JPNSE
 Third Year Japanese 2
 3 cr.
 	
+		TuTh / 12:00 PM-12:50 PM / 00132;CHVRN
+    Oshimo,Junzo
 
          This is the second term of the third-year Japanese language course. The goal of this course is the development of a broad competency in speaking and reading the language in a variety of contexts covering a wide range of academic and cultural interests. Increasingly complex conversational situations will be practiced. The selection of reading materials is made in such a way that 450 of the most frequently used Kanji will be covered. Students register for both lecture and recitation. Every day there will be recitation classes, lecture, and language lab hours. The recitations are taught by native Japanese speakers, and are designed to provide further practice and reinforcement of material discussed in lecture classes. 
 
@@ -281,6 +327,8 @@ MILS
 Company Grade Leadership
 1 cr.
 	
+		TuTh / 09:30 AM-10:45 AM / 0320D;BELLH
+    Eddy,Jason A
 
          This capstone course completes the transition from cadet to Army officer and concludes with the student’s commissioning into the United States Army.  During the semester, students continue to act in accordance with their assigned staff and command responsibilities and they prepare for their duties as a Lieutenant in the Army.  This course covers personal and performance counseling, evaluation of subordinate leaders and team-building skills as well as military justice and discipline.  Students bring to bear all of the skills and knowledge that they have accrued over the prior semesters in the Department of Military Science.  Each student must also register for Leadership Lab, participate in physical training, field training exercises and is expected to wear the Army uniform, which will be provided.  MILS 1042 is open only to contracted students.  Recitation: Laboratory session (scheduled for one Saturday a month 8am to 4pm) emphasizes the skills acquired in the classroom to complete the learning process.  Expected class size is 20 students. Course is offered every Spring Term.
 
@@ -293,6 +341,8 @@ JPNSE
 Independent Study
 1 to 6 cr.
 	
+		 / - / 00702;OEH
+    Jordan,Brenda Gail
 
          Student works on research project under supervision of specific faculty member.
 
@@ -305,6 +355,8 @@ JS
 Elementary Hebrew 2
 5 cr.
 L			
+		MoTuWeThFr / 10:00 AM-10:50 AM / 00253;CL
+    Feig,Haya S
 
          This course continues the work begun in Hebrew 1. Students will further develop their reading, writing and speaking skills with greater emphasis placed on oral communication. Students will develop vocabulary and learn language patterns which will enable them to interact with daily life situations in Hebrew. Class will meet daily and includes work at the language lab.
 
@@ -317,6 +369,8 @@ LATIN
 Directed Study For Undergrads
 1 to 6 cr.
 	
+		 / - / 01518;CL
+    Jones,Nicholas F
 
          A description is not available at this time.
 
@@ -329,6 +383,8 @@ LATIN
 Independent Study
 1 to 9 cr.
 	
+		 / - / 01518;CL
+    
 
          A description is not available at this time.
 
@@ -341,6 +397,8 @@ LATIN
 Graduate Reading Examination
 0 cr.
 	
+		 / - / 01518;CL
+    
 
          A description is not available at this time.
 
@@ -353,6 +411,8 @@ MATH
 Business Calculus
 4 cr.
 AQ				
+		MoWeFr / 10:00 AM-10:50 AM / 00104;LAWRN
+    
 
          This course is designed for students in business, economics, and other social sciences. It introduces the basic concepts of limits, continuity, differentiation, integration, maximization, minimization and partial derivatives. The Calculus of Trigonometric Functions is NOT covered. Applications to the social sciences, especially business and economics, are stressed. To enroll in this course, you must have a grade of C or better in Math 0031 taken at the University of Pittsurgh or a minimum placement score as indicated below. 
 
@@ -365,6 +425,8 @@ MUSIC
 Voice
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Teaster,Richard Earl
 
          This course provides private instruction in vocal performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -377,6 +439,8 @@ MUSIC
 Violin
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Zahab,Roger E
 
          This course provides private instruction in violin performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -389,6 +453,8 @@ MUSIC
 Viola
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Zahab,Roger E
 
          This course provides private instruction in viola performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -401,6 +467,8 @@ MUSIC
 Violoncello
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Tuttle,Paula A
 
          This course provides private instruction in cello performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit.
 
@@ -413,6 +481,8 @@ MUSIC
 Double Bass / Bass Guitar
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Mangone,Jeffrey T
 
          This course provides private instruction in double bass performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -425,6 +495,8 @@ MUSIC
 Guitar
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Ferla,James Vincent
 
          This course provides private instruction in classical guitar performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -437,6 +509,8 @@ MATH
 Business Calculus
 4 cr.
 AQ				
+		MoWeFr / 01:00 PM-01:50 PM / 01700;WWPH
+    
 
          This course is designed for students in business, economics, and other social sciences. It introduces the basic concepts of limits, continuity, differentiation, integration, maximization, minimization and partial derivatives. The Calculus of Trigonometric Functions is NOT covered. Applications to the social sciences, especially business and economics, are stressed. To enroll in this course, you must have a grade of C or better in Math 0031 taken at the University of Pittsurgh or a minimum placement score as indicated below. 
 
@@ -449,6 +523,8 @@ MUSIC
 Flute
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Hois,Barbara
 
          This course provides private instruction in flute performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -461,6 +537,8 @@ MUSIC
 Oboe
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Warren,Cynthia D
 
          This course provides private instruction in oboe performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit.
 
@@ -473,6 +551,8 @@ MUSIC
 Clarinet
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Malek,Mary Beth Skaggs
 
          This course provides private instruction in clarinet performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -485,6 +565,8 @@ MATH
 Prep For Scientific Calculus
 3 cr.
 A			
+		TuTh / 07:05 PM-08:20 PM / 00G30;BENDM
+    
 
          This course is designed for those students who have had high school courses, Algebra I, II, Geometry, and Trigonometry, but feel that more preparation is prudent or necessary to enable them to tackle calculus successfully. The following topics are studied: polynomial functions, rational functions, logarithmic and exponential functions, inverse functions, graphs, asymptotes, conic sections, translation and rotation of axes, trigonometric identities and equations, polar coordinates, systems of equations and limits. Emphasis will be placed on visualization of functions with graphing calculators. Students who want a slower paced precalculus course should take Math 0031 followed by Math 0032. A graphing calculator TI-83 or equivalent is required. The instructor lectures three time a week and graduate teaching assistant leads a problem solving recitation twice a week. One-letter grade rule applies if there is a common final exam. 
 
@@ -497,6 +579,8 @@ MUSIC
 Saxophone
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Powell,Kenneth E
 
          This course provides private instruction in saxophone performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -509,6 +593,8 @@ MUSIC
 Jazz Guitar
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Negri,Joseph
 
          This course provides private instruction in jazz guitar performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -521,6 +607,8 @@ MUSIC
 Trumpet
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Priore,Karl W
 
          This course provides private instruction in trumpet performance; it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -533,6 +621,8 @@ MUSIC
 Trombone
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Jackson,Calvin C
 
          This course provides private instruction in trombone performance; it may be repeated for credit. Instructional fee $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -545,6 +635,8 @@ MUSIC
 Percussion
 1 cr.
 	
+		 / - / 00110;MUSIC
+    Benoit,James M
 
          This course provides private instruction in performance on the percussion instruments used in Western music (timpani and battery); it may be repeated for credit. Instructional fee: $395. Note: private vocal and instrumental instruction is available only for 1 credit. 
 
@@ -557,6 +649,8 @@ MATH
 Analytc Geometry & Calculus 1
 4 cr.
 AQ				
+		MoWeFr / 10:00 AM-10:50 AM / 01501;WWPH
+    
 
          This is the first course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0220 covers the derivative and integral of functions of a single variable. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information refer to the web page http://calculus.math.pitt.edu. 
 
@@ -569,6 +663,8 @@ MUSIC
 Concert Band
 1 cr.
 	
+		TuTh / 06:15 PM-08:25 PM / 00AUD;BELLH
+    
 
          This ensemble performs selected works from the concert band repertory. The course may be repeated for credit. 
 
@@ -581,6 +677,8 @@ MUSIC
 Intro To Western Art Music
 3 cr.
 MAHS				
+		MoWe / 05:00 PM-05:50 PM / 000G8;CL
+    Ruth,Christopher T
 
          This course introduces the main stylistic features, composers, and selected compositions of the various periods in the history of Western art music from the Middle Ages to the 20th century. Emphasis is placed on learning to listen more critically and sensitively. 
 
@@ -593,6 +691,8 @@ LING
 Phonology
 3 cr.
 	
+		MoWeFr / 02:00 PM-02:50 PM / 00318;CL
+    
 
          This course is an introduction to phonological description and analysis. Students become familiar with the prevailing theoretical proposals on various aspects of phonological structure including sound systems, assimilation, syllable structure, prosodic structure, stress and tone. Students also learn how to evaluate the relative merits of these proposals by testing them on sets of phonological data. This course should provide a solid basis for conducting further phonological research.
 
@@ -605,6 +705,8 @@ LING
 Second Language Acquisition
 3 cr.
 	
+		TuTh / 06:00 PM-07:15 PM / 00227;CL
+    Kanwit,Matthew H
 
          Experienced teachers in the ELI work with the ELI staff in coordinating various curricular areas, or help in training newer teachers, or work on curriculum or materials development. 
 
@@ -617,6 +719,8 @@ MUSIC
 History Of Jazz
 3 cr.
 MA			
+		MoWe / 02:00 PM-02:50 PM / 00121;LAWRN
+    Allen,Geri A
 
          This course surveys the various musical styles associated with Jazz beginning with the early 1800s through its present state as world concert music. This survey will include Dixieland, ragtime, blues, gospel, spirituals, rhythm and blues, rock, and soul. Recitations: Fall and spring terms only. Students must enroll in one of the several recitation sections that are held during the week. These sessions provide an opportunity for the student to participate in group discussions and to explore the material covered in the lectures. Registration in both lecture and one of the several recitation sections is required. Students should be sure to register for both at the time of registration; students who register for one but not the other will very likely find themselves closed out of the course when attempting to add the necessary section during the add/drop period. 
 
@@ -629,6 +733,8 @@ LING
 Practicum Esl Teaching
 1 cr.
 	
+		 / - / TBA;TBA
+    McCormick,Dawn E
 
          The requirements of the practicum may be fulfilled by supervised teaching either in the ELI or in its informal ESL course (for at least 15 contact hours). Teachers are required to attend orientation and training meetings, be observed in class, attend post-observation discussions, and provide an evaluation of the curriculum. 
 
@@ -641,6 +747,8 @@ LING
 Phonology
 3 cr.
 	
+		MoWeFr / 02:00 PM-02:50 PM / 00318;CL
+    
 
          Combined with LING 1579 This course is an advanced introduction to phonological description and analysis. Students become familiar with the prevailing theoretical proposals on various aspects of phonological structure including sound systems, assimilation, syllable structure, prosodic structure, stress and tone. Students also learn how to evaluate the relative merits of these proposals by testing them on sets of phonological data. This course should provide a solid basis for conducting further phonological research.
 
@@ -653,6 +761,8 @@ MATH
 Analytc Geometry & Calculus 1
 4 cr.
 AQ				
+		MoWeFr / 01:00 PM-01:50 PM / 00107;LAWRN
+    
 
          This is the first course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0220 covers the derivative and integral of functions of a single variable. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information refer to the web page http://calculus.math.pitt.edu. 
 
@@ -665,6 +775,8 @@ MATH
 Analytc Geometry & Calculus 2
 4 cr.
 AQ				
+		MoWeFr / 10:00 AM-10:50 AM / 00G30;BENDM
+    
 
          This is the second course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0230 covers symbolic and numerical integration techniques and applications, modeling, differential equations, and Taylor series. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information, refer to the web page http://calculus.math.pitt.edu. 
 
@@ -677,6 +789,8 @@ LING
 Directed Study For Ma Students
 1 to 9 cr.
 	
+		 / - / TBA;TBA
+    Gooden,Shelome Antonette
 
          This course provides for individual work under the guidance of a faculty member. Check with the department on how often this course is offered. 
 
@@ -689,6 +803,8 @@ LING
 Departmental Seminar
 1 cr.
 	
+		Fr / 03:00 PM-04:25 PM / 00332;CL
+    Kiesling,Scott F
 
          A forum for the exchange of ideas among faculty members and advanced graduate students. Topics to be presented and discussed will include areas of linguistic endeavor which are under current exploration by any of the program participants. 
 
@@ -701,6 +817,8 @@ LING
 Indepndnt Study For Ma Studnts
 1 to 9 cr.
 	
+		 / - / TBA;TBA
+    Gooden,Shelome Antonette
 
          This course provides the opportunity for MA students to pursue work on an individual basis.
 
@@ -713,6 +831,8 @@ LING
 Dissertation Research For Phd
 1 to 9 cr.
 	
+		 / - / TBA;TBA
+    Gooden,Shelome Antonette
 
          This course provides for individual work under the guidance of a faculty member. 
 
@@ -725,6 +845,8 @@ LING
 Dircted Study For Phd Students
 1 to 9 cr.
 	
+		 / - / TBA;TBA
+    Gooden,Shelome Antonette
 
          This course provides for individual work under the guidance of a faculty member. 
 
@@ -737,8 +859,2011 @@ MATH
 Analytc Geometry & Calculus 2
 4 cr.
 AQ				
+		MoWeFr / 01:00 PM-01:50 PM / 00332;CL
+    
 
          This is the second course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0230 covers symbolic and numerical integration techniques and applications, modeling, differential equations, and Taylor series. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information, refer to the web page http://calculus.math.pitt.edu. 
 
         PREQ: MATH 0220; MIN GRADE: C  
 
+10084
+2174
+MUSIC
+0311
+Introduction To World Music
+3 cr.
+MACOM			
+		MoWe / 03:00 PM-03:50 PM / 000G8;CL
+    Ayyagari,Shalini R
+
+         Focusing on a variety of musical traditions throughout the world, this course addresses factors that have influenced historical and contemporary musical performance practices. Special attention is placed on how political, economic, social, and religious factors influence musical aesthetics and notions of identity among performers and audiences. Positioning music within a broader context of postcolonial, technological, and transnational development, this course analyzes the ever-changing relationship between traditional and modern socio-musical approaches toward performance techniques, musical transmission, and intercultural exchange. 
+
+          
+
+10086
+2174
+MATH
+0240
+Analytc Geometry & Calculus 3
+4 cr.
+AQ				
+		MoWeFr / 01:00 PM-01:50 PM / 00104;LAWRN
+    
+
+         Math 0240 is the third course in the calculus sequence and is intended for honors students majoring in mathematics, engineering, science and statistics. It covers vectors, parameterized curves and surfaces, differentiation of functions of several variables, optimization, integration of functions of two and three variables, line integrals, flux integrals, and calculus of vector fields. The one letter grade rule applies if there is a common final exam. 
+
+        PREQ: MATH 0230 or 0235; MIN GRADE: C  
+
+10091
+2174
+PHIL
+0500
+Introduction To Logic
+3 cr.
+Q			
+		TuTh / 10:00 AM-10:50 AM / 00332;CL
+    Ricketts, Thomas
+
+         Logic concerns itself with demonstrative reasoning, reasoning in which the premises of the reasoning imply the conclusion.  Implication is in turn a matter of form or structure.  One statement implies another if the logical structure of the two statements guarantees that if the first is true, then so is the second.  The study of logic then begins with an abstract analysis of language designed to reveal the logical form of statements. Armed with our analysis of logical form, we will proceed to a rigorous definition of implication and develop formal methods for ascertaining the implication of one statement by others.  The logical techniques the course introduces will give students an enhanced awareness of the logical structure of English statements, and so contribute to their ability to analyze critically both their own reasoning and the reasoning of others.  
+
+          
+
+10092
+2174
+PHIL
+0300
+Introduction To Ethics
+3 cr.
+PH			
+		TuTh / 03:00 PM-03:50 PM / 00324;CL
+    Lawless, John
+
+         In this course, we will explore three things that might contribute to a good life: happiness, virtue, and justice. We will draw on historical and contemporary sources to think about what each is, about what it takes to be happy, to be virtuous, or to be just. And we will explore the ways in which happiness, virtue, and justice support one another, and the ways in which they stand in tension. Must we be virtuous or just to be happy? If not – if happiness can come apart from virtue or justice – which ought we pursue?
+
+          
+
+10093
+2174
+MATH
+0400
+Finite Mathematics
+3 cr.
+Q			
+		MoWeFr / 12:00 PM-12:50 PM / 00158;BENDM
+    
+
+         This course is designed to introduce students from various disciplines to the applied world of mathematics within a discrete context. In particular, students can expect to work with linear models including a basic algebraic introduction, solution of linear systems, and matrix algebra techniques. Additionally, a substantial part of the course will be devoted to the development and application of the basic laws of probability, probability models, and combinatorial techniques. Logic, Markov Chains, and game theory will be considered as time permits. Students from a variety of academic disciplines within the social, life, and physical sciences as well as the humanities looking to strengthen their mathematical background will find this course to be interesting and useful as real-world applications will be stressed. One-letter grade rule applies if there is a common final exam. This course is designed to introduce students from various disciplines to the applied world of mathematics within a discrete context. In particular, students can expect to work with linear models including a basic algebraic introduction, solution of linear systems, and matrix algebra techniques. Additionally, a substantial part of the course will be devoted to the development and application of the basic laws of probability, probability models, and combinatorial techniques. Logic, Markov Chains, and game theory will be considered as time permits. Students from a variety of academic disciplines within the social, life, and physical sciences as well as the humanities looking to strengthen their mathematical background will find this course to be interesting and useful as real-world applications will be stressed. One-letter grade rule applies if there is a common final exam. 
+
+        PREQ: MATH 0020 or 0031 (MIN GRADE C) or MATH PLACEMENT SCORE (61 or GREATER)  
+
+10094
+2174
+PHIL
+0080
+Intro To Philosophcal Problems
+3 cr.
+PH			
+		TuTh / 11:00 AM-11:50 AM / 00324;CL
+    Shaw, James
+
+         The goal of this course is to gain some familiarity with the methods and subject matter of philosophy by looking at a series of classic questions: Do we have minds or souls that are distinct from our bodies? Do we have free will? What makes us who we are? Should we fear death? Readings are primarily drawn from contemporary works, with a smattering of historical sources.
+
+          
+
+10098
+2174
+MUSIC
+1741
+Jazz Improvisation 1
+3 cr.
+	
+		TuTh / 09:00 AM-10:15 AM / 00132;MUSIC
+    Heller,Michael C
+
+         This course will focus on the construction of chord scales and learning the appropriate repertoire normally associated with small jazz ensembles. 
+
+          
+
+10100
+2174
+MUSIC
+1742
+Jazz Improvisation 2
+3 cr.
+	
+		TuTh / 09:00 AM-10:15 AM / 00132;MUSIC
+    Heller,Michael C
+
+         This course will focus on the construction of chord scales and learning the appropriate repertoire normally associated with small jazz ensembles. 
+
+          
+
+10101
+2174
+MUSIC
+1903
+Special Topics-Dircted Rsrch
+1 to 3 cr.
+	
+		 / - / 00110;MUSIC
+    Helbig,Adriana Nadia
+
+         This course offers tutorial instruction in a research project designed in accordance with the interests of the student and instructor. 
+
+          
+
+10102
+2174
+MUSIC
+2000
+Ma Thesis
+3 cr.
+	
+		 / - / 00110;MUSIC
+    Root,Deane L
+
+         Thesis research and writing supervised by a faculty member in the Department of Music. Grading: S/N. This course is open only to students in the M.A. program in Music. 
+
+          
+
+10103
+2174
+MUSIC
+2631
+Composition & Anlysis Tutorial
+3 cr.
+	
+		 / - / TBA;TBA
+    Rosenblum,Mathew and Moe,Eric H and Williams,Amy C
+
+         This course offers tutorial instruction in analysis and composition to graduate students in music. 
+
+        PLAN: Music (MA or PHD)  
+
+10104
+2174
+MATH
+1902
+Directed Study
+1 to 3 cr.
+	
+		 / - / 00301;THACK
+    
+
+         Under the direction of a faculty member a student studies a mutually agreed upon topic in Mathematics. 
+
+          
+
+10105
+2174
+MATH
+1180
+Linear Algebra 1
+3 cr.
+	
+		MoWeFr / 11:00 AM-11:50 AM / 00703;THACK
+    
+
+         This course stresses the theoretical and rigorous development of linear algebra. Major topics include the theory of vector spaces, linear transformations, matrices, eigenvalues and vectors, bases and canonical forms. Other topics may be covered as time permits. Math 1180 is suitable for mathematics majors, joint mathematics majors, statistics majors, and others interested in a theoretical treatment. Students interested only in the techniques of matrix theory should enroll in Math 0280. 
+
+        CREQ: MATH 0413 or MATH 0450  
+
+10106
+2174
+MATH
+1270
+Ordinary Differentl Equatns 1
+3 cr.
+	
+		MoWeFr / 12:00 PM-12:50 PM / 00525;THACK
+    
+
+         This course covers methods of solving ordinary differential equations which are frequently encountered in applications. General methods will be taught for single n-th order equations, and systems of first order linear equations. An introduction will be given to the qualitative theory of first-order nonlinear systems. This will include phase plane methods and stability analysis. Computer experimentation may be used to illustrate the behavior of solutions of various equations. 
+
+        PREQ: MATH 0280 or 1180 or 1185  
+
+10107
+2174
+MUSIC
+2990
+Independent Study
+1 to 9 cr.
+	
+		 / - / 00110;MUSIC
+    Root,Deane L
+
+         Independent Study is used only to allow time in the student's schedule to prepare for the Comprehensive Examination or Prospectus Meeting. It is not appropriate to register for Independent Study to complete the requirements for any other course; nor, as a rule, is Independent Study an appropriate option for first- or second-year students (or any other student having many outstanding course requirements). Grading: S/N. Note: for students in composition and theory and historical musicology, no more that six credits of Independent Study may be counted toward the 72 credits required for the Ph.D. degree; for students in ethnomusicology, no credits earned in courses of Independent Study may be counted toward the 72 credits required for the Ph.D. degree. 
+
+          
+
+10108
+2174
+PHIL
+1902
+Directed Study--Undergraduate
+1 to 9 cr.
+	
+		 / - / 01001;CL
+    Caie,Michael Stevenson
+
+         A description is not available at this time.
+
+          
+
+10109
+2174
+MUSIC
+3000
+Phd Dissertation
+1 to 9 cr.
+	
+		 / - / 00110;MUSIC
+    Root,Deane L
+
+         Dissertation research and writing supervised by a faculty member in the Department of Music. Grading: S/N. 
+
+          
+
+10110
+2174
+MUSIC
+3902
+Directed Study For Phd Student
+3 cr.
+	
+		 / - / 00110;MUSIC
+    Helbig,Adriana Nadia
+
+         Courses in Directed Study are intended to allow the advanced student (second year or beyond) to undertake significant research for which there is no formal course offering. The student must submit a full-length term paper as the basis of a letter-grade evaluation. 
+
+          
+
+10111
+2174
+PHIL
+2990
+Independent Study
+1 to 9 cr.
+	
+		 / - / 01001;CL
+    Caie,Michael Stevenson
+
+         A description is not available at this time.
+
+          
+
+10112
+2174
+PHIL
+3000
+Research And Dissertation Phd
+1 to 9 cr.
+	
+		 / - / 01001;CL
+    Caie,Michael Stevenson
+
+         A description is not available at this time.
+
+          
+
+10113
+2174
+PHIL
+2999
+Prospectus Research
+3 cr.
+	
+		 / - / 01001;CL
+    Caie,Michael Stevenson
+
+         A description is not available at this time.
+
+          
+
+10114
+2174
+PHIL
+3902
+Post-Ma Directed Study
+1 to 9 cr.
+	
+		 / - / 01001;CL
+    Caie,Michael Stevenson
+
+         A description is not available at this time.
+
+          
+
+10115
+2174
+MATH
+2000
+Thesis Ms
+1 to 15 cr.
+	
+		 / - / 00301;THACK
+    Swigon,David
+
+         This course involves directed research and writing leading towards the completion of a Master's thesis.
+
+          
+
+10116
+2174
+PEDC
+0001
+Beginning Swimming
+1 cr.
+	
+		TuTh / 10:30 AM-11:25 AM / 0POOL;TREES
+    Morgan Patton
+
+         For students who are unable to swim or who can swim very little. Opportunities are presented to learn basic functional aquatic skills and basic strokes. Students are permitted to set their own achievement goals. Instruction is on an individual basis.
+
+          
+
+10117
+2174
+PEDC
+0002
+Intermediate Swimming
+1 cr.
+	
+		TuTh / 10:30 AM-11:25 AM / 0POOL;TREES
+    Arielle Berman
+
+         For students who have learned the mechanics of basic aquatic strokes and are interested in the development of proper rhythm and timing necessary for good performance in swimming. Students are permitted to set their own achievement goals. Instruction is on an individual basis.
+
+          
+
+10118
+2174
+MATH
+2990
+Independent Study
+1 to 15 cr.
+	
+		 / - / 00301;THACK
+    Swigon,David
+
+         This course is for all graduate students not under the direct supervision of a specific faculty member. In addition to a student's formal course load, this study is for preparation for the preliminary, comprehensive and overview examinations. 
+
+          
+
+10119
+2174
+MATH
+3000
+Thesis Ph.D.
+1 to 15 cr.
+	
+		 / - / TBA;TBA
+    Swigon,David
+
+         This course is designed for PhD students working in their Dissertation research. 
+
+          
+
+10120
+2174
+PSY
+0310
+Developmental Psychology
+3 cr.
+	
+		TuTh / 01:00 PM-02:15 PM / 00G24;CL
+    Ganger,Jennifer Bess
+
+         This course will focus on the development of the child from birth to adolescence, the current theory and research concerning social, emotional, intellectual, perceptual and language development. The organization of the course will be topical, rather than age-based. Coverage is confined to normal development: what develops, how and why in the average child. Little attention to abnormal development.
+
+        PREQ: PSY 0010 or 0012 or 0015 or 0101 or 0200  
+
+10121
+2174
+MATH
+3902
+Directed Study
+1 to 9 cr.
+	
+		 / - / TBA;TBA
+    Swigon,David
+
+         This course is for students normally beyond their first year of graduate study who wish to study in an area not available in a formal course. The work must be under the direct supervision of a faculty member who has approved the proposed work in advance of registration. A brief description of the work should be recorded in the student's file in the department. 
+
+          
+
+10125
+2174
+PEDC
+0026
+Aquatic Conditioning
+1 cr.
+	
+		MoWe / 01:30 PM-02:25 PM / 0POOL;TREES
+    Ashley Broderick
+
+         Good swimmers who want to learn how to use swimming to maintain or improve their physical fitness should register for this course. Students may determine their capacity for exercise, and they may learn how to apply this effort in the water. 
+
+          
+
+10127
+2174
+MATH
+0031
+Algebra
+3 cr.
+A			
+		TuTh / 07:20 PM-08:35 PM / 0A719;PUBHL
+    
+
+         This course covers linear, quadratic, polynomial, rational, exponential and logarithmic functions. The instructor lectures three time each week and undergraduate teaching assistants lead problem solving recitation sessions once each week. This course serves as a prerequisite for Math 0120, Math 0200, and Math 0400. A graphing calculator is required. 
+
+          
+
+10129
+2174
+PHYS
+0111
+Introduction To Physics 2
+3 cr.
+NS			
+		TuTh / 06:00 PM-07:20 PM / 00104;THAW
+    Liu,Wensheng Vincent
+
+         This is the second term in a two-term lecture-demonstration sequence that presents the elements of both classical and modern physics. The emphasis of the course is on a clear understanding of the underlying principles rather than on mathematical formalism and problem-solving (although some attention is given to these aspects of physics). This course is appropriate for non-science majors, and for those majoring in the social, psychological and life sciences that do not need the more mathematically oriented course required of engineering and physical science students (Physics 0174,0175). The introductory laboratory course to be associated with this sequence is Physics 0212 (see below). Credit will not be given for both this sequence and the Physics 0174, 0175 sequence. Topics covered in the course include: kinetic theory; thermodynamics; electricity and magnetism (electrostatics to electromagnetic waves); geometrical and physical optics; relativity; quantum physics. 
+
+        PREQ: PHYS 0110 or 0174 or 0475; MIN GRAD: C for all listed Courses  
+
+10132
+2174
+PEDC
+0048
+Racquetball 1
+1 cr.
+	
+		MoWe / 02:30 PM-03:25 PM / ;TREES
+    Kevin Sciullo
+
+         This course is designed to introduce the beginner to the significant components of racquetball. Three types of racquetball games, singles, doubles, and cutthroat, will be introduced in conjunction with individual skill development. The grip, ready position, racquet swing, service, return of service, and shot making will be covered. Game strategies and rules and regulations will be reviewed. There is a $10 lab fee assessed for racquetballs. Eye protection is a must. No eye protection, no play! Each student must have his/her own racquet. 
+
+          
+
+10133
+2174
+PHYS
+0212
+Intro To Laboratory Physics
+2 cr.
+	
+		Mo / 09:00 AM-09:50 AM / 00104;THAW
+    Paolone,Vittorio
+
+         This is the introductory course in physics laboratory associated with Physics 0110 and 0111. The course involves carrying out experiments in mechanics, electricity, optics, atomic physics and radioactivity. The student then gets insight into the collection and interpretation of experimental data. A lab manual should be purchased from the University Book Center. Credit for Physics 0212 cannot be granted to students who are taking or have completed Physics 0175 or 0476. 
+
+        CREQ:  PHYS 0111 or 0175 or 0476  
+
+10136
+2174
+PHYS
+0212
+Intro To Laboratory Physics
+2 cr.
+	
+		Tu / 11:00 AM-11:50 AM / 00104;THAW
+    Paolone,Vittorio and Clark,Russell Johnson
+
+         This is the introductory course in physics laboratory associated with Physics 0110 and 0111. The course involves carrying out experiments in mechanics, electricity, optics, atomic physics and radioactivity. The student then gets insight into the collection and interpretation of experimental data. A lab manual should be purchased from the University Book Center. Credit for Physics 0212 cannot be granted to students who are taking or have completed Physics 0175 or 0476. 
+
+        CREQ:  PHYS 0111 or 0175 or 0476  
+
+10137
+2174
+PEDC
+0048
+Racquetball 1
+1 cr.
+	
+		TuTh / 02:30 PM-03:25 PM / ;TREES
+    Kevin Sciullo
+
+         This course is designed to introduce the beginner to the significant components of racquetball. Three types of racquetball games, singles, doubles, and cutthroat, will be introduced in conjunction with individual skill development. The grip, ready position, racquet swing, service, return of service, and shot making will be covered. Game strategies and rules and regulations will be reviewed. There is a $10 lab fee assessed for racquetballs. Eye protection is a must. No eye protection, no play! Each student must have his/her own racquet. 
+
+          
+
+10141
+2174
+MATH
+0120
+Business Calculus
+4 cr.
+AQ				
+		MoWe / 06:00 PM-07:15 PM / 00G31;BENDM
+    
+
+         This course is designed for students in business, economics, and other social sciences. It introduces the basic concepts of limits, continuity, differentiation, integration, maximization, minimization and partial derivatives. The Calculus of Trigonometric Functions is NOT covered. Applications to the social sciences, especially business and economics, are stressed. To enroll in this course, you must have a grade of C or better in Math 0031 taken at the University of Pittsurgh or a minimum placement score as indicated below. 
+
+        PREQ: MATH 0020 or 0031 (MIN GRADE C) or MATH PLACEMENT SCORE (61 or GREATER)  
+
+10143
+2174
+PHYS
+0219
+Basic Lab Phys Science & Engrg
+2 cr.
+	
+		Mo / 03:00 PM-03:50 PM / 00102;THAW
+    Clark,Russell Johnson
+
+         This is the introductory course in physics laboratory associated with Physics 0174, 0175. The course involves carrying out experiments in mechanics, electricity, heat, sound, optics, atomic physics, nuclear physics, and quantum physics. The student then gets insight into the collection, interpretation and presentation of experimental data and into the assessment of errors. A lab manual should be purchased from the University Book Center. Credit will not be given for both Physics 0219 and Physics 0212. 
+
+        CREQ: PHYS 0175 or 0476  
+
+10145
+2174
+MATH
+0220
+Analytc Geometry & Calculus 1
+4 cr.
+AQ				
+		MoWe / 06:00 PM-07:15 PM / 00G29;BENDM
+    
+
+         This is the first course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0220 covers the derivative and integral of functions of a single variable. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information refer to the web page http://calculus.math.pitt.edu. 
+
+        PREQ: MATH 0032 (MIN GRADE C) or MATH 0200 (MIN GRADE C) or MATH PLACEMENT SCORE (76 or GREATER)  
+
+10147
+2174
+PHYS
+1311
+Undergraduate Seminar
+1 cr.
+	
+		We / 12:00 PM-12:50 PM / 00106;ALLEN
+    Savinov,Vladimir
+
+         Undergraduate Seminar exposes the students to various aspects of being a physicist, a scientist and a responsible educated citizen in ways that academic classes do not teach. A variety of topics representing a wide cross section of recent discoveries in physics and related areas of natural sciences, history of scientific progress, outstanding scientists of the past and present, the role of science in society and many other themes are discussed. Students present reports on topics of their choice and moderate the discussions that follow. The Seminar aims to teach the culture of searching for new scientific information, to distinguish between good science and bad science, to apply analytical approach to obtained information, to boost one's confidence and speaking abilities when making public presentations and to help one learn how to be critical of oneself and how to identify one's weak spots. Students prepare posters for the Spring Undergraduate Research Fair.
+
+        PREQ: PHYS 1310  
+
+10148
+2174
+PHYS
+0476
+Intro Phys Science & Engrg 2
+4 cr.
+NS			
+		MoWeFr / 11:00 AM-11:50 AM / 00104;THAW
+    Kosowsky,Arthur B
+
+         This is the second term of a two term Honors College introductory demonstration-lecture course in physics. The calculus is used in this course and the syllabus is essentially the same as Physics 0175. However, the scope of Physics 0476 is broader than that of Physics 0175 and subjects are covered in greater depth. Approximately half the term is spent on classical electricity and magnetism. Other topics include Einstein's special theory of relativity and introduction to modern physics and quantum phenomena. Three hours each week are devoted to lecture-demonstration and two hours to discussion and application to problem solving. This course is especially suitable for physical science majors, engineers, or any student who seeks an in-depth treatment of introductory physics in a calculus-based course. 
+
+        PREQ: [PHYS 0174 (MIN GRADE   
+
+10150
+2174
+PHYS
+1902
+Directed Reading
+1 to 9 cr.
+	
+		 / - / 00100;ALLEN
+    
+
+         A description is not available at this time.
+
+          
+
+10151
+2174
+PHYS
+1903
+Directed Research
+1 to 9 cr.
+	
+		 / - / TBA;TBA
+    
+
+         A description is not available at this time.
+
+          
+
+10152
+2174
+MATH
+0230
+Analytc Geometry & Calculus 2
+4 cr.
+AQ				
+		TuTh / 07:30 PM-08:45 PM / 00704;THACK
+    
+
+         This is the second course in the basic calculus sequence and is intended for all mathematics, engineering, science, and statistics students. Math 0230 covers symbolic and numerical integration techniques and applications, modeling, differential equations, and Taylor series. A lab component in which students apply numeric, algebraic, and graphing technologies to calculus problems is an integral part of the course. For addition information, refer to the web page http://calculus.math.pitt.edu. 
+
+        PREQ: MATH 0220; MIN GRADE: C  
+
+10153
+2174
+PHYS
+1901
+Independent Study
+1 to 9 cr.
+	
+		 / - / 00100;ALLEN
+    
+
+         A description is not available at this time.
+
+          
+
+10154
+2174
+PHYS
+1900
+Internship
+1 to 9 cr.
+	
+		 / - / 00100;ALLEN
+    
+
+         A description is not available at this time.
+
+          
+
+10155
+2174
+MATH
+0240
+Analytc Geometry & Calculus 3
+4 cr.
+AQ				
+		MoWeFr / 10:00 AM-10:50 AM / 00G29;BENDM
+    
+
+         Math 0240 is the third course in the calculus sequence and is intended for honors students majoring in mathematics, engineering, science and statistics. It covers vectors, parameterized curves and surfaces, differentiation of functions of several variables, optimization, integration of functions of two and three variables, line integrals, flux integrals, and calculus of vector fields. The one letter grade rule applies if there is a common final exam. 
+
+        PREQ: MATH 0230 or 0235; MIN GRADE: C  
+
+10156
+2174
+PHYS
+1426
+Modern Physics Laboratory
+2 cr.
+	
+		Th / 11:00 AM-11:50 AM / 00106;ALLEN
+    D'Urso,Brian R
+
+         This course is intended to introduce advanced undergraduate students to modern physics experiments in a realistic research environment. Since the course requires a small number of experiments, each can be done with significantly more depth than normal undergraduate labs. Although there is a standard set of experiments and measurements, individual initiative from the students is encouraged. Recent projects include optics studies with a laser, radioactivity analysis, Mossbauer effect, study of scintillator properties with cosmic rays, Stern-Gerlach effect, atomic physics of the laser, pulsed nuclear magnetic resonance, and study of onset of chaos effects in a resonant circuit. Modern experimental techniques are emphasized, including the use of high vacuum technology, modern particle detectors, and small computers. A weekly lecture covers the physics of various experiments, the proper treatment of data, and related topics. In its 3-credit version (1626), this course qualifies as a W-course. The additional work associated with the extra credit is to be devoted entirely to a more comprehensive report writing. Students are expected to engage in substantive revision of their reports in response to the instructor's criticisms of the quality of the writing. The minimum amount of writing must reach a total of 20-24 pages for the term. 
+
+        PREQ: PHYS 0525 and (0477 or 0479)  
+
+10158
+2174
+PSY
+1900
+Supervised Field Placement
+1 to 6 cr.
+	
+		 / - / TBA;TBA
+    Streeter,Sybil Anne
+
+         Psychology majors may receive up to 3 credits for field experience in several approved supervised agencies in the community. A Learning Agreement must be signed by the placement site supervisor before registering for this course. This course is graded on a satisfactory/audit basis only. Requirements: A journal and two site evaluations. A listing of approved sites, guidelines and the Learning Agreement are available in the Psychology Advisory Office. ONLY 3 CREDITS OF PSY 1900, 1902, AND 1903 CAN COUNT TOWARD A MAJOR IN PSYCHOLOGY.
+
+        PROG: Psychology (BS); LEVEL: Junior or Senior  
+
+10159
+2174
+PSY
+1902
+Directed Individual Reading
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Streeter,Sybil Anne
+
+         Under special circumstances, Psychology majors can design an individual reading course with a faculty member of the Psychology Department. A final paper is required in this course which may be taken either for a letter grade or for credit only. Permission of the supervising faculty is required before registering for this course. Guidelines and the Learning Agreement are available in the Psychology Advising Office. ONLY 3 credits of PSY 1902, 1903, and 1900 can count toward the psychology major.
+
+          
+
+10160
+2174
+PHYS
+1341
+Thermdynmc & Statiscal Mechanc
+3 cr.
+	
+		TuTh / 09:30 AM-10:45 AM / 00102;THAW
+    Savinov,Vladimir
+
+         The basic concepts of equilibrium thermodynamics and statistical mechanics will be presented and used to provide an understanding of the thermal properties of macroscopic systems. The connection between the large scale macroscopic description of matter in bulk and the atomic scale statistical description will be stressed. Specific topics will include: (1) The first and second laws of thermodynamics, (2) Equilibrium thermodynamics and the meanings and relationships among heat, work, energy, entropy and free energy, (3) The microscopic, statistical interpretation of entropy connecting microscopic and macroscopic descriptions, and (4) Ensembles and related partition functions. There will be numerous examples of the application of thermodynamics and of statistical physics, including: (1) Heat engines, (2) thermal properties of molecular gases, solids and liquids, (3) thermal properties of simple magnetic systems, (4) quantum (Fermi-Dirac and Bose) statistics with applications to electrons and phonons in solids, special types of stars, photons and quantum liquids.
+
+        PREQ: (PHYS 0477 or 0479) and MATH 0240 and (MATH 0290 or 1270); MIN GRAD: C for all listed Courses  
+
+10161
+2174
+PSY
+1903
+Directed Individual Research
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Streeter,Sybil Anne
+
+         This course provides a hands-on opportunity for students to learn about psychological research. By working with faculty and graduate students in approved laboratories, students will gain exposure to various aspects of the research process, such as data collection, data entry, and poster presentations. This course is particularly valuable for students interested in graduate study in psychology. This course is graded on a satisfactory/audit basis only. Requirements: A research paper and two evaluations of the experience. A listing of current opportunities, guidelines, and the Learning Agreement are available in the Psychology Advising Office. ONLY 3 CREDITS OF PSY 1900, 1902, AND 1903 CAN COUNT TOWARD A MAJOR IN PSYCHOLOGY. 
+
+          
+
+10162
+2174
+PHYS
+1371
+Intro To Quantum Mechanics 2
+3 cr.
+	
+		MoWeFr / 11:00 AM-11:50 AM / 00102;THAW
+    Pekker,David
+
+         Physics 1371 will be a continuation of the material covered in Physics 1370 with special emphasis on applications of quantum mechanics. Topics to be covered are: multi-particle systems, time-independent perturbation theory and its application to the fine-structure and hyperfine structure of atoms, time-dependent perturbation theory and its application to the absorption and emission of light, and other approximation methods.
+
+        PREQ: PHYS 1370; MIN GRAD: C  
+
+10163
+2174
+PSY
+2000
+Research And Thesis Ms Degree
+1 to 9 cr.
+	
+		 / - / TBA;TBA
+    Fiez,Julie A and Halechko,Anna D
+
+         Students who are planning, conducting or completing the Masters Thesis may register for this course. The course receives a grade of "I" until the thesis is completed and approved.
+
+        PLAN: Psychology (PHD)  
+
+10164
+2174
+PHYS
+2000
+Research And Thesis Ms Degree
+1 to 15 cr.
+	
+		 / - / 00100;ALLEN
+    
+
+         A description is not available at this time.
+
+          
+
+10165
+2174
+PHYS
+2566
+Non-Relativstc Quntm Mechanc 2
+3 cr.
+	
+		MoWeFr / 11:00 AM-11:50 AM / 00106;ALLEN
+    Han,Tao
+
+         The second term of this course applies the previously developed ideas and techniques of quantum mechanics to more complicated systems. Time-independent and -dependent perturbation theories are developed and applied. Formal scattering theory and approximation methods are presented. Applications are expected to include the interaction of electromagnetic radiation with matter; resonance scattering and bound states; identical particles and an introduction to introduction to second quantization; and if time and other considerations permit, a brief introduction to relativistic quantum mechanics. 
+
+          
+
+10166
+2174
+PHYS
+2990
+Independent Study
+1 to 9 cr.
+	
+		 / - / 00100;ALLEN
+    
+
+         A description is not available at this time.
+
+          
+
+10167
+2174
+PHYS
+3000
+Research And Dissertation Phd
+1 to 15 cr.
+	
+		 / - / 00100;ALLEN
+    Leibovich,Adam Keith and Paolone,Vittorio and Slogan,Michele F
+
+         A description is not available at this time.
+
+          
+
+10168
+2174
+PHYS
+3903
+Directed Study
+1 to 15 cr.
+	
+		 / - / 00100;ALLEN
+    Naples,Donna Lynne and Devaty,Robert P and Savinov,Vladimir
+
+         A description is not available at this time.
+
+          
+
+10169
+2174
+PHYS
+2998
+Teaching Of Physics-Practicum
+1 to 2 cr.
+	
+		 / - / 00100;ALLEN
+    Leibovich,Adam Keith and Slogan,Michele F
+
+         A description is not available at this time.
+
+          
+
+10170
+2174
+PEDC
+0090
+Varsity Sports 1
+1 cr.
+	
+		 / - / 00140;TREES
+    Kevin J McLaughlin
+
+         Students may earn 4 credits in Physical Education by participation in a varsity sport--ONE CREDIT ONLY PER TERM. Credit will be granted only to those students who register for PEDC 0090, 0091, 0153, OR 0154. Special Enrollment Counseling is required for registration. You can obtain special permission from your A&S advisor. 
+
+        STDNT GRP: Student Athlete or Cheer / Dance  
+
+10171
+2174
+PSY
+2225
+Externship Practicum
+1 to 6 cr.
+	
+		 / - / TBA;TBA
+    Koffmann,Andrew
+
+         This graduate course involves supervised experience approved by the Clinical Psychology Center in interviewing, assessment and psychotherapy at any of several specialty clinics in the University and community.
+
+        PLAN: Psychology (PHD)  
+
+10172
+2174
+PSY
+2990
+Independent Study
+1 to 9 cr.
+	
+		 / - / TBA;TBA
+    Halechko,Anna D and Fiez,Julie A
+
+         Independent research project developed under the supervision of a faculty advisor.
+
+        PLAN: Psychology (PHD)  
+
+10173
+2174
+PEDC
+0091
+Varsity Sports 2
+1 cr.
+	
+		 / - / 00140;TREES
+    Kevin J McLaughlin
+
+         Students may earn 4 credits in Physical Education by participation in a varsity sport--ONE CREDIT ONLY PER TERM. Credit will be granted only to those students who register for PEDC 0090, 0091, 0153, OR 0154. Special Enrollment Counseling is required for registration. You can obtain special permission from your A&S advisor. 
+
+        PREQ: PEDC 0090; STDNT GRP: Student Athlete or Cheer / Dance  
+
+10174
+2174
+PSY
+3000
+Research And Dissertation Phd
+1 to 9 cr.
+	
+		 / - / TBA;TBA
+    Fiez,Julie A and Halechko,Anna D
+
+         Planning and execution of doctoral-level research and dissertation. 
+
+        PLAN: Psychology (PHD)  
+
+10175
+2174
+PEDC
+0001
+Beginning Swimming
+1 cr.
+	
+		TuTh / 07:30 PM-08:25 PM / 0POOL;TREES
+    Bryson Custer
+
+         For students who are unable to swim or who can swim very little. Opportunities are presented to learn basic functional aquatic skills and basic strokes. Students are permitted to set their own achievement goals. Instruction is on an individual basis.
+
+          
+
+10176
+2174
+PSY
+3902
+Directed Study
+1 to 9 cr.
+	
+		 / - / TBA;TBA
+    Fiez,Julie A and Halechko,Anna D
+
+         Specific research topics carried out under the direction of a particular member of the faculty. 
+
+        PLAN: Psychology (PHD)  
+
+10177
+2174
+PEDC
+0002
+Intermediate Swimming
+1 cr.
+	
+		TuTh / 07:30 PM-08:25 PM / 0POOL;TREES
+    Andrew Kubala
+
+         For students who have learned the mechanics of basic aquatic strokes and are interested in the development of proper rhythm and timing necessary for good performance in swimming. Students are permitted to set their own achievement goals. Instruction is on an individual basis.
+
+          
+
+10178
+2174
+PSY
+0160
+Psychology Of Personality
+3 cr.
+SS			
+		Th / 06:00 PM-08:30 PM / 00332;CL
+    
+
+         This course will analyze psychoanalytic, dispositional, phenomenological, and behavioral approaches to the study of personality. For each approach, theories, assessment techniques, and research findings will be discussed. Scores on four short-answer examinations determine students' grades.
+
+        PREQ: PSY 0010 or 0012 or 0015 or 0101 or 0200  
+
+10179
+2174
+PHYS
+0212
+Intro To Laboratory Physics
+2 cr.
+	
+		Mo / 06:00 PM-06:50 PM / 00102;THAW
+    Paolone,Vittorio and Clark,Russell Johnson
+
+         This is the introductory course in physics laboratory associated with Physics 0110 and 0111. The course involves carrying out experiments in mechanics, electricity, optics, atomic physics and radioactivity. The student then gets insight into the collection and interpretation of experimental data. A lab manual should be purchased from the University Book Center. Credit for Physics 0212 cannot be granted to students who are taking or have completed Physics 0175 or 0476. 
+
+        CREQ:  PHYS 0111 or 0175 or 0476  
+
+10181
+2174
+REL
+2990
+Independent Study-Ma Level
+1 to 9 cr.
+	
+		 / - / 02604;CL
+    Chilson,Clark Van Doren
+
+         Open to MA students preparing for the comprehensive examination or in the early stages of thesis research.
+
+          
+
+10182
+2174
+REL
+3000
+Dissertation Research-Ph.D.
+1 to 9 cr.
+	
+		 / - / 02604;CL
+    Kane,Paula M
+
+         Open to PhD candidates in the late stages of researching and writing the dissertation. 
+
+          
+
+10183
+2174
+PS
+1000
+Honors Thesis-Majors
+3 cr.
+	
+		 / - / 04600;WWPH
+    Long,Meridith T and Lotz,Andrew Louis
+
+         Students prepare a thesis, under guidance of a faculty advisor, which is read and evaluated by a committee of three faculty members.
+
+          
+
+10184
+2174
+PS
+1903
+Directed Research
+1 to 6 cr.
+	
+		 / - / 04600;WWPH
+    Goodhart,Michael E and Dristas,Veronica M
+
+         TBD
+
+          
+
+10185
+2174
+PS
+1901
+Independent Study
+1 to 6 cr.
+	
+		 / - / 04600;WWPH
+    Long,Meridith T and Lotz,Andrew Louis
+
+         Student undertakes, under specified conditions, an independent program of study, research or creative activity usually off-campus and with less immediate and frequent guidance from the sponsoring faculty member(s) than is typically provided in Directed Reading and Directed Research courses. 
+
+          
+
+10186
+2174
+PS
+2903
+Directed Research
+3 cr.
+	
+		 / - / 04600;WWPH
+    Panayides, Daniela Donno
+
+         This course allows a student to develop a research topic and a plan of analysis over the course of a term. 
+
+        PLAN: Political Science (MA or PhD)  
+
+10187
+2174
+PS
+2990
+Independent Study
+1 to 6 cr.
+	
+		 / - / 04600;WWPH
+    Panayides, Daniela Donno
+
+         This course is for students who are preparing for comprehensive examinations or who are undertaking other forms of study not requiring the direct supervision of a faculty member. 
+
+        PLAN: Political Science (MA or PhD)  
+
+10188
+2174
+RUSS
+0020
+Elementary Russian 2
+5 cr.
+L			
+		MoTuWeThFr / 10:00 AM-10:50 AM / 02318;CLMoTuWeThFr / 10:00 AM-10:50 AM / 02318 CL
+    McCausland, Gerald Matthew
+
+         This is a four-skills (listening, speaking, reading, writing) practical introduction to the Russian language, second semester, first year. Students must have taken Russian 0010 or receive permission of either the instructor or the department language coordinator (412-624-5906). Students must register for the lecture sections (twice a week) and for one recitation section (which meets three times a week). The former are devoted to explanation, primarily in English, of Russian grammar vocabulary. The latter, conducted entirely in Russian, are devoted to practicing the knowledge acquired from the lectures and textbook. 
+
+          
+
+10189
+2174
+PS
+3000
+Research And Dissertation Phd
+1 to 12 cr.
+	
+		 / - / 04600;WWPH
+    Panayides, Daniela Donno
+
+         This course is for students who have passed their dissertation overview and are currently working on their Ph.D. dissertation. Students receive an "I" grade until the dissertation is completed and successfully defended.
+
+          
+
+10190
+2174
+RUSS
+0040
+Intermediate Russian 2
+5 cr.
+	
+		MoTuWeThFr / 12:00 PM-12:50 PM / 00235;CLMoTuWeThFr / 12:00 PM-12:50 PM / 00235 CL
+     Gray, Richard Beach
+
+         This is a four-skills (listening, speaking, reading, writing) practical introduction to the Russian language, second semester, second year. Students must have taken Russian 0030 or receive permission of either the instructor or the department language coordinator (412-624-5906). Students must register for the lecture sections (twice a week) and for one recitation section (which meets three times a week). The former are devoted to explanation, primarily in English, of Russian grammar vocabulary. The latter, conducted entirely in Russian, are devoted to practicing the knowledge acquired from the lectures and textbook. 
+
+          
+
+10191
+2174
+RUSS
+0410
+Advanced Russian 2
+3 cr.
+	
+		MoWeFr / 12:00 PM-12:50 PM / 02321;CLMoWeFr / 12:00 PM-12:50 PM / 02321 CL
+    Duraskovic, Ljiljana
+
+         This course is a systematic review of Russian grammar and phraseology, which develops the student’s vocabulary, grammar, and communicative competence. It is a third-year, second semester course for which Russ 0400 or its equivalent is required.
+
+          
+
+10192
+2174
+RUSS
+0810
+Masterpieces 20thc Russian Lit
+3 cr.
+EXIFNREGW				
+		TuTh / 01:00 PM-02:15 PM / 00129;CLTuTh / 01:00 PM-02:15 PM / 00129 CL
+    Ryabchikova,  Natalia Sergeevna
+
+         This survey will follow the same format as Russian 0800, except that the readings will focus on four major twentieth century writers: Bely (Petersburg), Pasternak (Dr. Zhivago), Babel (Red Calvary), and Solzhenitsyn (Ivan Denisovich). Stories of more contemporary writers will also be read, including Bitov, Trifonov, Iskander, Sinyavsky, Petrushevskaya, Tolstaya, Shukshin, and Voinovich, depending on availability. Emphasis will be placed on the variety of prose narratives popular in the twentieth century, and on the emergence of new problems and perspectives and their expression in the twentieth century. This course is offered both as a sequel of Russian 0800 and as a separate course. It will presume some knowledge of literary styles, forms and devices which were discussed in Russian 0800, or in another equivalent literature course. A course in Russian or Soviet history is recommended, though not required. Students will be expected to revise their papers. 
+
+          
+
+10193
+2174
+RUSS
+1901
+Independent Study
+1 to 6 cr.
+	
+		 / - / TBA;TBA
+    
+
+         A description is not available at this time.
+
+          
+
+10194
+2174
+POLISH
+0020
+Elementary Polish 2
+3 cr.
+L			
+		MoWeFr / 12:00 PM-12:50 PM / 00329;CLMoWeFr / 12:00 PM-12:50 PM / 00329 CL
+    Swan,Oscar
+
+         This course is a continuation of Polish 0010. By the end of the first year, the student has a good grasp of Polish grammar and the solid beginnings of conversational ability.
+
+          
+
+10195
+2174
+POLISH
+0040
+Intermediate Polish 4
+3 cr.
+	
+		MoWe / 04:00 PM-05:15 PM / 00126;CLMoWe / 04:00 PM-05:15 PM / 00126 CL
+    Swan,Oscar
+
+         Along with a general review of Polish grammar, this course introduces the student to light reading and conversational Polish at the intermediate level.
+
+          
+
+10196
+2174
+RUSS
+2990
+Independent Study
+1 to 9 cr.
+	
+		 / - / TBA;TBA
+    
+
+         A description is not available at this time.
+
+          
+
+10197
+2174
+POLISH
+1901
+Independent Study
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Swan,Oscar
+
+         .
+
+          
+
+10199
+2174
+SPAN
+0002
+Elementary Spanish 2
+5 cr.
+L			
+		MoTuWeThFr / 12:00 PM-12:50 PM / 00253;CL
+    Velasco, Trujillo
+
+         A continuation of Spanish 0001, the course builds on the skills acquired in the first course as students continue to develop their communicative language skills in Spanish.  Note:  Before registering for this course, students must have completed SPAN 0001 with a grade of C- or better.
+
+          
+
+10200
+2174
+SPAN
+0002
+Elementary Spanish 2
+5 cr.
+L			
+		MoTuWeThFr / 01:00 PM-01:50 PM / 00318;CL
+    Ortiz, Magnolia
+
+         A continuation of Spanish 0001, the course builds on the skills acquired in the first course as students continue to develop their communicative language skills in Spanish.  Note:  Before registering for this course, students must have completed SPAN 0001 with a grade of C- or better.
+
+          
+
+10201
+2174
+SPAN
+0003
+Intermediate Spanish 3
+3 cr.
+L			
+		MoWeFr / 11:00 AM-11:50 AM / 00227;CL
+    Wong, Isabel
+
+         The course builds on the skills acquired during the elementary sequence.  It includes a functional review of the basic language structures and introduces more complex structures.  The course has a strong cultural component.
+
+          
+
+10202
+2174
+SPAN
+1902
+Directed Study
+1 to 6 cr.
+	
+		 / - / 01309;CL
+    Lamana,Gonzalo
+
+         Students should consult a depaartmental advisor before registering for this course.
+
+          
+
+10203
+2174
+SPAN
+2902
+Ma Directed Study
+1 to 3 cr.
+	
+		 / - / 01309;CL
+    Lamana,Gonzalo
+
+         Students should consult with departmental advisor before registering for this course.
+
+          
+
+10204
+2174
+SPAN
+2990
+Ma Comprehensive Independent
+1 to 3 cr.
+	
+		 / - / 01309;CL
+    Lamana,Gonzalo
+
+         Students should consult with departmental advisor before registering for this course.
+
+          
+
+10205
+2174
+SPAN
+3000
+Phd Dissertation
+1 to 12 cr.
+	
+		 / - / 01309;CL
+    
+
+         Students should consult with departmental advisor before registering for this course.
+
+          
+
+10206
+2174
+SPAN
+3902
+Phd Directed Study
+1 to 3 cr.
+	
+		 / - / 01309;CL
+    Lamana,Gonzalo
+
+         Students should consult with departmental advisor before registering for this course. SPEN-designated courses require special enrollment counseling. Check with your advisor.
+
+          
+
+10207
+2174
+SPAN
+3990
+Phd Independent Study
+1 to 3 cr.
+	
+		 / - / 01309;CL
+    Lamana,Gonzalo
+
+         Students should consult departmental advisor before registering for this course.
+
+          
+
+10208
+2174
+STAT
+2132
+Applied Statistical Methods 2
+3 cr.
+	
+		TuTh / 01:00 PM-02:15 PM / 00207;LAWRN
+    
+
+         This course is a continuation of Stat 2131.
+
+        PREQ: STAT 2131  
+
+10209
+2174
+URBNST
+1500
+Urban Research Seminar
+3 cr.
+W	
+		TuTh / 01:00 PM-02:15 PM / 05404;WWPH
+    Glass,Michael Roy
+
+         This research seminar enables students to engage in a semester-length project to analyze an aspect of urbanism in an international city—the empirical focus this semester will be on capital cities in Southeast Asia.  Students are expected to draw from the skills they have assembled in Urban Studies and other courses to develop and conduct research on these important cities.  The writing-intensive course will include lectures exploring Southeast Asian urbanization, and workshops on developing the necessary research skills to implement research on distant cities.  Participants will become familiar with the conditions and challenges facing contemporary Southeast Asian cities, and with the extent to which comparative analysis is possible between this set of cities.  
+
+        PREQ: URBNST 0080 and 1300PLAN: Urban Studies (BA or BPH)  
+
+10210
+2174
+URBNST
+1900
+Urban Field Placement
+3 to 6 cr.
+	
+		 / - / TBA;TBA
+    Glass,Michael Roy
+
+         This course gives the Urban Studies major the opportunity to get off of the campus and in the community. It allows the student to relate his/her academic training to a real world situation by working in an urban related organization or agency. Prior to the term in which the field placement is taken the student and the Urban Studies adviser plan a placement that is best suited to the student’s talents and interests. During the placement the student works an established number of hours per week (9 hrs. for 3 credits and 15 hrs. for 6 credits) under the combined supervision of the agency or organization personnel and the Urban Studies adviser. For permission to register, go to 3500 WWPH.
+
+        PLAN: Urban Studies (BA or BPH)  
+
+10211
+2174
+GSWS
+1901
+Independent Study
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Cohen,Frayda N
+
+         .
+
+          
+
+10212
+2174
+GSWS
+1900
+Internship
+3 cr.
+	
+		 / - / TBA;TBA
+    Cohen,Frayda N
+
+         .
+
+          
+
+10213
+2174
+GSWS
+2902
+Directed Study
+3 cr.
+	
+		 / - / TBA;TBA
+    Reeser,Todd W
+
+         A description is not available at this time.
+
+          
+
+10214
+2174
+THEA
+0830
+Introduction To Performance
+3 cr.
+EX			
+		MoWeFr / 11:00 AM-11:50 AM / 00B16;CL
+    
+
+         This course is designed to develop the students' awareness of the actor's process and to foster a general sense of theatre as an area of human endeavor. Students will be introduced to basic communication skills, including physical and vocal presence in front of an audience. The course will also develop an introductory level of acting skill through the use of regular warm-ups, theater games, improvisation, and simple scene study. The class will culminate in the performance of a final scene. Scenes will be selected from a diverse range of playwrights and students will examine the political, cultural and social context of each play. The course will also provide an introduction to basic theater terminology, and foster the ability to respond to and reflect on theatrical performances.
+
+          
+
+10216
+2174
+THEA
+0830
+Introduction To Performance
+3 cr.
+EX			
+		Mo / 06:00 PM-08:30 PM / 00B16;CL
+    
+
+         This course is designed to develop the students' awareness of the actor's process and to foster a general sense of theatre as an area of human endeavor. Students will be introduced to basic communication skills, including physical and vocal presence in front of an audience. The course will also develop an introductory level of acting skill through the use of regular warm-ups, theater games, improvisation, and simple scene study. The class will culminate in the performance of a final scene. Scenes will be selected from a diverse range of playwrights and students will examine the political, cultural and social context of each play. The course will also provide an introduction to basic theater terminology, and foster the ability to respond to and reflect on theatrical performances.
+
+          
+
+10217
+2174
+THEA
+0880
+Theatrical Production
+1 cr.
+	
+		 / - / 01617;CL
+    Downs,Gian P and Bohach,John-Michael
+
+         A practical application course which gives the student hands-on experience in university theatre productions in one or more of the following areas: scenery/props, costume, lighting, sound, and/or stage management. The goal is to expand the student's knowledge and understanding of production processes through team participation in the presenting of a full production. A student must complete at least 45 hours of work in an assigned area to receive 1 credit. Students must usher for 2 performances during the semester enrolled. Note: this course is offered by appointment.
+
+          
+
+10218
+2174
+THEA
+1481
+Directed Project Cstume/Makeup
+1 to 3 cr.
+	
+		 / - / 01617;CL
+    Gilmer,Karen J
+
+         Students will work directly with the Costume Faculty and Staff on Department Productions on either theoretical or practical projects. 
+
+          
+
+10219
+2174
+THEA
+1482
+Dircted Project Lighting/Sound
+1 to 3 cr.
+	
+		 / - / 01617;CL
+    Duggan,Annmarie
+
+         Students will work directly with the Lighting/Sound Faculty and Staff on Department Productions on either theoretical or practical projects.
+
+          
+
+10220
+2174
+SA
+1900
+Internship
+1 to 6 cr.
+	
+		 / - / 00118;FKART
+    Jenkins,Delanie C
+
+         A Studio Arts Internship is an elective that provides SA majors an opportunity to gain experience working in professional/art-related fields outside of the classroom. Internship candidates must select, contact, and meet with a prospective external Internship Sponsor prior to registration, providing the Sponsor with an Internship Agreement/Contract. The sponsor must complete and sign this contract, which will describe the nature of the internship, specific duties, and work hours. SA 1900 Internship Agreements/Contracts are available in the SA Department Office, Room 118 FKART. Internship candidates must submit a completed Internship Agreements/Contract to the SA Department Chair for special permission prior to registration for the class, and for departmental approval. An SA Internship requires 12-15 hours of weekly work per 3-credits. All Interns must complete an Academic Component requirement as part of the Internship. For SA Internships, this component consists of a day-by-day journal documenting internship activities, in addition to a final 3-5 page paper narrative summary of the overall internship experience, submitted to 118 FKART (deadline for submission of the journal and paper is determined by the department, and becomes part of the Internship Agreement/Contract). PREQ: Minimum of 30 credits already earned in Studio Arts prior to registration.</b></td>
+
+          
+
+10221
+2174
+THEA
+1483
+Dircted Project Dircting/Perf
+1 to 3 cr.
+	
+		 / - / 01617;CL
+    Croot,Cynthia A
+
+         Students will work directly with the Performance Faculty and Staff on Department Productions on either theoretical or practical projects.
+
+          
+
+10222
+2174
+THEA
+1488
+Theatre Production
+1 to 3 cr.
+	
+		 / - / 01617;CL
+    Duggan,Annmarie and Downs,Gian P
+
+         This course will entail participation in the Theatre Arts Department's productions in one of several categories for upper classman and graduate students.
+
+          
+
+10223
+2174
+THEA
+1900
+Independent Study
+1 to 6 cr.
+	
+		 / - / 01617;CL
+    Duggan,Annmarie
+
+         The content of the course will be decided between teacher and student.
+
+          
+
+10224
+2174
+THEA
+1901
+Internship
+1 to 6 cr.
+	
+		 / - / 01617;CL
+    Duggan,Annmarie
+
+         The terms of the internship is to be agreed upon between the teacher and student once an approved position has been secured by the student.
+
+          
+
+10225
+2174
+THEA
+2000
+Research & Thesis Mastr'S Degr
+1 to 12 cr.
+	
+		 / - / 01617;CL
+    Schebetta,Dennis C
+
+         Individual research designed by the MA student in connection with his or her thesis.
+
+          
+
+10226
+2174
+THEA
+2990
+Independent Study
+1 to 12 cr.
+	
+		 / - / 01617;CL
+    Duggan,Annmarie
+
+         The terms of the student’s independent study will be agreed upon by the instructor and the student. 
+
+          
+
+10227
+2174
+THEA
+3000
+Dissertation Research Phd Degr
+1 to 12 cr.
+	
+		 / - / 01617;CL
+    Duggan,Annmarie
+
+         Individual research designed by the PhD student in connection with his or her dissertation.
+
+          
+
+10228
+2174
+SLAV
+1901
+Independent Study
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Metil,Robert C
+
+         A description is not available at this time.
+
+          
+
+10229
+2174
+SLAV
+2902
+Directed Study
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Duraskovic,Ljiljana
+
+         A description is not available at this time.
+
+          
+
+10230
+2174
+SLAV
+2990
+Independent Study
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Swan,Oscar
+
+         A description is not available at this time.
+
+          
+
+10231
+2174
+SLAV
+3000
+Research And Dissertation Phd
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    
+
+         A description is not available at this time.
+
+          
+
+10232
+2174
+THEA
+2150
+Directed Study-Acting
+1 to 3 cr.
+	
+		 / - / 01617;CL
+    Duggan,Annmarie
+
+         Course content to be decided between teacher and student.
+
+          
+
+10233
+2174
+SLAV
+3902
+Directed Study
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Condee,Nancy
+
+         A description is not available at this time.
+
+          
+
+10234
+2174
+SLOVAK
+0020
+Elementary Slovak 2
+3 cr.
+L			
+		MoWe / 06:00 PM-07:15 PM / 00314;CLMoWe / 06:00 PM-07:15 PM / 00314 CL
+    Votruba,Martin
+
+         In beginning Slovak, the student develops elementary communicative competence in the Slovak language, with emphasis on correct communication.
+
+          
+
+10235
+2174
+SLOVAK
+0040
+Intermediate Slovak 4
+3 cr.
+	
+		TuTh / 06:00 PM-07:15 PM / 00314;CLTuTh / 06:00 PM-07:15 PM / 00314 CL
+    Votruba,Martin
+
+         This course is a continuation of Slovak 0030. It is the second semester of second-year Slovak language.
+
+          
+
+10236
+2174
+SLOVAK
+1901
+Independent Study
+1 to 3 cr.
+	
+		 / - / TBA;TBA
+    Votruba,Martin
+
+         .
+
+          
+
+10237
+2174
+SLOVAK
+0410
+Advanced Slovak 2
+3 cr.
+	
+		 / - / TBA;TBA
+    Votruba,Martin
+
+         This course is continuation of Slovak 0400. It is a second semester third-year course in Slovak language. 
+
+          
+
+10239
+2174
+SOC
+0230
+Social Research Methods
+3 cr.
+	
+		TuTh / 09:30 AM-10:45 AM / 02200;WWPH
+    Bloom,Joshua
+
+         Students begin to learn to do social research in this course.  They learn how to define an appropriate problem, select an appropriate method, collect and analyze data, discuss their results, and draw conclusions.  Students study both quantitative and qualitative methods.
+
+          
+
+10240
+2174
+SOC
+1902
+Directed Reading
+1 to 6 cr.
+	
+		 / - / 02400;WWPH
+    Romesberg,Daniel R
+
+         A description is not available at this time.
+
+          
+
+10241
+2174
+SOC
+1903
+Directed Research
+1 to 6 cr.
+	
+		 / - / 02400;WWPH
+    Romesberg,Daniel R
+
+         A description is not available at this time.
+
+          
+
+10242
+2174
+SOC
+1901
+Independent Study
+1 to 6 cr.
+	
+		 / - / 02400;WWPH
+    Romesberg,Daniel R
+
+         A description is not available at this time.
+
+          
+
+10243
+2174
+SOC
+1900
+Internship
+1 to 6 cr.
+	
+		 / - / 02400;WWPH
+    Romesberg,Daniel R
+
+         A sociological internship is a type of Independent Study in which the student is, in some sense, employed in a non-academic position (usually as a volunteer but sometimes for pay).  Student interns are sponsored, guided and evaluated by a faculty member (usually the Internship Coordinator).  Interns are also directly supervised by an appropriate person at the internship site.  The experience gained by the student must have direct sociological relevance.  The normal academic requirements of an internship include a research paper, a daily journal and regular communication with the faculty sponsor.
+
+          
+
+10244
+2174
+SOC
+2990
+Independent Study
+1 to 12 cr.
+	
+		 / - / 02400;WWPH
+    Stoyle,Elizabeth
+
+         A description is not available at this time.
+
+          
+
+10245
+2174
+SOC
+3000
+Disser Research For Phd Degree
+1 to 12 cr.
+	
+		 / - / 02400;WWPH
+    Stoyle,Elizabeth
+
+         A description is not available at this time.
+
+          
+
+10246
+2174
+HPS
+3902
+Advanced Directed Study
+1 to 12 cr.
+	
+		 / - / TBA;TBA
+    Chirimuuta,Mazviita D
+
+         A description is not available at this time.
+
+          
+
+10247
+2174
+AFRCNA
+1902
+Directed Reading
+1 to 6 cr.
+	
+		 / - / 04139;WWPH
+    
+
+         Individual project administered under supervision.  This course should introduce the student to a specific topic which is not normally taught in an Africana Studies core course.  Student must select a faculty sponsor. 
+
+          
+
+10248
+2174
+AFRCNA
+1900
+Internship
+1 to 6 cr.
+	
+		 / - / 04139;WWPH
+    Sharif,Oronde S.
+
+         This course offers the student the opportunity to extend academic training to a practical work experience.  Students will be required to submit a preliminary proposal, preferably sometime during the prior term, to a faculty sponsor they select and the agency supervisor.   Satisfactory/Audit only: S/N grade.  Field Placement.
+
+          
+
+10249
+2174
+AFRCNA
+1901
+Independent Study
+1 to 6 cr.
+	
+		 / - / 04139;WWPH
+    Sharif,Oronde S.
+
+         Students desiring to take an independent study should develop an outline of the independent study, consisting of a two to three page typed proposal containing (a) the SUBSTANCE of work to be accomplished, (b) the OBJECTIVES of the study, (c) the METHODOLOGY or APPROACH toward completion of the study, (d) the EVALUATION by which to determine when the objectives of the study are met, and (e) the SCHEDULE of meetings and interactions with the faculty sponsor that the student selects.  These items will be reviewed by the individual faculty sponsor and agreed upon before any independent study is approved. 
+
+          
+
+10250
+2174
+AFROTC
+0005
+Freshman Leadership Lab
+0 cr.
+	
+		Th / 06:00 AM-07:30 AM / 00232;CL
+    Larkin,Elizabeth King
+
+         The AS100 and AS200 Leadership Laboratory Courses (LLABS) include a study of Air Force customs and courtesies, drill and ceremonies, and military commands. The LLAB also includes studying the environment of an Air Force Officer and learning about areas of opportunity available to commissioned officers. 
+
+        LVL: Fr  
+
+10251
+2174
+AFROTC
+0006
+Sophomore Leadership Lab
+0 cr.
+	
+		Th / 06:00 AM-07:50 AM / 00253;CL
+    Larkin,Elizabeth King
+
+         The AS100 and AS200 Leadership Laboratory Courses (LLABS) include a study of Air Force customs and courtesies, drill and ceremonies, and military commands. The LLAB also includes studying the environment of an Air Force Officer and learning about areas of opportunity available to commissioned officers. 
+
+        LVL: So  
+
+10252
+2174
+AFROTC
+1005
+Junior Leadership Lab
+0 cr.
+	
+		Th / 06:00 AM-07:30 AM / 00313;CL
+    Larkin,Elizabeth King
+
+         The AS300 and AS400 LLABs consist of activities classified as leadership and management experiences. They involve the planning and controlling of military activities of the cadet corps, and the preparation of briefings and other oral and written communications. LLABs also include interviews, guidance, and information which will increase the understanding, motivation, and performance of other cadets. 
+
+        LVL: Jr  
+
+10253
+2174
+AFROTC
+1006
+Senior Leadership Lab
+0 cr.
+	
+		Th / 06:00 AM-07:30 AM / 00335;CL
+    Larkin,Elizabeth King
+
+         The AS300 and AS400 LLABs consist of activities classified as leadership and management experiences. They involve the planning and controlling of military activities of the cadet corps, and the preparation of briefings and other oral and written communications. LLABs also include interviews, guidance, and information which will increase the understanding, motivation, and performance of other cadets. 
+
+        LVL: Sr  
+
+10254
+2174
+AFROTC
+1014
+Air Force Leadership Studies
+3 cr.
+	
+		Mo / 07:00 AM-09:55 AM / 00302;CL
+    Larkin,Elizabeth King
+
+         AS 300, "The United States Air Force Leadership Studies," teaches cadets advanced skills and knowledge in management and leadership. Special emphasis is placed on enhancing leadership skills. Cadets have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors.
+
+        LVL: Jr  
+
+10255
+2174
+AFROTC
+1016
+National Security Forces
+3 cr.
+	
+		We / 07:00 AM-09:30 AM / TBA;TBA
+    Petersen,Spencer
+
+         AS 400, "National Security Affairs/Preparation for Active Duty," is designed for college seniors and gives them the foundation to understand their role as military officers in American society. It is an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level.
+
+          
+
+10256
+2174
+NROSCI
+1000
+Intro To Neuroscience
+3 cr.
+NS			
+		MoWeFr / 02:00 PM-02:50 PM / 000L9;CLAPP
+    Artim,Debra Elaine
+
+         This course examines the anatomy, physiology, and pharmacology of the central and peripheral divisions of the nervous system. Specific topics covered include neuronal function, synaptic transmission, sensory processing, movement, sleep and wakefulness, hunger, thirst, caloric and body fluid homeostasis, recovery of function after brain damage, and various neurological and psychiatric disorders. 
+
+        (BIOSC150or170or715or190orBIOL101or110)and(BIOSC160or180or191or716orBIOENG 1071orBIOL102or120)and(CHEM101or110or710or760or960orCHEM11

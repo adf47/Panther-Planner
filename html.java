@@ -1,14 +1,12 @@
-//Making changes - collin
-
-
 import java.io.*;
 import java.net.*;
 
 public class html{
-
+	
+ static int classNum = 10000;
  public static void main(String [] args) throws IOException
  {
- 	int classNum = 10000;
+ 	//classNum = 10000;
  	int cnt = 0;
 
       try{
@@ -35,7 +33,7 @@ public class html{
         writer.close(); //close the file here
     }
     catch(Exception e){
-      System.out.println("ERROR! Exiting Program!");
+      System.out.println("ERROR! Exiting Program!" + e);
       System.exit(0);
     }
 
@@ -157,9 +155,12 @@ public class html{
 						x++;
 					}
 					temp.append(in.readLine()); //prereq.
-					int _and = temp.indexOf("&");
-					int y = temp.indexOf("p;");
-					temp.delete(_and, y+2);
+					if(temp.indexOf("&") != -1)
+					{
+						int _and = temp.indexOf("&");
+						int y = temp.indexOf("p;");
+						temp.delete(_and, y+2);
+					}
 					//remove table tag yet again!!
 					while(temp.indexOf("<") != -1)
 					{
@@ -170,8 +171,63 @@ public class html{
 					a.append(temp.toString() + "\n");
 					temp.setLength(0);
 				}
-
-
+				else if(inputLine.contains(Integer.toString(classNum))) 	//GET to row containing classNum
+				{
+					
+					//move to class time/room -- deleting <> characters until reached
+					temp.append(inputLine);
+					
+					int start = temp.indexOf("<");
+					int end = temp.indexOf(">");
+					temp.delete(start,end+1);
+					
+					temp.delete(0,13);
+					
+					temp.append(in.readLine()); 
+					
+					int x = 0;
+					while(x < 1)
+					{
+						temp.append(in.readLine());
+						start = temp.indexOf("<");
+						end = temp.indexOf(">");
+						temp.delete(start,end+1);
+						x++;
+					}
+					temp.delete(0,10);
+					temp.append(in.readLine());
+					temp.append(in.readLine());		//get to class time/room
+					//remove table tag yet again!!
+					while(temp.indexOf("<") != -1)
+					{
+						start = temp.indexOf("<");
+						end = temp.indexOf(">");
+						temp.delete(start,end+1);
+					} 
+					int _and = temp.indexOf("&");
+					int semi = temp.indexOf(";");
+					temp.delete(_and, semi);
+					a.append(temp.toString() + "\n");
+					temp.setLength(0);						//PLACE CLASS TIME/ROOM in TEMP
+					
+					//NOW GET PROFESSOR
+					for(int i = 0; i<14; i++)
+						in.readLine();
+					temp.append(in.readLine());
+					
+					while(temp.indexOf("<") != -1)
+					{
+						start = temp.indexOf("<");
+						end = temp.indexOf(">");
+						temp.delete(start,end+1);
+					} 
+					_and = temp.indexOf("&");
+					semi = temp.indexOf(";");
+					temp.delete(_and, semi+1);
+					a.append(temp.toString() + "\n");
+					temp.setLength(0);
+				}
+				
             	//CHECK FOR NEW INDICATOR HERE TO GATHER OTHER ITEMS
 
             }
