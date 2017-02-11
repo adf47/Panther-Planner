@@ -23,6 +23,7 @@ class ViewController: NSViewController {
     var DayTimeClassRoomBuilding = ""
     var prof = ""
     var descrip = ""
+    var prerequistes = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -79,9 +80,10 @@ class ViewController: NSViewController {
             DayTimeClassRoomBuilding = myStringArr[x+7]
             prof = myStringArr[x+8]
             descrip = myStringArr[x+10]
+            prerequistes = myStringArr[x+12]
             
             x = x + 14
-            //print(prof)
+            //print(classNum)
         }
     }
     

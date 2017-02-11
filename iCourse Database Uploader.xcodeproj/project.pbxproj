@@ -14,6 +14,7 @@
 		3D188AF21E4FB2290034E55B /* iCourse_Database_UploaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188AF11E4FB2290034E55B /* iCourse_Database_UploaderTests.swift */; };
 		3D188AFD1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188AFC1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift */; };
 		3DE575781E4FC5FD00A84EAB /* Courses.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3DE575771E4FC5FD00A84EAB /* Courses.txt */; };
+		3DE5757C1E4FCAAC00A84EAB /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DE5757B1E4FCAAC00A84EAB /* CloudKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		3D188AFC1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iCourse_Database_UploaderUITests.swift; sourceTree = "<group>"; };
 		3D188AFE1E4FB2290034E55B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3DE575771E4FC5FD00A84EAB /* Courses.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Courses.txt; sourceTree = SOURCE_ROOT; };
+		3DE575791E4FCAA000A84EAB /* iCourse Database Uploader.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "iCourse Database Uploader.entitlements"; sourceTree = "<group>"; };
+		3DE5757B1E4FCAAC00A84EAB /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DE5757C1E4FCAAC00A84EAB /* CloudKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +85,7 @@
 				3D188AF01E4FB2290034E55B /* iCourse Database UploaderTests */,
 				3D188AFB1E4FB2290034E55B /* iCourse Database UploaderUITests */,
 				3D188ADD1E4FB2290034E55B /* Products */,
+				3DE5757A1E4FCAAC00A84EAB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +102,7 @@
 		3D188ADE1E4FB2290034E55B /* iCourse Database Uploader */ = {
 			isa = PBXGroup;
 			children = (
+				3DE575791E4FCAA000A84EAB /* iCourse Database Uploader.entitlements */,
 				3D188ADF1E4FB2290034E55B /* AppDelegate.swift */,
 				3D188AE11E4FB2290034E55B /* ViewController.swift */,
 				3D188AE31E4FB2290034E55B /* Assets.xcassets */,
@@ -123,6 +129,14 @@
 				3D188AFE1E4FB2290034E55B /* Info.plist */,
 			);
 			path = "iCourse Database UploaderUITests";
+			sourceTree = "<group>";
+		};
+		3DE5757A1E4FCAAC00A84EAB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3DE5757B1E4FCAAC00A84EAB /* CloudKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +209,14 @@
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = G3KC28E98R;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 1;
+							};
+							com.apple.iCloud = {
+								enabled = 1;
+							};
+						};
 					};
 					3D188AEC1E4FB2290034E55B = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -404,12 +426,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "iCourse Database Uploader/iCourse Database Uploader.entitlements";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = G3KC28E98R;
 				INFOPLIST_FILE = "iCourse Database Uploader/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-Uploader";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -418,12 +443,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "iCourse Database Uploader/iCourse Database Uploader.entitlements";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = G3KC28E98R;
 				INFOPLIST_FILE = "iCourse Database Uploader/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-Uploader";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
