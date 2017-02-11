@@ -1,0 +1,528 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D188AE01E4FB2290034E55B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188ADF1E4FB2290034E55B /* AppDelegate.swift */; };
+		3D188AE21E4FB2290034E55B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188AE11E4FB2290034E55B /* ViewController.swift */; };
+		3D188AE41E4FB2290034E55B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D188AE31E4FB2290034E55B /* Assets.xcassets */; };
+		3D188AE71E4FB2290034E55B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D188AE51E4FB2290034E55B /* Main.storyboard */; };
+		3D188AF21E4FB2290034E55B /* iCourse_Database_UploaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188AF11E4FB2290034E55B /* iCourse_Database_UploaderTests.swift */; };
+		3D188AFD1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188AFC1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3D188AEE1E4FB2290034E55B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D188AD41E4FB2290034E55B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3D188ADB1E4FB2290034E55B;
+			remoteInfo = "iCourse Database Uploader";
+		};
+		3D188AF91E4FB2290034E55B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D188AD41E4FB2290034E55B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3D188ADB1E4FB2290034E55B;
+			remoteInfo = "iCourse Database Uploader";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3D188ADC1E4FB2290034E55B /* iCourse Database Uploader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iCourse Database Uploader.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D188ADF1E4FB2290034E55B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3D188AE11E4FB2290034E55B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3D188AE31E4FB2290034E55B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3D188AE61E4FB2290034E55B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3D188AE81E4FB2290034E55B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D188AED1E4FB2290034E55B /* iCourse Database UploaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iCourse Database UploaderTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D188AF11E4FB2290034E55B /* iCourse_Database_UploaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iCourse_Database_UploaderTests.swift; sourceTree = "<group>"; };
+		3D188AF31E4FB2290034E55B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D188AF81E4FB2290034E55B /* iCourse Database UploaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iCourse Database UploaderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D188AFC1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iCourse_Database_UploaderUITests.swift; sourceTree = "<group>"; };
+		3D188AFE1E4FB2290034E55B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D188AD91E4FB2290034E55B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D188AEA1E4FB2290034E55B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D188AF51E4FB2290034E55B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D188AD31E4FB2290034E55B = {
+			isa = PBXGroup;
+			children = (
+				3D188ADE1E4FB2290034E55B /* iCourse Database Uploader */,
+				3D188AF01E4FB2290034E55B /* iCourse Database UploaderTests */,
+				3D188AFB1E4FB2290034E55B /* iCourse Database UploaderUITests */,
+				3D188ADD1E4FB2290034E55B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3D188ADD1E4FB2290034E55B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3D188ADC1E4FB2290034E55B /* iCourse Database Uploader.app */,
+				3D188AED1E4FB2290034E55B /* iCourse Database UploaderTests.xctest */,
+				3D188AF81E4FB2290034E55B /* iCourse Database UploaderUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D188ADE1E4FB2290034E55B /* iCourse Database Uploader */ = {
+			isa = PBXGroup;
+			children = (
+				3D188ADF1E4FB2290034E55B /* AppDelegate.swift */,
+				3D188AE11E4FB2290034E55B /* ViewController.swift */,
+				3D188AE31E4FB2290034E55B /* Assets.xcassets */,
+				3D188AE51E4FB2290034E55B /* Main.storyboard */,
+				3D188AE81E4FB2290034E55B /* Info.plist */,
+			);
+			path = "iCourse Database Uploader";
+			sourceTree = "<group>";
+		};
+		3D188AF01E4FB2290034E55B /* iCourse Database UploaderTests */ = {
+			isa = PBXGroup;
+			children = (
+				3D188AF11E4FB2290034E55B /* iCourse_Database_UploaderTests.swift */,
+				3D188AF31E4FB2290034E55B /* Info.plist */,
+			);
+			path = "iCourse Database UploaderTests";
+			sourceTree = "<group>";
+		};
+		3D188AFB1E4FB2290034E55B /* iCourse Database UploaderUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3D188AFC1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift */,
+				3D188AFE1E4FB2290034E55B /* Info.plist */,
+			);
+			path = "iCourse Database UploaderUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3D188ADB1E4FB2290034E55B /* iCourse Database Uploader */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D188B011E4FB2290034E55B /* Build configuration list for PBXNativeTarget "iCourse Database Uploader" */;
+			buildPhases = (
+				3D188AD81E4FB2290034E55B /* Sources */,
+				3D188AD91E4FB2290034E55B /* Frameworks */,
+				3D188ADA1E4FB2290034E55B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "iCourse Database Uploader";
+			productName = "iCourse Database Uploader";
+			productReference = 3D188ADC1E4FB2290034E55B /* iCourse Database Uploader.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3D188AEC1E4FB2290034E55B /* iCourse Database UploaderTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D188B041E4FB2290034E55B /* Build configuration list for PBXNativeTarget "iCourse Database UploaderTests" */;
+			buildPhases = (
+				3D188AE91E4FB2290034E55B /* Sources */,
+				3D188AEA1E4FB2290034E55B /* Frameworks */,
+				3D188AEB1E4FB2290034E55B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3D188AEF1E4FB2290034E55B /* PBXTargetDependency */,
+			);
+			name = "iCourse Database UploaderTests";
+			productName = "iCourse Database UploaderTests";
+			productReference = 3D188AED1E4FB2290034E55B /* iCourse Database UploaderTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3D188AF71E4FB2290034E55B /* iCourse Database UploaderUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D188B071E4FB2290034E55B /* Build configuration list for PBXNativeTarget "iCourse Database UploaderUITests" */;
+			buildPhases = (
+				3D188AF41E4FB2290034E55B /* Sources */,
+				3D188AF51E4FB2290034E55B /* Frameworks */,
+				3D188AF61E4FB2290034E55B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3D188AFA1E4FB2290034E55B /* PBXTargetDependency */,
+			);
+			name = "iCourse Database UploaderUITests";
+			productName = "iCourse Database UploaderUITests";
+			productReference = 3D188AF81E4FB2290034E55B /* iCourse Database UploaderUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D188AD41E4FB2290034E55B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Antonino Febbraro";
+				TargetAttributes = {
+					3D188ADB1E4FB2290034E55B = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = G3KC28E98R;
+						ProvisioningStyle = Automatic;
+					};
+					3D188AEC1E4FB2290034E55B = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = G3KC28E98R;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3D188ADB1E4FB2290034E55B;
+					};
+					3D188AF71E4FB2290034E55B = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = G3KC28E98R;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3D188ADB1E4FB2290034E55B;
+					};
+				};
+			};
+			buildConfigurationList = 3D188AD71E4FB2290034E55B /* Build configuration list for PBXProject "iCourse Database Uploader" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3D188AD31E4FB2290034E55B;
+			productRefGroup = 3D188ADD1E4FB2290034E55B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3D188ADB1E4FB2290034E55B /* iCourse Database Uploader */,
+				3D188AEC1E4FB2290034E55B /* iCourse Database UploaderTests */,
+				3D188AF71E4FB2290034E55B /* iCourse Database UploaderUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D188ADA1E4FB2290034E55B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D188AE41E4FB2290034E55B /* Assets.xcassets in Resources */,
+				3D188AE71E4FB2290034E55B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D188AEB1E4FB2290034E55B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D188AF61E4FB2290034E55B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3D188AD81E4FB2290034E55B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D188AE21E4FB2290034E55B /* ViewController.swift in Sources */,
+				3D188AE01E4FB2290034E55B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D188AE91E4FB2290034E55B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D188AF21E4FB2290034E55B /* iCourse_Database_UploaderTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D188AF41E4FB2290034E55B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D188AFD1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3D188AEF1E4FB2290034E55B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3D188ADB1E4FB2290034E55B /* iCourse Database Uploader */;
+			targetProxy = 3D188AEE1E4FB2290034E55B /* PBXContainerItemProxy */;
+		};
+		3D188AFA1E4FB2290034E55B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3D188ADB1E4FB2290034E55B /* iCourse Database Uploader */;
+			targetProxy = 3D188AF91E4FB2290034E55B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3D188AE51E4FB2290034E55B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D188AE61E4FB2290034E55B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3D188AFF1E4FB2290034E55B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3D188B001E4FB2290034E55B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+			};
+			name = Release;
+		};
+		3D188B021E4FB2290034E55B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G3KC28E98R;
+				INFOPLIST_FILE = "iCourse Database Uploader/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-Uploader";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		3D188B031E4FB2290034E55B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G3KC28E98R;
+				INFOPLIST_FILE = "iCourse Database Uploader/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-Uploader";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		3D188B051E4FB2290034E55B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G3KC28E98R;
+				INFOPLIST_FILE = "iCourse Database UploaderTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-UploaderTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iCourse Database Uploader.app/Contents/MacOS/iCourse Database Uploader";
+			};
+			name = Debug;
+		};
+		3D188B061E4FB2290034E55B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G3KC28E98R;
+				INFOPLIST_FILE = "iCourse Database UploaderTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-UploaderTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iCourse Database Uploader.app/Contents/MacOS/iCourse Database Uploader";
+			};
+			name = Release;
+		};
+		3D188B081E4FB2290034E55B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G3KC28E98R;
+				INFOPLIST_FILE = "iCourse Database UploaderUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-UploaderUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "iCourse Database Uploader";
+			};
+			name = Debug;
+		};
+		3D188B091E4FB2290034E55B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G3KC28E98R;
+				INFOPLIST_FILE = "iCourse Database UploaderUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.antoninofebbraro.iCourse-Database-UploaderUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "iCourse Database Uploader";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3D188AD71E4FB2290034E55B /* Build configuration list for PBXProject "iCourse Database Uploader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D188AFF1E4FB2290034E55B /* Debug */,
+				3D188B001E4FB2290034E55B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D188B011E4FB2290034E55B /* Build configuration list for PBXNativeTarget "iCourse Database Uploader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D188B021E4FB2290034E55B /* Debug */,
+				3D188B031E4FB2290034E55B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3D188B041E4FB2290034E55B /* Build configuration list for PBXNativeTarget "iCourse Database UploaderTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D188B051E4FB2290034E55B /* Debug */,
+				3D188B061E4FB2290034E55B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3D188B071E4FB2290034E55B /* Build configuration list for PBXNativeTarget "iCourse Database UploaderUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D188B081E4FB2290034E55B /* Debug */,
+				3D188B091E4FB2290034E55B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3D188AD41E4FB2290034E55B /* Project object */;
+}
