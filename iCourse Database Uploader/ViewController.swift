@@ -7,6 +7,7 @@
 //
 
 import Cocoa
+import CloudKit
 
 class ViewController: NSViewController {
     
@@ -24,6 +25,9 @@ class ViewController: NSViewController {
     var prof = ""
     var descrip = ""
     var prerequistes = ""
+    
+    var database = CKContainer.default().publicCloudDatabase
+    var Record = CKRecord(recordType: "Course")
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -67,7 +71,7 @@ class ViewController: NSViewController {
             
             //print(myStringArr[8])
             
-            if(x == myStringArr.count - 1){
+            if(x >= myStringArr.count - 12){
                 break
             }
             classNum = myStringArr[x]
@@ -82,8 +86,25 @@ class ViewController: NSViewController {
             descrip = myStringArr[x+10]
             prerequistes = myStringArr[x+12]
             
+            self.Record.setObject(classTitle as CKRecordValue?, forKey: "classTitle")
+            
+            self.database.save(self.Record, completionHandler:
+                ({returnRecord, error in
+                    if let err = error {
+                        print("Save Error" +
+                            err.localizedDescription)
+                    } else {
+                        
+                        print("Successful add of \(self.classTitle)")
+                        
+                        
+                    }
+                }))
+            
             x = x + 14
             //print(classNum)
+            //timer to stall
+            sleep(2)
         }
     }
     
