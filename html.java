@@ -3,18 +3,22 @@ import java.net.*;
 
 public class html{
 	
- static int classNum = 10000;
+ static int classNum = 31235;		//last found class
  public static void main(String [] args) throws IOException
  {
  	//classNum = 10000;
  	int cnt = 0;
 
-      try{
+      
 
         PrintWriter writer = new PrintWriter("Courses.txt", "UTF-8"); //instanciate print writer
 
-       	while(classNum != 50000) //gets 1000 classes from the website
+       	while(classNum != 40000) //gets 1000 classes from the website
        	{
+			/* if(classNum == 11003 || classNum == 11004)
+				classNum++;
+			else
+			{ */
        		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+classNum+"&TERM=2174");
        		if(!url.equals("")) //make sure the webspage actually exsists
       		{
@@ -22,20 +26,24 @@ public class html{
       			//System.out.println(url);
 
             //write to text file here
-              writer.println(classNum); //writes class number to file
+              System.out.println(classNum); //writes class number to file
+              System.out.println(url); //writes all other info to file
+			  writer.println(classNum); //writes class number to file
               writer.println(url); //writes all other info to file
 
       		}
        		cnt++;
        		classNum++;
+			System.out.println(classNum);
+			
        	}
 
         writer.close(); //close the file here
-    }
-    catch(Exception e){
+    
+    /* catch(Exception e){
       System.out.println("ERROR! Exiting Program!" + e);
       System.exit(0);
-    }
+    } */
 
 
  }
@@ -126,13 +134,7 @@ public class html{
 						x++;
 					}
 					temp.append(in.readLine()); //this is the description
-					//remove table tag yet again!!
-					if(temp.indexOf("<") != -1)
-					{
-						int start = temp.indexOf("<");
-						int end = temp.indexOf(">");
-						temp.delete(start,end+1);
-					}
+					
 					a.append(temp.toString() + "\n");
 					temp.setLength(0);
 				}
@@ -140,20 +142,13 @@ public class html{
 				{
 					temp.append(inputLine+"\n");
 					temp.delete(0,55);
-					int start = temp.indexOf("<");
-					int end = temp.indexOf(">");
-					temp.delete(start,end+1);
-
-					//move to description -- deleting <> characters until description is reached
-					int x = 0;
-					while(x < 3)
-					{
-						temp.append(in.readLine());
-						start = temp.indexOf("<");
-						end = temp.indexOf(">");
-						temp.delete(start,end+1);
-						x++;
-					}
+					
+					
+					temp.append(in.readLine());
+					temp.append(in.readLine());
+					temp.append(in.readLine());
+					
+						
 					temp.append(in.readLine()); //prereq.
 					if(temp.indexOf("&") != -1)
 					{
@@ -161,13 +156,13 @@ public class html{
 						int y = temp.indexOf("p;");
 						temp.delete(_and, y+2);
 					}
-					//remove table tag yet again!!
+					/* //remove table tag yet again!!
 					while(temp.indexOf("<") != -1)
 					{
-						start = temp.indexOf("<");
-						end = temp.indexOf(">");
+						int start = temp.indexOf("<");
+						int end = temp.indexOf(">");
 						temp.delete(start,end+1);
-					}
+					} */
 					a.append(temp.toString() + "\n");
 					temp.setLength(0);
 				}
@@ -177,36 +172,34 @@ public class html{
 					//move to class time/room -- deleting <> characters until reached
 					temp.append(inputLine);
 					
-					int start = temp.indexOf("<");
+					/* int start = temp.indexOf("<");
 					int end = temp.indexOf(">");
-					temp.delete(start,end+1);
+					temp.delete(start,end+1); */
 					
 					temp.delete(0,13);
 					
 					temp.append(in.readLine()); 
 					
-					int x = 0;
-					while(x < 1)
-					{
-						temp.append(in.readLine());
-						start = temp.indexOf("<");
-						end = temp.indexOf(">");
-						temp.delete(start,end+1);
-						x++;
-					}
-					temp.delete(0,10);
 					temp.append(in.readLine());
-					temp.append(in.readLine());		//get to class time/room
-					//remove table tag yet again!!
-					while(temp.indexOf("<") != -1)
+					/* while(temp.indexOf("<") != -1)
 					{
-						start = temp.indexOf("<");
-						end = temp.indexOf(">");
-						temp.delete(start,end+1);
-					} 
-					int _and = temp.indexOf("&");
+						int start2 = temp.indexOf("<");
+						int end2 = temp.indexOf(">");
+						temp.delete(start2,end2+1);
+					} */
+					
+					temp.delete(0,40);
+					temp.append(in.readLine());
+					temp.delete(0,20);
+					temp.append(in.readLine());		//get to class time/room
+					temp.delete(0,20);
+					/* int start2 = temp.indexOf("<");
+					int end2 = temp.indexOf(">");
+					temp.delete(start2,end2+1); */
+					
+					/* int _and = temp.indexOf("&");
 					int semi = temp.indexOf(";");
-					temp.delete(_and, semi);
+					temp.delete(_and, semi); */
 					a.append(temp.toString() + "\n");
 					temp.setLength(0);						//PLACE CLASS TIME/ROOM in TEMP
 					
@@ -217,13 +210,11 @@ public class html{
 					
 					while(temp.indexOf("<") != -1)
 					{
-						start = temp.indexOf("<");
-						end = temp.indexOf(">");
+						int start = temp.indexOf("<");
+						int end = temp.indexOf(">");
 						temp.delete(start,end+1);
 					} 
-					_and = temp.indexOf("&");
-					semi = temp.indexOf(";");
-					temp.delete(_and, semi+1);
+					
 					a.append(temp.toString() + "\n");
 					temp.setLength(0);
 				}
