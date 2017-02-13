@@ -27,7 +27,7 @@ class ViewController: NSViewController {
     var prerequistes = ""
     
     var database = CKContainer.default().publicCloudDatabase
-    var Record = CKRecord(recordType: "Course")
+    //var Record = CKRecord(recordType: "Course")
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -64,16 +64,19 @@ class ViewController: NSViewController {
     
     func UploadFile(){
         
-        print("\n Uploading to database...")
+        
         let myStringArr = file.components(separatedBy: "\n")
         
         while(x<myStringArr.count){
             
+            var Record = CKRecord(recordType: "Course")
+            print("\n Uploading to database...")
+            
             //print(myStringArr[8])
             
-            if(x >= myStringArr.count - 12){
-                break
-            }
+            //if(x >= myStringArr.count - 12){
+              //  break
+            //}
             classNum = myStringArr[x]
             term = myStringArr[x+1]
             major = myStringArr[x+2]
@@ -86,9 +89,19 @@ class ViewController: NSViewController {
             descrip = myStringArr[x+10]
             prerequistes = myStringArr[x+12]
             
-            self.Record.setObject(classTitle as CKRecordValue?, forKey: "classTitle")
+            Record.setObject(classTitle as CKRecordValue?, forKey: "classTitle")
+            Record.setObject(classNum as CKRecordValue?, forKey: "classNum")
+            Record.setObject(term as CKRecordValue?, forKey: "term")
+            Record.setObject(major as CKRecordValue?, forKey: "major")
+            Record.setObject(courseNum as CKRecordValue?, forKey: "courseNum")
+            Record.setObject(credits as CKRecordValue?, forKey: "credits")
+            Record.setObject(satGenEdReq as CKRecordValue?, forKey: "satGenEdReq")
+            Record.setObject(DayTimeClassRoomBuilding as CKRecordValue?, forKey: "DayTimeClassRoomBuilding")
+            Record.setObject(prof as CKRecordValue?, forKey: "prof")
+            Record.setObject(descrip as CKRecordValue?, forKey: "descrip")
+            Record.setObject(prerequistes as CKRecordValue?, forKey: "prerequisites")
             
-            self.database.save(self.Record, completionHandler:
+            self.database.save(Record, completionHandler:
                 ({returnRecord, error in
                     if let err = error {
                         print("Save Error" +
@@ -102,9 +115,9 @@ class ViewController: NSViewController {
                 }))
             
             x = x + 14
-            //print(classNum)
-            //timer to stall
-            sleep(2)
+            print(x)
+            //sleep to stall thread for uploading to database
+            sleep(5)
         }
     }
     

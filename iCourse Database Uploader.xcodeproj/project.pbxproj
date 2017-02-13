@@ -13,8 +13,8 @@
 		3D188AE71E4FB2290034E55B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D188AE51E4FB2290034E55B /* Main.storyboard */; };
 		3D188AF21E4FB2290034E55B /* iCourse_Database_UploaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188AF11E4FB2290034E55B /* iCourse_Database_UploaderTests.swift */; };
 		3D188AFD1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D188AFC1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift */; };
-		3DE575781E4FC5FD00A84EAB /* Courses.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3DE575771E4FC5FD00A84EAB /* Courses.txt */; };
 		3DE5757C1E4FCAAC00A84EAB /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DE5757B1E4FCAAC00A84EAB /* CloudKit.framework */; };
+		3DE5757E1E52724D00A84EAB /* Courses.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3DE5757D1E52724D00A84EAB /* Courses.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,9 +47,9 @@
 		3D188AF81E4FB2290034E55B /* iCourse Database UploaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iCourse Database UploaderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D188AFC1E4FB2290034E55B /* iCourse_Database_UploaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iCourse_Database_UploaderUITests.swift; sourceTree = "<group>"; };
 		3D188AFE1E4FB2290034E55B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3DE575771E4FC5FD00A84EAB /* Courses.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Courses.txt; sourceTree = SOURCE_ROOT; };
 		3DE575791E4FCAA000A84EAB /* iCourse Database Uploader.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "iCourse Database Uploader.entitlements"; sourceTree = "<group>"; };
 		3DE5757B1E4FCAAC00A84EAB /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
+		3DE5757D1E52724D00A84EAB /* Courses.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Courses.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +106,7 @@
 				3D188ADF1E4FB2290034E55B /* AppDelegate.swift */,
 				3D188AE11E4FB2290034E55B /* ViewController.swift */,
 				3D188AE31E4FB2290034E55B /* Assets.xcassets */,
-				3DE575771E4FC5FD00A84EAB /* Courses.txt */,
+				3DE5757D1E52724D00A84EAB /* Courses.txt */,
 				3D188AE51E4FB2290034E55B /* Main.storyboard */,
 				3D188AE81E4FB2290034E55B /* Info.plist */,
 			);
@@ -258,8 +258,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D188AE41E4FB2290034E55B /* Assets.xcassets in Resources */,
-				3DE575781E4FC5FD00A84EAB /* Courses.txt in Resources */,
 				3D188AE71E4FB2290034E55B /* Main.storyboard in Resources */,
+				3DE5757E1E52724D00A84EAB /* Courses.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
