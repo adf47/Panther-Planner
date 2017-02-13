@@ -3,7 +3,7 @@ import java.net.*;
 
 public class html{
 	
- static int classNum = 31235;		//last found class
+ static int classNum = 10000;		//last found class
  public static void main(String [] args) throws IOException
  {
  	//classNum = 10000;
@@ -26,15 +26,15 @@ public class html{
       			//System.out.println(url);
 
             //write to text file here
-              System.out.println(classNum); //writes class number to file
-              System.out.println(url); //writes all other info to file
 			  writer.println(classNum); //writes class number to file
               writer.println(url); //writes all other info to file
+			  cnt++;
+			  //System.out.println(classNum + " - " + cnt);
 
       		}
-       		cnt++;
+       		
        		classNum++;
-			System.out.println(classNum);
+			
 			
        	}
 
