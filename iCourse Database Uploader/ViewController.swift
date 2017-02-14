@@ -12,7 +12,7 @@ import CloudKit
 class ViewController: NSViewController {
     
     var file = ""
-    var x = 17724
+    var x = 23954
     
     var classNum = ""
     var term = ""
@@ -68,6 +68,7 @@ class ViewController: NSViewController {
         let myStringArr = file.components(separatedBy: "\n")
         
         while(x<myStringArr.count){
+            
             
             var Record = CKRecord(recordType: "Course")
             print("\n Uploading to database...")
