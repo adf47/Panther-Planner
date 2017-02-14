@@ -12,7 +12,7 @@ import CloudKit
 class ViewController: NSViewController {
     
     var file = ""
-    var x = 0
+    var x = 17724
     
     var classNum = ""
     var term = ""
@@ -45,7 +45,7 @@ class ViewController: NSViewController {
     
     @IBAction func UpdateDatabase(_ sender: Any) {
         
-        if let fileURL = Bundle.main.url(forResource:"Courses", withExtension: ".txt")
+        if let fileURL = Bundle.main.url(forResource:"Courses2", withExtension: ".txt")
         {
             do {
                 let contents = try String(contentsOf: fileURL, encoding: String.Encoding.utf8)
