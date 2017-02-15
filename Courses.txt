@@ -46,7 +46,7 @@ HIST
 0100
 Western Civilization 1
 3 cr.
-HSREG			
+HS REG			
 MoWe / 03:00 PM-04:15 PM / 00216 CL
     Archibald,Elizabeth Pitkin
 
@@ -60,7 +60,7 @@ HIST
 0601
 United States 1865-Present
 3 cr.
-HS			
+HS 			
 TuTh / 09:00 AM-09:50 AM / 01501 WWPH
     Ruck,Robert
 
@@ -410,7 +410,7 @@ MATH
 0120
 Business Calculus
 4 cr.
-AQ				
+A Q				
 MoWeFr / 10:00 AM-10:50 AM / 00104 LAWRN
     
 
@@ -508,7 +508,7 @@ MATH
 0120
 Business Calculus
 4 cr.
-AQ				
+A Q				
 MoWeFr / 01:00 PM-01:50 PM / 01700 WWPH
     
 
@@ -648,7 +648,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 MoWeFr / 10:00 AM-10:50 AM / 01501 WWPH
     
 
@@ -676,7 +676,7 @@ MUSIC
 0211
 Intro To Western Art Music
 3 cr.
-MAHS				
+MAHS 				
 MoWe / 05:00 PM-05:50 PM / 000G8 CL
     Ruth,Christopher T
 
@@ -760,7 +760,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 MoWeFr / 01:00 PM-01:50 PM / 00107 LAWRN
     
 
@@ -774,7 +774,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 10:00 AM-10:50 AM / 00G30 BENDM
     
 
@@ -858,7 +858,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 01:00 PM-01:50 PM / 00332 CL
     
 
@@ -872,7 +872,7 @@ MUSIC
 0311
 Introduction To World Music
 3 cr.
-MACOM			
+MA COM			
 MoWe / 03:00 PM-03:50 PM / 000G8 CL
     Ayyagari,Shalini R
 
@@ -886,7 +886,7 @@ MATH
 0240
 Analytc Geometry & Calculus 3
 4 cr.
-AQ				
+A Q				
 MoWeFr / 01:00 PM-01:50 PM / 00104 LAWRN
     
 
@@ -1376,7 +1376,7 @@ MATH
 0120
 Business Calculus
 4 cr.
-AQ				
+A Q				
 MoWe / 06:00 PM-07:15 PM / 00G31 BENDM
     
 
@@ -1404,7 +1404,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 MoWe / 06:00 PM-07:15 PM / 00G29 BENDM
     
 
@@ -1474,7 +1474,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 TuTh / 07:30 PM-08:45 PM / 00704 THACK
     
 
@@ -1516,7 +1516,7 @@ MATH
 0240
 Analytc Geometry & Calculus 3
 4 cr.
-AQ				
+A Q				
 MoWeFr / 10:00 AM-10:50 AM / 00G29 BENDM
     
 
@@ -2006,7 +2006,7 @@ RUSS
 0810
 Masterpieces 20thc Russian Lit
 3 cr.
-EXIFNREGW				
+EXIFN REG W				
 TuTh / 01:00 PM-02:15 PM / 00129 CLTuTh / 01:00 PM-02:15 PM / 00129 CL
     Ryabchikova,  Natalia Sergeevna
 
@@ -3294,7 +3294,7 @@ COMMRC
 0320
 Mass Communication Process
 3 cr.
-MAHS				
+MAHS 				
 TuTh / 04:00 PM-04:50 PM / 00G24 CL
     Malin,Brenton J.
 
@@ -3924,7 +3924,7 @@ COMMRC
 0320
 Mass Communication Process
 3 cr.
-MAHS				
+MAHS 				
 Th / 06:00 PM-08:30 PM / 00358 CL
     Brunette, Tyler
 
@@ -4428,7 +4428,7 @@ HAA
 0010
 Introduction To World Art
 3 cr.
-MACOM			
+MA COM			
 MoWe / 04:30 PM-05:45 PM / 00203 FKART
     Luo,Di
 
@@ -5184,7 +5184,7 @@ ENGLIT
 1175
 19th Century Britsh Literature
 3 cr.
-EXHS				
+EX HS 				
 TuTh / 04:00 PM-05:15 PM / 00252 CL
     Carr,Stephen L
 
@@ -5352,7 +5352,7 @@ CS
 0004
 Intro Computer Progrmmng-Basic
 3 cr.
-AQ				
+A Q				
 Th / 06:00 PM-08:45 PM / 05505 SENSQ
     Costantino,Michael A
 
@@ -5702,7 +5702,7 @@ RUSS
 0860
 Modern Russian Culture
 3 cr.
-IFNREG			
+IFN REG			
 MoWe / 03:00 PM-04:15 PM / 00142 CLMoWe / 03:00 PM-04:15 PM / 00142 CL
     Ryabchikova, Natalie
 
@@ -6164,7 +6164,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 12:00 PM-12:50 PM / 00332 CL
     
 
@@ -6178,7 +6178,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 MoWeFr / 03:00 PM-03:50 PM / 00104 LAWRN
     
 
@@ -6206,7 +6206,7 @@ CLASS
 1432
 Varieties Of Early Christnity
 3 cr.
-HSREG			
+HS REG			
 TuTh / 02:30 PM-03:45 PM / 00232 CL
     Denova,Rebecca I
 
@@ -6332,7 +6332,7 @@ RELGST
 1130
 Varieties Of Early Christnity
 3 cr.
-HSREG			
+HS REG			
 TuTh / 02:30 PM-03:45 PM / 00232 CL
     Denova,Rebecca I
 
@@ -6416,7 +6416,7 @@ HIST
 1776
 Varieties Of Early Christnity
 3 cr.
-HSREG			
+HS REG			
 TuTh / 02:30 PM-03:45 PM / 00232 CL
     Denova,Rebecca I
 
@@ -6766,7 +6766,7 @@ GER
 1502
 Indo-European Folktales
 3 cr.
-LITREG			
+LIT REG			
 MoWe / 02:00 PM-02:50 PM / 00G24 CL
     Batista,Viktoria
 
@@ -7004,7 +7004,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 MoWeFr / 09:00 AM-09:50 AM / 00704 THACK
     
 
@@ -7074,7 +7074,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 05:00 PM-05:50 PM / 00332 CL
     
 
@@ -7200,7 +7200,7 @@ PHIL
 0302
 Introdctn To Ethcs/Writ Prac
 4 cr.
-PHW			
+PH W			
 TuTh / 03:00 PM-03:50 PM / TBA TBATuTh / 12:00 PM-12:50 PM / 0A522 PUBHL
     Reider,Patrick J and De Bruijn,David Micha
 
@@ -7284,7 +7284,7 @@ ENGLIT
 0315
 Reading Poetry
 3 cr.
-LITW			
+LIT W			
 MoWeFr / 12:00 PM-12:50 PM / 00242 CL
     
 
@@ -7396,7 +7396,7 @@ AFRCNA
 0212
 West African Dance
 3 cr.
-IFNREG			
+IFN REG			
 MoWe / 10:00 AM-11:15 AM / 0MPRL TREES
     Sharif,Oronde S.
 
@@ -7816,7 +7816,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 MoWeFr / 12:00 PM-12:50 PM / 00324 CL
     
 
@@ -7886,7 +7886,7 @@ MATH
 0120
 Business Calculus
 4 cr.
-AQ				
+A Q				
 MoWeFr / 05:00 PM-05:50 PM / 00107 LAWRN
     
 
@@ -7900,7 +7900,7 @@ RUSS
 0090
 Russian Fairy Tales
 3 cr.
-LITIFNREG				
+LITIFN REG				
 MoWe / 12:00 PM-12:50 PM / 00120 LAWRNMoWe / 12:00 PM-12:50 PM / 00120 LAWRN
     Crane,Robert Franklin
 
@@ -8138,7 +8138,7 @@ MATH
 0240
 Analytc Geometry & Calculus 3
 4 cr.
-AQ				
+A Q				
 MoWeFr / 12:00 PM-12:50 PM / 00104 LAWRN
     
 
@@ -8698,7 +8698,7 @@ ENGLIT
 0562
 Childhood'S Books
 3 cr.
-LITHS				
+LIT HS 				
 MoWeFr / 02:00 PM-02:50 PM / 00213 CL
     McDermott,Shawna Marie
 
@@ -8726,7 +8726,7 @@ CS
 0007
 Intro To Computer Programming
 3 cr.
-AQ				
+A Q				
 TuTh / 09:30 AM-10:45 AM / 05502 SENSQ
     Filipski-Bigrigg, Karen
 
@@ -8992,7 +8992,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 11:00 AM-11:50 PM / TBA TBA
     
 
@@ -9104,7 +9104,7 @@ CS
 0004
 Intro Computer Progrmmng-Basic
 3 cr.
-AQ				
+A Q				
 MoWe / 03:00 PM-04:15 PM / 05502 SENSQ
     Devine,Michael James
 
@@ -9244,7 +9244,7 @@ ENGLIT
 0573
 Literature Of The Americas
 3 cr.
-LITCOMW			
+LIT COMW			
 TuTh / 09:30 AM-10:45 AM / 00237 CL
     
 
@@ -9356,7 +9356,7 @@ HAA
 0030
 Introduction To Modern Art
 3 cr.
-MAREG			
+MA REG			
  / - / TBA TBA
     
 
@@ -9650,7 +9650,7 @@ ANTH
 0538
 The Archelogst Looks At Death
 3 cr.
-SSIFNREG				
+SS IFN REG				
 TuTh / 02:00 PM-02:50 PM / 00121 LAWRN
     Bermann,Marc P
 
@@ -9692,7 +9692,7 @@ CS
 0007
 Intro To Computer Programming
 3 cr.
-AQ				
+A Q				
 MoWe / 04:30 PM-05:45 PM / 05502 SENSQ
     Covaleski, Paul
 
@@ -10742,7 +10742,7 @@ SLAV
 0660
 Sci-Fi:  East And West
 3 cr.
-IFNCOM			
+IFN COM			
 MoWe / 03:00 PM-04:15 PM / 00332 CLMoWe / 03:00 PM-04:15 PM / 00332 CL
     Robinson
 
@@ -10756,7 +10756,7 @@ RUSS
 1430
 Fourth-Year Russian 2
 3 cr.
-IFNREG			
+IFN REG			
 MoWeFr / 11:00 AM-11:50 AM / 0G16B CLMoWeFr / 11:00 AM-11:50 AM / 0G16B CL
     Platt, Jonathan Brooks
 
@@ -11064,7 +11064,7 @@ ENGLIT
 0562
 Childhood'S Books
 3 cr.
-LITHS				
+LIT HS 				
 We / 06:00 PM-08:30 PM / 00230 CL
     Chapman,Amanda Lynn Phillips
 
@@ -11120,7 +11120,7 @@ HIST
 1123
 Modern Britain
 3 cr.
-HS			
+HS 			
  / - / TBA TBA
     Whitehead, Jeffrey
 
@@ -11456,7 +11456,7 @@ URBNST
 1700
 International Urbanism Seminar
 3 cr.
-IFNCOM			
+IFN COM			
 TuTh / 02:30 PM-03:45 PM / 03500 WWPH
     Carson,Carolyn J
 
@@ -11498,7 +11498,7 @@ RUSS
 0590
 Frmtv Mastrpieces: Russa 19thc
 3 cr.
-LITREG			
+LIT REG			
 TuTh / 11:00 AM-12:15 PM / 00151 CLTuTh / 11:00 AM-12:15 PM / 00151 CL
     Padunov, Vladimir
 
@@ -11526,7 +11526,7 @@ RUSS
 0811
 Madness & Madmen In Russ Cult
 3 cr.
-LITIFNREG				
+LITIFN REG				
 TuTh / 01:00 PM-02:15 PM / 00119 CLTuTh / 01:00 PM-02:15 PM / 00119 CL
      Manukyan, Kathleen
 
@@ -11764,7 +11764,7 @@ ENGLIT
 0300
 Introduction To Literature
 3 cr.
-LITW			
+LIT W			
 Tu / 06:00 PM-08:30 PM / 00227 CL
     Salzer, Kenneth
 
@@ -11918,7 +11918,7 @@ MATH
 0126
 Calculus For Business 2
 2 cr.
-AQ				
+A Q				
 TuTh / 06:00 PM-07:15 PM / 0A719 PUBHL
     
 
@@ -12100,7 +12100,7 @@ ENGLIT
 0325
 The Short Story
 3 cr.
-LITW			
+LIT W			
 Mo / 06:00 PM-08:30 PM / 00226 CL
     Bove,Carol Mastrangelo
 
@@ -12324,7 +12324,7 @@ SOC
 0150
 Social Theory
 3 cr.
-SSW			
+SS W			
 Tu / 06:00 PM-08:30 PM / 02800 WWPH
     Nelson,Rod D
 
@@ -12436,7 +12436,7 @@ HIST
 1619
 United States Since 1945
 3 cr.
-HS			
+HS 			
 MoWe / 04:30 PM-05:45 PM / 01500 WWPH
     Tsoukas,Liann E
 
@@ -12576,7 +12576,7 @@ PS
 1351
 Govermnt & Politics Middl East
 3 cr.
-HSIFNREG				
+HS IFN REG				
 Mo / 08:00 AM-10:25 AM / 5401 WWPH
     Harrison,Ross
 
@@ -12758,7 +12758,7 @@ RUSS
 0325
 Russian Short Story In Context
 3 cr.
-LITREGW			
+LIT REG W			
 MoWe / 04:30 PM-05:45 PM / 00129 CLMoWe / 04:30 PM-05:45 PM / 00129 CL
     Platt, Jonathan
 
@@ -13136,7 +13136,7 @@ GSWS
 0100
 Int To Gender, Sexty, & Womnst
 3 cr.
-SSW			
+SS W			
 TuTh / 11:00 AM-12:15 PM / 00321 CL
     Crosby, Emily
 
@@ -13150,7 +13150,7 @@ GSWS
 0100
 Int To Gender, Sexty, & Womnst
 3 cr.
-SSW			
+SS W			
 Th / 06:00 PM-08:30 PM / 00402 CL
     
 
@@ -13164,7 +13164,7 @@ GSWS
 0500
 Intro To Feminist Theory
 3 cr.
-PHW			
+PH W			
 TuTh / 09:30 AM-10:45 AM / 00402 CL
     Skoczylas,Marie Bernadette
 
@@ -13192,7 +13192,7 @@ PS
 0300
 Comparative Politics
 3 cr.
-SSCOM			
+SS COM			
 TuTh / 03:00 PM-03:50 PM / 120 LAWRN
     Alexiadou,Despoina
 
@@ -13248,7 +13248,7 @@ ENGLIT
 0315
 Reading Poetry
 3 cr.
-LITW			
+LIT W			
 Th / 06:00 PM-08:30 PM / 00237 CL
     Fest,Racheal Genevieve
 
@@ -13514,7 +13514,7 @@ ENGLIT
 0590
 Formative Masterpieces
 3 cr.
-LITREG			
+LIT REG			
 TuTh / 11:00 AM-12:15 PM / 00151 CL
     
 
@@ -13528,7 +13528,7 @@ ENGLIT
 0315
 Reading Poetry
 3 cr.
-LITW			
+LIT W			
 MoWeFr / 10:00 AM-10:50 AM / 00252 CL
     Gramm,Marylou
 
@@ -14158,7 +14158,7 @@ ENGLIT
 0310
 The Dramatic Imagination
 3 cr.
-LITW			
+LIT W			
 We / 06:00 PM-08:30 PM / 00119 CL
     Gwiazda, Piotr
 
@@ -14172,7 +14172,7 @@ ENGLIT
 0365
 Imagining Social Justice
 3 cr.
-LITW			
+LIT W			
 TuTh / 09:30 AM-10:45 AM / 00317 CL
     Glover,Geoffrey J
 
@@ -14312,7 +14312,7 @@ HIST
 0089
 Magic, Medicine And Science
 3 cr.
-HS			
+HS 			
 MoWeFr / 11:00 AM-11:50 AM / 00116 CL
     Rampelt,Jason M
 
@@ -14326,7 +14326,7 @@ HPS
 0515
 Magic, Medicine And Science
 3 cr.
-HS			
+HS 			
 MoWeFr / 11:00 AM-11:50 AM / 00116 CL
     Rampelt,Jason M
 
@@ -14340,7 +14340,7 @@ GER
 1500
 Germanic Myths Legends Sagas
 3 cr.
-LITREG			
+LIT REG			
 MoWe / 11:00 AM-11:50 AM / 05401 WWPH
     Stender,Uwe
 
@@ -41447,7 +41447,7 @@ Fr / 09:30 AM-11:25 AM / 05068 FRTOW
 
 14374
 2174
-REHSCI
+REHS CI
 1275
 Intro To Occupation Science
 3 cr.
@@ -41461,7 +41461,7 @@ Mo / 12:00 PM-02:50 PM / 06012 FRTOW
 
 14375
 2174
-REHSCI
+REHS CI
 1220
 Kinesiology And Biomechanics
 3 cr.
@@ -41471,11 +41471,11 @@ We / 08:00 AM-09:50 AM / 05073 FRTOW
 
          A description is not available at this time.
 
-        PREQ: REHSCI 1200 and (PHYS 0101 or 0110 or 0140 or 0150 or 0174); MIN GRADE C- for all listed courses  
+        PREQ: REHS CI 1200 and (PHYS 0101 or 0110 or 0140 or 0150 or 0174); MIN GRADE C- for all listed courses  
 
 14376
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -41601,7 +41601,7 @@ MoWe / 08:30 AM-09:50 AM / 04017 FRTOW
 
 14385
 2174
-REHSCI
+REHS CI
 1250
 Pathophysiology/Human Disease
 4 cr.
@@ -41611,11 +41611,11 @@ Mo / 05:30 PM-09:25 PM / 04060 FRTOW
 
          A description is not available at this time.
 
-        PREQ: REHSCI 1205 or (BIOSC 1250 or 1070) or NROSCI 1250 or (NUR 0013 or 0003);  MIN GRADE C- for all listed courses  PLAN: Rehabilitation Science (BS or BS-H or BPH) 
+        PREQ: REHS CI 1205 or (BIOSC 1250 or 1070) or NROSCI 1250 or (NUR 0013 or 0003);  MIN GRADE C- for all listed courses  PLAN: Rehabilitation Science (BS or BS-H or BPH) 
 
 14386
 2174
-REHSCI
+REHS CI
 1265
 Pharmacology In Rehabilitation
 3 cr.
@@ -41625,7 +41625,7 @@ MoFr / 08:00 AM-09:15 AM / 00169 CRAWF
 
          A description is not available at this time.
 
-        PREQ: REHSCI 1205 or (BIOSC 1250 or 1070) or NROSCI 1250 or (NUR 0013 and 0003); MIN GRADE C- for all listed courses  PLAN: Rehabilitation Science (BS, BSH, BPH) or Athletic Training (BS, BSH, BPH) 
+        PREQ: REHS CI 1205 or (BIOSC 1250 or 1070) or NROSCI 1250 or (NUR 0013 and 0003); MIN GRADE C- for all listed courses  PLAN: Rehabilitation Science (BS, BSH, BPH) or Athletic Training (BS, BSH, BPH) 
 
 14387
 2174
@@ -41839,7 +41839,7 @@ Audiology Externship
 
 14402
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -41951,7 +41951,7 @@ Evidence-Based Practice 2
 
 14411
 2174
-REHSCI
+REHS CI
 1280
 Psych And Soclgy Of Disability
 3 cr.
@@ -42021,7 +42021,7 @@ We / 12:00 PM-02:55 PM / TBA TBA
 
 14418
 2174
-REHSCI
+REHS CI
 1290
 Practical Issues In Disability
 3 cr.
@@ -42301,7 +42301,7 @@ Ot Fieldwork Education C (Fw2)
 
 14441
 2174
-REHSCI
+REHS CI
 1000
 Introduction To Research
 3 cr.
@@ -43197,7 +43197,7 @@ Independent Study
 
 14506
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43211,7 +43211,7 @@ Field Experience
 
 14507
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43225,7 +43225,7 @@ Field Experience
 
 14508
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43239,7 +43239,7 @@ Field Experience
 
 14509
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43253,7 +43253,7 @@ Field Experience
 
 14510
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43267,7 +43267,7 @@ Field Experience
 
 14511
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43281,7 +43281,7 @@ Field Experience
 
 14512
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43295,7 +43295,7 @@ Field Experience
 
 14513
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43309,7 +43309,7 @@ Field Experience
 
 14514
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43323,7 +43323,7 @@ Field Experience
 
 14515
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43337,7 +43337,7 @@ Field Experience
 
 14516
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43351,7 +43351,7 @@ Field Experience
 
 14517
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43365,7 +43365,7 @@ Field Experience
 
 14518
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43379,7 +43379,7 @@ Field Experience
 
 14519
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43393,7 +43393,7 @@ Field Experience
 
 14520
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43407,7 +43407,7 @@ Field Experience
 
 14521
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43421,7 +43421,7 @@ Field Experience
 
 14522
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43435,7 +43435,7 @@ Field Experience
 
 14523
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43449,7 +43449,7 @@ Field Experience
 
 14524
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43463,7 +43463,7 @@ Field Experience
 
 14525
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43477,7 +43477,7 @@ Field Experience
 
 14527
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43491,7 +43491,7 @@ Field Experience
 
 14528
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -43505,7 +43505,7 @@ Field Experience
 
 14529
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43519,7 +43519,7 @@ Independent Study
 
 14530
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43533,7 +43533,7 @@ Independent Study
 
 14531
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43547,7 +43547,7 @@ Independent Study
 
 14532
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43561,7 +43561,7 @@ Independent Study
 
 14533
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43575,7 +43575,7 @@ Independent Study
 
 14534
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43589,7 +43589,7 @@ Independent Study
 
 14535
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43603,7 +43603,7 @@ Independent Study
 
 14536
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43617,7 +43617,7 @@ Independent Study
 
 14537
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43631,7 +43631,7 @@ Independent Study
 
 14538
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43645,7 +43645,7 @@ Independent Study
 
 14539
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43659,7 +43659,7 @@ Independent Study
 
 14540
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43673,7 +43673,7 @@ Independent Study
 
 14541
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43687,7 +43687,7 @@ Independent Study
 
 14542
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43701,7 +43701,7 @@ Independent Study
 
 14543
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43715,7 +43715,7 @@ Independent Study
 
 14544
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43729,7 +43729,7 @@ Independent Study
 
 14545
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43743,7 +43743,7 @@ Independent Study
 
 14546
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43757,7 +43757,7 @@ Independent Study
 
 14547
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43771,7 +43771,7 @@ Independent Study
 
 14548
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43785,7 +43785,7 @@ Independent Study
 
 14550
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -43799,7 +43799,7 @@ Independent Study
 
 14551
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -47803,7 +47803,7 @@ Fr / 08:00 AM-09:25 AM / TBA TBA
 
 14846
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -47817,7 +47817,7 @@ Independent Study
 
 14847
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -48027,7 +48027,7 @@ Directed Study
 
 14862
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -48041,7 +48041,7 @@ Field Experience
 
 14863
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -48055,7 +48055,7 @@ Field Experience
 
 14864
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -48419,7 +48419,7 @@ Pt Clinical Rotation 2
 
 14890
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -48433,7 +48433,7 @@ Field Experience
 
 14891
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -48447,7 +48447,7 @@ Field Experience
 
 14892
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -50897,7 +50897,7 @@ Drctd Study Intrprsnal Skills
 
 15373
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -52231,7 +52231,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 12:00 PM-12:50 PM / 000G8 CL
     
 
@@ -55745,7 +55745,7 @@ ENGLIT
 0325
 The Short Story
 3 cr.
-LITW			
+LIT W			
 MoWeFr / 10:00 AM-10:50 AM / 00352 CL
     
 
@@ -55759,7 +55759,7 @@ ENGLIT
 0500
 Intro To Critical Reading
 3 cr.
-LITW			
+LIT W			
 MoWeFr / 12:00 PM-12:50 PM / 00252 CL
     Salzer,Kenneth J.
 
@@ -55773,7 +55773,7 @@ ENGLIT
 0610
 Women And Literature
 3 cr.
-LITW			
+LIT W			
 TuTh / 01:00 PM-02:15 PM / 00306 CL
     Whitney,Brenda Joy
 
@@ -55801,7 +55801,7 @@ HAA
 0010
 Introduction To World Art
 3 cr.
-MACOM			
+MA COM			
 MoWe / 01:00 PM-01:50 PM / 00125 FKART
     Bender,Gretchen Holtzapple
 
@@ -59355,7 +59355,7 @@ Directed Study
 
 16785
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -59369,7 +59369,7 @@ Field Experience
 
 16786
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -62593,7 +62593,7 @@ ECON
 0530
 Intro To Development Economics
 3 cr.
-IFNCOM			
+IFN COM			
 MoWeFr / 11:00 AM-11:50 AM / 01500 WWPH
     El-Hamidi, Fatma
 
@@ -62859,7 +62859,7 @@ HIST
 1611
 American Revolution 1763-1791
 3 cr.
-HS			
+HS 			
 Tu / 06:00 PM-08:25 PM / 104 LAWRN
     Frykman,Niklas E
 
@@ -62915,7 +62915,7 @@ MUSIC
 1398
 Women & Music Cros-Cultl Persp
 3 cr.
-IFNCOM			
+IFN COM			
 Tu / 03:00 PM-05:25 PM / 00132 MUSIC
     Casey,Sara G
 
@@ -70267,7 +70267,7 @@ MATH
 0240
 Analytc Geometry & Calculus 3
 4 cr.
-AQ				
+A Q				
 MoWeFr / 09:00 AM-09:50 AM / 00158 BENDM
     
 
@@ -71047,7 +71047,7 @@ Directed Research
 
 17946
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -71135,7 +71135,7 @@ ENGLIT
 0630
 Sexuality And Representation
 3 cr.
-LITHS				
+LIT HS 				
 TuTh / 04:00 PM-05:15 PM / 00242 CL
     Salzer, Ken
 
@@ -71541,7 +71541,7 @@ ENGLIT
 0573
 Literature Of The Americas
 3 cr.
-LITCOMW			
+LIT COMW			
 TuTh / 01:00 PM-02:15 PM / 00349 CL
     Fielder,Elizabeth
 
@@ -71709,7 +71709,7 @@ ENGLIT
 0610
 Women And Literature
 3 cr.
-LITW			
+LIT W			
 MoWeFr / 10:00 AM-10:50 AM / 00242 CL
     
 
@@ -73077,7 +73077,7 @@ Capstone Clinical
 
 18237
 2174
-REHSCI
+REHS CI
 1217
 Adv Hlth Asmnts Exrcs Prescrp
 3 cr.
@@ -73087,7 +73087,7 @@ Adv Hlth Asmnts Exrcs Prescrp
 
          A description is not available at this time.
 
-        PREQ: REHSCI 1215 (MIN GRADE C-); PLAN: Rehabilitation Science (BS, BPH, BS-H) 
+        PREQ: REHS CI 1215 (MIN GRADE C-); PLAN: Rehabilitation Science (BS, BPH, BS-H) 
 
 18238
 2174
@@ -73203,7 +73203,7 @@ Clinical Internship
 
 18277
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -79573,7 +79573,7 @@ Medl Emergencies- Wiser Center
 
 18804
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -79587,7 +79587,7 @@ Field Experience
 
 18805
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -79717,7 +79717,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 02:00 PM-02:50 PM / 00G30 BENDM
     
 
@@ -80231,7 +80231,7 @@ Directed Study
 
 18887
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -80823,7 +80823,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 MoWeFr / 02:00 PM-02:50 PM / 01501 WWPH
     
 
@@ -81243,7 +81243,7 @@ ENGLIT
 0500
 Intro To Critical Reading
 3 cr.
-LITW			
+LIT W			
 Mo / 06:00 PM-08:30 PM / 00335 CL
     
 
@@ -82195,7 +82195,7 @@ PHIL
 0332
 Political Philosophy/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 11:00 AM-11:50 AM / TBA TBATuTh / 03:00 PM-03:50 PM / 00253 CL
     Milburn,Joseph Clement
 
@@ -83605,7 +83605,7 @@ MoWeFr / 01:00 PM-01:50 PM / 0G19B CL
 
 19275
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -83619,7 +83619,7 @@ Field Experience
 
 19276
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -83633,7 +83633,7 @@ Field Experience
 
 19277
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -83777,7 +83777,7 @@ HIST
 0125
 Religions Of The West
 3 cr.
-HSCOM			
+HS COM			
 TuTh / 04:00 PM-05:15 PM / 00358 CL
     Shear, Adam
 
@@ -83791,7 +83791,7 @@ RELGST
 0105
 Religions Of The West
 3 cr.
-HSCOM			
+HS COM			
 TuTh / 04:00 PM-05:15 PM / 00358 CL
     Shear, Adam
 
@@ -83861,7 +83861,7 @@ HIST
 0755
 Religion In Asia
 3 cr.
-IFNCOM			
+IFN COM			
 TuTh / 01:00 PM-02:15 PM / 00239 CL
     Delgado Creamer, Margarita
 
@@ -83875,7 +83875,7 @@ RELGST
 0505
 Religion In Asia
 3 cr.
-IFNCOM			
+IFN COM			
 TuTh / 01:00 PM-02:15 PM / 00239 CL
     Delgado Creamer, Margarita
 
@@ -87641,7 +87641,7 @@ MATH
 0220
 Analytc Geometry & Calculus 1
 4 cr.
-AQ				
+A Q				
 TuTh / 06:00 PM-07:15 PM / 00704 THACK
     
 
@@ -87935,7 +87935,7 @@ MUSIC
 0311
 Introduction To World Music
 3 cr.
-MACOM			
+MA COM			
 MoWe / 04:00 PM-04:50 PM / 000G8 CL
     Harper,Colter Jesse
 
@@ -88173,7 +88173,7 @@ GSWS
 0100
 Int To Gender, Sexty, & Womnst
 3 cr.
-SSW			
+SS W			
 MoWe / 04:30 PM-05:45 PM / 00402 CL
     Suzuki, Yoko
 
@@ -88183,7 +88183,7 @@ MoWe / 04:30 PM-05:45 PM / 00402 CL
 
 19883
 2174
-REHSCI
+REHS CI
 1296
 Atr Field Experience
 1 to 3 cr.
@@ -88239,7 +88239,7 @@ MoWeFr / 10:00 AM-10:50 AM / 00226 BENDM
 
 19895
 2174
-REHSCI
+REHS CI
 1018
 Survy Hlth & Rehab Professions
 2 cr.
@@ -88425,7 +88425,7 @@ RUSS
 0800
 Masterpieces 19thc Russian Lit
 3 cr.
-LITIFNREGW				
+LITIFN REG W				
 TuTh / 02:30 PM-03:45 PM / 00119 CLTuTh / 02:30 PM-03:45 PM / 00119 CL
     Platt, Jonathan
 
@@ -88593,7 +88593,7 @@ FR
 0080
 Modern French Novel
 3 cr.
-LITW			
+LIT W			
 TuTh / 09:30 AM-10:45 AM / 00335 CL
     Kosinski,Renate Elisabeth
 
@@ -88677,7 +88677,7 @@ HIST
 1190
 Medieval Government & Society
 3 cr.
-HSREG			
+HS REG			
 We / 02:00 PM-04:25 PM / 03700 WWPH
     Greenberg,Janelle
 
@@ -88691,7 +88691,7 @@ HIST
 1191
 English Origins Of Amercn Law
 3 cr.
-HSREG			
+HS REG			
 TuTh / 01:00 PM-02:15 PM / 205 LAWRN
     Greenberg,Janelle
 
@@ -89658,7 +89658,7 @@ HAA
 0090
 Intro To Contemporary Art
 3 cr.
-MAGLO			
+MA GLO			
 TuTh / 11:00 AM-11:50 AM / 00125 FKART
     Smith,Terence E
 
@@ -89672,7 +89672,7 @@ HAA
 0480
 Modern Architecture
 3 cr.
-MAHSREG				
+MAHS REG				
 MoWe / 03:00 PM-04:15 PM / 00125 FKART
     Armstrong,Christopher Drew
 
@@ -90190,7 +90190,7 @@ CLASS
 0400
 Ancient Empires
 3 cr.
-MAEXHSIFNCOM						
+MA EX HS IFN COM						
 Tu / 06:00 PM-08:30 PM / 00204 FKART
     Weis,H Anne
 
@@ -91894,7 +91894,7 @@ Tu / 07:00 PM-08:20 PM / 04017 FRTOW
 
 20317
 2174
-REHSCI
+REHS CI
 1296
 Atr Field Experience
 1 to 3 cr.
@@ -91908,7 +91908,7 @@ Atr Field Experience
 
 20318
 2174
-REHSCI
+REHS CI
 1296
 Atr Field Experience
 1 to 3 cr.
@@ -91950,7 +91950,7 @@ Cln Corre Orl Maxfcl Pathlgc
 
 20322
 2174
-REHSCI
+REHS CI
 1297
 Cross-Cultural Indp Study
 1 to 3 cr.
@@ -93042,7 +93042,7 @@ MoWeFr / 10:00 AM-10:50 AM / TBA TBA
 
 20452
 2174
-REHSCI
+REHS CI
 1296
 Atr Field Experience
 1 to 3 cr.
@@ -93056,7 +93056,7 @@ Atr Field Experience
 
 20453
 2174
-REHSCI
+REHS CI
 1296
 Atr Field Experience
 1 to 3 cr.
@@ -93070,7 +93070,7 @@ Atr Field Experience
 
 20454
 2174
-REHSCI
+REHS CI
 1296
 Atr Field Experience
 1 to 3 cr.
@@ -93214,7 +93214,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 09:00 AM-09:50 AM / 00G37 BENDM
     
 
@@ -93560,7 +93560,7 @@ Undergraduate Research
 
 20520
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -94868,7 +94868,7 @@ GSWS
 0500
 Intro To Feminist Theory
 3 cr.
-PHW			
+PH W			
 MoWe / 03:00 PM-04:15 PM / 00402 CL
     Cohen, Frayda
 
@@ -94882,7 +94882,7 @@ GSWS
 0500
 Intro To Feminist Theory
 3 cr.
-PHW			
+PH W			
 TuTh / 02:30 PM-03:45 PM / 00402 CL
     Lovett,Matthew T
 
@@ -94969,7 +94969,7 @@ AFRCNA
 0031
 Introduction To Afrcna Studies
 3 cr.
-HSIFNGLO				
+HS IFN GLO				
 TuTh / 11:00 AM-12:15 PM / 01700 WWPH
     Tillotson,Michael Tyris
 
@@ -94983,7 +94983,7 @@ AFRCNA
 0031
 Introduction To Afrcna Studies
 3 cr.
-HSIFNGLO				
+HS IFN GLO				
 We / 06:00 PM-08:30 PM / 04165 WWPH
     Germain,Felix Fernand
 
@@ -95375,7 +95375,7 @@ CLASS
 1220
 Roman History
 3 cr.
-HSREG			
+HS REG			
 MoWe / 03:00 PM-04:15 PM / 00203 LAWRN
     Possanza,D Mark
 
@@ -95893,7 +95893,7 @@ HIST
 0676
 Religion In Modern America
 3 cr.
-HS			
+HS 			
 TuTh / 04:00 PM-05:15 PM / 00158 BENDM
     Hughes,Patrick Wallace
 
@@ -95907,7 +95907,7 @@ RELGST
 0415
 Religion In Modern America
 3 cr.
-HS			
+HS 			
 TuTh / 04:00 PM-05:15 PM / 00158 BENDM
     Hughes,Patrick Wallace
 
@@ -96033,7 +96033,7 @@ HIST
 0475
 Religion & Cultur In East Asia
 3 cr.
-IFNCOM			
+IFN COM			
 TuTh / 04:00 PM-05:15 PM / 00404 IS
     Delgado Creamer,Margarita Angelica
 
@@ -96047,7 +96047,7 @@ RELGST
 0525
 Religion & Cultur In East Asia
 3 cr.
-IFNCOM			
+IFN COM			
 TuTh / 04:00 PM-05:15 PM / 00404 IS
     Delgado Creamer,Margarita Angelica
 
@@ -96089,7 +96089,7 @@ JS
 1100
 Israel In The Biblical Age
 3 cr.
-IFNREG			
+IFN REG			
 MoWeFr / 11:00 AM-11:50 AM / 00358 CL
     Gordon,Benjamin Davis
 
@@ -96103,7 +96103,7 @@ RELGST
 1100
 Israel In The Biblical Age
 3 cr.
-IFNREG			
+IFN REG			
 MoWeFr / 11:00 AM-11:50 AM / 00358 CL
     Gordon,Benjamin Davis
 
@@ -96258,7 +96258,7 @@ AFRCNA
 1309
 Womn Of Afrc & Afrcn Diaspora
 3 cr.
-SSIFN				
+SS IFN 				
 MoWe / 01:30 PM-02:45 PM / 04165 WWPH
     Covington-Ward,Yolanda
 
@@ -96482,7 +96482,7 @@ SLAV
 0660
 Sci-Fi:  East And West
 3 cr.
-IFNCOM			
+IFN COM			
 Mo / 06:00 PM-08:25 PM / 000G8 CLMo / 06:00 PM-08:25 PM / 000G8 CL
     Robinson
 
@@ -96524,7 +96524,7 @@ HIST
 0600
 United States To 1877
 3 cr.
-HS			
+HS 			
 TuTh / 10:00 AM-10:50 AM / 01501 WWPH
     Rediker,Marcus
 
@@ -96636,7 +96636,7 @@ ENGLIT
 1382
 Prized Books
 3 cr.
-EXHSIFNGLO					
+EX HS IFN GLO					
 TuTh / 04:00 PM-05:15 PM / 00352 CL
     Satyavolu,Uma Ramana
 
@@ -97406,7 +97406,7 @@ HAA
 0302
 Renaissance Art
 3 cr.
-MAEXREG				
+MA EX REG				
  / - / TBA TBA
     Whitehead,Jeffrey Robert
 
@@ -98104,7 +98104,7 @@ Th / 05:20 PM-07:50 PM / 01045 BENDM
 
 23513
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -98118,7 +98118,7 @@ Field Experience
 
 23514
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -98132,7 +98132,7 @@ Field Experience
 
 23515
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -98210,7 +98210,7 @@ Clinical Bioengineering
 Th / 06:00 PM-09:00 PM / 00320 BENDM
     Gurleyik,Kilichan
 
-         Description: This graduate level course focuses on the early stages of the innovation process  strategic analysis of complex clinical problem solving through the needs finding, concept generation and refinement. Students, under the mentorship of participating CMI faculty (SSOE, SHS, business, law), interview and observe clinical personnel at the University of Pittsburgh school of medicine performing clinical work in order to rigorously define and document clinical needs in the environment of use. Using principles articulated in BIOENG 2150 (medical product ideation), the students produce a document that clearly defines and communicates one or more clinical problems and prioritized feasible solution paths.
+         Description: This graduate level course focuses on the early stages of the innovation process  strategic analysis of complex clinical problem solving through the needs finding, concept generation and refinement. Students, under the mentorship of participating CMI faculty (SSOE, SHS , business, law), interview and observe clinical personnel at the University of Pittsburgh school of medicine performing clinical work in order to rigorously define and document clinical needs in the environment of use. Using principles articulated in BIOENG 2150 (medical product ideation), the students produce a document that clearly defines and communicates one or more clinical problems and prioritized feasible solution paths.
 
        PREQ: BIOENG 2150  PROG: Swanson School of Engineering
 
@@ -98472,7 +98472,7 @@ MATH
 0240
 Analytc Geometry & Calculus 3
 4 cr.
-AQ				
+A Q				
 MoWe / 07:30 PM-08:45 PM / 00704 THACK
     
 
@@ -100964,7 +100964,7 @@ THEA
 0825
 Contemporary Global Stages
 3 cr.
-MAIFNGLO				
+MAIFN GLO				
 TuTh / 11:00 AM-12:15 PM / 01601 CL
     Olmstead, Amanda
 
@@ -101776,7 +101776,7 @@ HIST
 0501
 Modern Latin America
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 11:00 AM-11:50 AM / 01500 WWPH
     Gotkowitz,Laura Estelle
 
@@ -101856,7 +101856,7 @@ Tu / 02:00 PM-04:50 PM / 00230 VICTO
 
 24280
 2174
-REHSCI
+REHS CI
 1218
 Emerging Biomedical Techn
 3 cr.
@@ -101930,7 +101930,7 @@ ENGLIT
 0365
 Imagining Social Justice
 3 cr.
-LITW			
+LIT W			
 MoWeFr / 09:00 AM-09:50 AM / 00231 LAWRN
     Harris,Treviene
 
@@ -101944,7 +101944,7 @@ ENGLIT
 0354
 Words And Images
 3 cr.
-LITW			
+LIT W			
 TuTh / 01:00 PM-02:15 PM / 0G19A CL
     
 
@@ -101958,7 +101958,7 @@ ENGLIT
 0354
 Words And Images
 3 cr.
-LITW			
+LIT W			
 MoWe / 04:30 PM-05:45 PM / 00242 CL
     Gwiazda, Piotr
 
@@ -101972,7 +101972,7 @@ ENGLIT
 0321
 Essays And Memoirs
 3 cr.
-LITW			
+LIT W			
 Th / 06:00 PM-08:30 PM / 00318 CL
     Satyavolu,Uma Ramana
 
@@ -102126,7 +102126,7 @@ ANTH
 0710
 Spec Topics In Cultrl Anthro
 3 cr.
-IFNREG			
+IFN REG			
 TuTh / 09:30 AM-10:45 AM / 01700 WWPH
     Yearwood,Gabby Matthew Harlan
 
@@ -102182,7 +102182,7 @@ ECON
 0200
 Game Theory Principles
 3 cr.
-SSQ				
+SS Q				
 TuTh / 09:30 AM-10:45 AM / 01500 WWPH
     Shaver, Kevin
 
@@ -102294,7 +102294,7 @@ PHIL
 0082
 Intro Philphcl Prblm/Writ Prac
 4 cr.
-PHW			
+PH W			
 TuTh / 11:00 AM-11:50 AM / TBA TBATuTh / 04:00 PM-04:50 PM / 00144 CL
     Stovall,Preston John
 
@@ -102308,7 +102308,7 @@ PHIL
 0082
 Intro Philphcl Prblm/Writ Prac
 4 cr.
-PHW			
+PH W			
 TuTh / 11:00 AM-11:50 AM / TBA TBATuTh / 05:00 PM-05:50 PM / 00G21 CL
     Nunez,Albert Simons and Nunez,Albert Simons
 
@@ -102350,7 +102350,7 @@ HPS
 0515
 Magic, Medicine And Science
 3 cr.
-HS			
+HS 			
 Th / 06:00 PM-08:30 PM / 208A CL
     Baldissera-Paccheti, Marina
 
@@ -102364,7 +102364,7 @@ HIST
 0089
 Magic, Medicine And Science
 3 cr.
-HS			
+HS 			
 Th / 06:00 PM-08:30 PM / 00116 CL
     Hatleback,Eric Nelson
 
@@ -102406,7 +102406,7 @@ PHIL
 0222
 Intro Existentialism/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 03:00 PM-03:50 PM / 00330 CLMoWe / 01:00 PM-01:50 PM / TBA TBA
     Strom,Gregory B. and Strom,Gregory B.
 
@@ -102630,7 +102630,7 @@ SLOVAK
 0890
 Slovak, Czech & Cntr Eurpn Flm
 3 cr.
-EXHSREGW				
+EX HS REG W				
 Tu / 02:30 PM-05:25 PM / 00327 CLTu / 02:30 PM-05:25 PM / 00327 CL
     Votruba,Martin
 
@@ -102686,7 +102686,7 @@ HIST
 0671
 Afro-American History 2
 3 cr.
-HS			
+HS 			
 MoWe / 03:00 PM-04:15 PM / 00105 LAWRN
     Bland,Robert D
 
@@ -102700,7 +102700,7 @@ AFRCNA
 0630
 Afro-American History 2
 3 cr.
-HS			
+HS 			
 MoWe / 03:00 PM-04:15 PM / 00105 LAWRN
     Bland,Robert D
 
@@ -103190,7 +103190,7 @@ SPAN
 1250
 Hispanic Civilizations
 3 cr.
-HSREG			
+HS REG			
 TuTh / 01:00 PM-02:15 PM / 00121 CL
     Monasterios,Elizabeth
 
@@ -103332,7 +103332,7 @@ SPAN
 1250
 Hispanic Civilizations
 3 cr.
-HSREG			
+HS REG			
 TuTh / 09:30 AM-10:45 AM / 00129 CL
     Garcia, Armando
 
@@ -103402,7 +103402,7 @@ SPAN
 1707
 Afrcn Prsen Lat Amern Lit/Cult
 3 cr.
-IFNCOM			
+IFN COM			
 MoWeFr / 02:00 PM-02:50 PM / 00151 CL
     Branche,Jerome Clairmont Alan
 
@@ -103416,7 +103416,7 @@ AFRCNA
 1026
 Afrcn Prsen Lat Amern Lit/Cult
 3 cr.
-IFNCOM			
+IFN COM			
 MoWeFr / 02:00 PM-02:50 PM / 00151 CL
     Branche,Jerome Clairmont Alan
 
@@ -103430,7 +103430,7 @@ SPAN
 1250
 Hispanic Civilizations
 3 cr.
-HSREG			
+HS REG			
 TuTh / 09:30 AM-10:45 AM / TBA TBA
     Lamana, Gonzalo
 
@@ -103930,7 +103930,7 @@ Speclzd Preceptship: Education
 
 24732
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -103944,7 +103944,7 @@ Independent Study
 
 24733
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -103958,7 +103958,7 @@ Independent Study
 
 24734
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -103972,7 +103972,7 @@ Independent Study
 
 24735
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -103986,7 +103986,7 @@ Field Experience
 
 24736
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -104630,7 +104630,7 @@ Mo / 06:00 PM-08:30 PM / 00306 CL
 
 24791
 2174
-REHSCI
+REHS CI
 1220
 Kinesiology And Biomechanics
 3 cr.
@@ -104640,7 +104640,7 @@ We / 08:00 AM-09:50 AM / 05073 FRTOW
 
          A description is not available at this time.
 
-       PREQ: REHSCI 1200 and (PHYS 0101 or 0110 or 0140 or 0150 or 0174); MIN GRADE C- for all listed courses
+       PREQ: REHS CI 1200 and (PHYS 0101 or 0110 or 0140 or 0150 or 0174); MIN GRADE C- for all listed courses
 
 24794
 2174
@@ -105012,7 +105012,7 @@ GSWS
 0500
 Intro To Feminist Theory
 3 cr.
-PHW			
+PH W			
 TuTh / 01:00 PM-02:15 PM / 00402 CL
     Skoczylas,Marie Bernadette
 
@@ -106118,7 +106118,7 @@ ANTH
 1752
 Anthropology Of Food
 3 cr.
-IFNGLO			
+IFN GLO			
 Tu / 06:00 PM-08:30 PM / 00337 CL
     
 
@@ -106188,7 +106188,7 @@ CLASS
 1432
 Varieties Of Early Christnity
 3 cr.
-HSREG			
+HS REG			
 Tu / 06:00 PM-08:30 PM / 00G13 CL
     Denova,Rebecca I
 
@@ -106202,7 +106202,7 @@ COMMRC
 0320
 Mass Communication Process
 3 cr.
-MAHS				
+MAHS 				
  / - / TBA WEB
     Beaty,Joshua Lee
 
@@ -106468,7 +106468,7 @@ HAA
 0010
 Introduction To World Art
 3 cr.
-MACOM			
+MA COM			
  / - / TBA WEB
     Harkness,Kristen Marie
 
@@ -106482,7 +106482,7 @@ HAA
 0020
 Introduction To Asian Art
 3 cr.
-MAIFNCOM				
+MAIFN COM				
 Sa / 01:00 PM-03:55 PM / 00202 FKART
     Csorba,Mrea
 
@@ -106496,7 +106496,7 @@ HIST
 0101
 Western Civilization 2
 3 cr.
-HSREG			
+HS REG			
 Mo / 06:00 PM-08:30 PM / 00142 CL
     Bakkalian, Nyri
 
@@ -106510,7 +106510,7 @@ HIST
 1776
 Varieties Of Early Christnity
 3 cr.
-HSREG			
+HS REG			
 Tu / 06:00 PM-08:30 PM / 00G13 CL
     Denova,Rebecca I
 
@@ -106608,7 +106608,7 @@ MUSIC
 0211
 Intro To Western Art Music
 3 cr.
-MAHS				
+MAHS 				
 Sa / 01:00 PM-04:00 PM / 00132 MUSIC
     Wright,Bryan Sheldon
 
@@ -106622,7 +106622,7 @@ MUSIC
 0311
 Introduction To World Music
 3 cr.
-MACOM			
+MA COM			
 We / 06:00 PM-08:30 PM / 00309 BELLH
     Lwanga, Charles
 
@@ -106646,7 +106646,7 @@ Mo / 06:00 PM-08:30 PM / 00123 MUSIC
 
 25198
 2174
-NPHS
+NPHS 
 1510
 Fedl/Int'L Frmwrk Emrgy Prep
 3 cr.
@@ -106654,13 +106654,13 @@ Fedl/Int'L Frmwrk Emrgy Prep
 Mo / 06:00 PM-08:30 PM / 00227 CL
     Balaban,Carey and Sochats,Kenneth M
 
-         NPHS 1510 COVERS OVERARCHING FRAMEWORKS FOR THE FEDERAL GOVERNMENT'S PLANNING AND RESPONSE TO CRISES.  THESE INCLUDE THE NATIONAL RESPONSE FRAMEWORK (NRF) AND THE NATIONAL INCIDENT MANAGEMENT SYSTEMS (NIMS), WHICH ESTABLISHES THE INCIDENT COMMAND SYSTEM (ICS) AND THE EMERGENCY SUPPORT FUNCTIONS (ESFS).  BECAUSE THE FEDERAL GOVERNMENT IS THE INTERFACE WITH FOREIGN GOVERNMENTS FOR EVENTS WITH TRANSNATIONAL ELEMENTS, INTERNATIONAL ASPECTS OF CRISIS MANAGEMENT AND THE INTERNATIONAL CONTEXT FOR THREAT ASSESSMENT ARE COVERED IN THIS COURSE.
+         NPHS  1510 COVERS OVERARCHING FRAMEWORKS FOR THE FEDERAL GOVERNMENT'S PLANNING AND RESPONSE TO CRISES.  THESE INCLUDE THE NATIONAL RESPONSE FRAMEWORK (NRF) AND THE NATIONAL INCIDENT MANAGEMENT SYSTEMS (NIMS), WHICH ESTABLISHES THE INCIDENT COMMAND SYSTEM (ICS) AND THE EMERGENCY SUPPORT FUNCTIONS (ESFS).  BECAUSE THE FEDERAL GOVERNMENT IS THE INTERFACE WITH FOREIGN GOVERNMENTS FOR EVENTS WITH TRANSNATIONAL ELEMENTS, INTERNATIONAL ASPECTS OF CRISIS MANAGEMENT AND THE INTERNATIONAL CONTEXT FOR THREAT ASSESSMENT ARE COVERED IN THIS COURSE.
 
        PLAN: National Prep 
 
 25199
 2174
-NPHS
+NPHS 
 1540
 Capstone: Emrgy Preparedness
 3 cr.
@@ -106668,13 +106668,13 @@ Capstone: Emrgy Preparedness
 We / 06:00 PM-08:30 PM / 00312 CL
     Balaban,Carey and Sochats,Kenneth M
 
-         ALONG THE LINES OF WORKSHOPS CONDUCTED BY THE DEFENSE ADVANCED RESEARCH PROJECTS AGENCY (DARPA), THE CAPSTONE COURSE IS DEDICATED TO EXPLORING A VARIETY OF SOLUTIONS TO A SINGLE, COMPLEX, INTERDISCIPLINARY PROBLEM - A "WICKED" PROBLEM - IN EMERGENCY MANAGEMENT.  "WICKED" PROBLEMS ARE COMPLEX PROBLEMS FOR WHICH THERE IS AN UNLIMITED NUMBER OF POTENTIAL SOLUTIONS, BUT CHOOSING AMONG THEM IS DIFFICULT BECAUSE THEY HAVE HUGE IMPACTS AND THERE ARE NO IMMEDIATE OR ULTIMATE TESTS OF THEIR WORTH - THEY ARE NEITHER TRUE NOR FALSE BUT GOOD OR BAD.  THE "WICKED" PROBLEM CONSIDERED IN NPHS 1540 MAY CHANGE FROM TERM TO TERM TO MEET EMERGING DEMANDS OR CLASS COMPOSITION.
+         ALONG THE LINES OF WORKSHOPS CONDUCTED BY THE DEFENSE ADVANCED RESEARCH PROJECTS AGENCY (DARPA), THE CAPSTONE COURSE IS DEDICATED TO EXPLORING A VARIETY OF SOLUTIONS TO A SINGLE, COMPLEX, INTERDISCIPLINARY PROBLEM - A "WICKED" PROBLEM - IN EMERGENCY MANAGEMENT.  "WICKED" PROBLEMS ARE COMPLEX PROBLEMS FOR WHICH THERE IS AN UNLIMITED NUMBER OF POTENTIAL SOLUTIONS, BUT CHOOSING AMONG THEM IS DIFFICULT BECAUSE THEY HAVE HUGE IMPACTS AND THERE ARE NO IMMEDIATE OR ULTIMATE TESTS OF THEIR WORTH - THEY ARE NEITHER TRUE NOR FALSE BUT GOOD OR BAD.  THE "WICKED" PROBLEM CONSIDERED IN NPHS  1540 MAY CHANGE FROM TERM TO TERM TO MEET EMERGING DEMANDS OR CLASS COMPOSITION.
 
        PLAN: National Prep 
 
 25200
 2174
-NPHS
+NPHS 
 1900
 Internship
 3 cr.
@@ -106688,7 +106688,7 @@ Internship
 
 25201
 2174
-NPHS
+NPHS 
 1901
 Independent Study
 3 cr.
@@ -106818,7 +106818,7 @@ RELGST
 1130
 Varieties Of Early Christnity
 3 cr.
-HSREG			
+HS REG			
 Tu / 06:00 PM-08:30 PM / 00G13 CL
     Denova,Rebecca I
 
@@ -106832,7 +106832,7 @@ SLAV
 0660
 Sci-Fi:  East And West
 3 cr.
-IFNCOM			
+IFN COM			
 Sa / 01:00 PM-03:55 PM / 00302 CL
     
 
@@ -107048,11 +107048,11 @@ Mo / 04:30 PM-07:30 PM / 06048 FRTOW
 
          A description is not available at this time.
 
-       PLAN: CSD-PHD (Comm Science and Disorders), or REHSCI-PHD (Rehabilitation Science), or AUDIO-AUD (Audiology), or SLPATH-CSD (Speech-Language Pathology), or PT-DP (Physical Therapy), or OT-CSD (Occupational Therapy) or MACAUD-SP (Audiology)
+       PLAN: CSD-PHD (Comm Science and Disorders), or REHS CI-PHD (Rehabilitation Science), or AUDIO-AUD (Audiology), or SLPATH-CSD (Speech-Language Pathology), or PT-DP (Physical Therapy), or OT-CSD (Occupational Therapy) or MACAUD-SP (Audiology)
 
 25240
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -109142,7 +109142,7 @@ GER
 1528
 Vienna
 3 cr.
-REGW		
+REG W		
 TuTh / 11:00 AM-12:15 PM / 00142 CL
     Colin,Amy
 
@@ -111760,7 +111760,7 @@ SOC
 1319
 Immigration In Europe
 3 cr.
-SSHSCOMREG				
+SS HS COMREG				
  / - / TBA TBA
     whitehead, Jeffrey
 
@@ -111816,7 +111816,7 @@ HIST
 1095
 Sport And Global Capitalism
 3 cr.
-HSGLO			
+HS GLO			
 TuTh / 11:00 AM-12:15 PM / 1501 WWPH
     Ruck,Robert
 
@@ -111830,7 +111830,7 @@ HIST
 0187
 World War Ii-Europe
 3 cr.
-HSREG			
+HS REG			
 TuTh / 10:00 AM-10:50 AM / 00104 LAWRN
     Hammond,Leslie Ann
 
@@ -111844,7 +111844,7 @@ HIST
 1653
 Cold War America In The World
 3 cr.
-HS			
+HS 			
 TuTh / 09:30 AM-10:45 AM / 05200 WWPH
     Greenwald,Maurine
 
@@ -111914,7 +111914,7 @@ HIST
 1781
 Roman History
 3 cr.
-HSREG			
+HS REG			
 MoWe / 03:00 PM-04:15 PM / 00203 LAWRN
     Possanza,D Mark
 
@@ -112292,7 +112292,7 @@ HAA
 0160
 Ancient Empires
 3 cr.
-MAEXHSIFNCOM						
+MA EX HS IFN COM						
 Tu / 06:00 PM-08:30 PM / 00204 FKART
     Weis,H Anne
 
@@ -112306,7 +112306,7 @@ HAA
 0302
 Renaissance Art
 3 cr.
-MAEXREG				
+MA EX REG				
 TuTh / 01:00 PM-01:50 PM / 00125 FKART
     Nygren,Christopher J
 
@@ -112320,7 +112320,7 @@ HAA
 1040
 Arch: Image, Text, Theory
 3 cr.
-REGW		
+REG W		
 TuTh / 09:30 AM-10:45 AM / 00204 FKART
     Clericuzio,Peter J
 
@@ -112530,7 +112530,7 @@ GSWS
 0550
 Sex And Sexualities
 3 cr.
-HS			
+HS 			
 MoWe / 04:30 PM-05:45 PM / 00358 CL
     Beaulieu,Julie R
 
@@ -112614,7 +112614,7 @@ HIST
 1110
 Medieval History 1
 3 cr.
-HSREG			
+HS REG			
 Tu / 06:00 PM-08:25 PM / 00213 CL
     Archibald,Elizabeth Pitkin
 
@@ -112628,7 +112628,7 @@ RELGST
 1320
 Medieval History 1
 3 cr.
-HSREG			
+HS REG			
 Tu / 06:00 PM-08:25 PM / 00213 CL
     Archibald,Elizabeth Pitkin
 
@@ -112782,7 +112782,7 @@ MATH
 0240
 Analytc Geometry & Calculus 3
 4 cr.
-AQ				
+A Q				
 MoWeFr / 11:00 AM-11:50 AM / 00104 LAWRN
     
 
@@ -112922,7 +112922,7 @@ JPNSE
 1071
 The World Of Japan
 3 cr.
-EXIFNREG				
+EXIFN REG				
 MoWe / 03:00 PM-04:15 PM / 00139 CL
     Nara,Hiroshi
 
@@ -112950,7 +112950,7 @@ KOREAN
 0075
 Intro To Korea Through Films
 3 cr.
-IFNREG			
+IFN REG			
 Mo / 05:00 PM-08:50 PM / 00363 CL
     SHIN, Seung-Hwan
 
@@ -112992,7 +112992,7 @@ RUSS
 0090
 Russian Fairy Tales
 3 cr.
-LITIFNREG				
+LITIFN REG				
 Sa / 01:00 PM-03:55 PM / 00236 CLSa / 01:00 PM-03:55 PM / 00302 CL
     
 
@@ -113024,7 +113024,7 @@ Leadership Seminar
 Th / 06:00 PM-08:30 PM / 00241 CRAWF
     Suzik,Jeffrey R
 
-         THIS COURSE IS DESIGNED TO DEVELOP IN STUDENTS UNDERSTANDING OF THE CONCEPTUAL AND PRACTICAL STRATEGIES OF LEADERSHIP.  THROUGH THE USE OF READINGS, IN-CLASS ACTIVITIES AND GUEST PRESENTERS, STUDENTS ARE EXPOSED TO FOUR FACTORS THAT PLAY A ROLE IN THE DEVELOPMENT OR MODIFICATION OF A LEADER.  THESE INCLUDE: APPRECIATION OF THE CONCEPT OF ORGANIZATIONAL LIFE  UNDERSTANDING THE PROCESS OF CHANGE  COMPREHENDING THE IMPACT OF LEADERSHIP STYLE, DELIVERY, AND STRATEGY  AND FINALLY, DEVELOPING AN AWARENESS OF INDIVIDUAL STRENGTHS AND WEAKNESSES AND HOW TO MOST EFFECTIVELY MATCH INDIVIDUAL STYLE TO THE LEADERSHIP PROCESS.  THE COURSE IS REQUIRED OF ALL STUDENTS PURSUING THE UNDERGRADUATE CERTIFICATE IN LEADERSHIP. STUDENTS SHOULD HAVE SUCCESSFULLY COMPLETED BOTH THE EMERGING LEADERS PROGRAM AND THE THEORIES OF LEADERSHIP COURSE PRIOR TO REGISTERING.
+         THIS COURSE IS DESIGNED TO DEVELOP IN STUDENTS UNDERSTANDING OF THE CONCEPTUAL AND PRACTICAL STRATEGIES OF LEADERSHIP.  THROUGH THE USE OF READINGS, IN-CLASS ACTIVITIES AND GUEST PRESENTERS, STUDENTS ARE EXPOSED TO FOUR FACTORS THAT PLAY A ROLE IN THE DEVELOPMENT OR MODIFICATION OF A LEADER.  THESE INCLUDE: APPRECIATION OF THE CONCEPT OF ORGANIZATIONAL LIFE  UNDERSTANDING THE PROCESS OF CHANGE  COMPREHENDING THE IMPACT OF LEADERSHIP STYLE, DELIVERY, AND STRATEGY  AND FINALLY, DEVELOPING AN AWARENESS OF INDIVIDUAL STRENGTHS  AND WEAKNESSES AND HOW TO MOST EFFECTIVELY MATCH INDIVIDUAL STYLE TO THE LEADERSHIP PROCESS.  THE COURSE IS REQUIRED OF ALL STUDENTS PURSUING THE UNDERGRADUATE CERTIFICATE IN LEADERSHIP. STUDENTS SHOULD HAVE SUCCESSFULLY COMPLETED BOTH THE EMERGING LEADERS PROGRAM AND THE THEORIES OF LEADERSHIP COURSE PRIOR TO REGISTERING.
 
        PREQ: LDRSHP 1100 or PUBSRV 1390
 
@@ -113118,7 +113118,7 @@ PHIL
 0212
 Histry Of Mdrn Phil/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 03:00 PM-03:50 PM / 00135 CLMoWe / 12:00 PM-12:50 PM / TBA TBA
     Engstrom,Stephen and Love,Suzanne
 
@@ -113314,7 +113314,7 @@ AFRCNA
 0385
 Caribbean History
 3 cr.
-HSIFNREG				
+HS IFN REG				
 MoWe / 12:00 PM-01:15 PM / 04165 WWPH
     Germain,Felix Fernand
 
@@ -113328,7 +113328,7 @@ HIST
 0521
 Caribbean History
 3 cr.
-HSIFNREG				
+HS IFN REG				
 MoWe / 12:00 PM-01:15 PM / 04165 WWPH
     Germain,Felix Fernand
 
@@ -113776,7 +113776,7 @@ AFRCNA
 0586
 Early African Civilizations
 3 cr.
-HSIFNREG				
+HS IFN REG				
 MoWe / 03:00 PM-04:15 PM / 04165 WWPH
     Beeko,Eric
 
@@ -113930,7 +113930,7 @@ SPAN
 0082
 Latin America Today
 3 cr.
-IFNREG			
+IFN REG			
 MoWeFr / 12:00 PM-12:50 PM / 00239 CL
     Devalia, Leslie
 
@@ -114080,7 +114080,7 @@ MoWe / 04:30 PM-05:45 PM / 00312 CL
 
 26177
 2174
-REHSCI
+REHS CI
 1296
 Atr Field Experience
 1 to 3 cr.
@@ -115166,7 +115166,7 @@ CS
 0007
 Intro To Computer Programming
 3 cr.
-AQ				
+A Q				
 MoWe / 11:00 AM-12:15 PM / 05502 SENSQ
     Devine, Michael
 
@@ -115518,7 +115518,7 @@ ENGLIT
 0325
 The Short Story
 3 cr.
-LITW			
+LIT W			
 MoWe / 04:30 PM-05:45 PM / TBA TBA
     Bove,Carol Mastrangelo
 
@@ -115546,7 +115546,7 @@ GSWS
 0100
 Int To Gender, Sexty, & Womnst
 3 cr.
-SSW			
+SS W			
 TuTh / 09:30 AM-10:45 AM / 00406 IS
     Crosby,Emily Deering
 
@@ -117002,7 +117002,7 @@ MATH
 0230
 Analytc Geometry & Calculus 2
 4 cr.
-AQ				
+A Q				
 MoWeFr / 10:00 AM-10:50 AM / 00205 LAWRN
     
 
@@ -117478,7 +117478,7 @@ ENGLIT
 0300
 Introduction To Literature
 3 cr.
-LITW			
+LIT W			
 TuTh / 01:00 PM-02:15 PM / 00229 VICTO
     Fitzpatrick,Jessica Lynn
 
@@ -119005,7 +119005,7 @@ HIST
 1610
 United States Colonial
 3 cr.
-HS			
+HS 			
 Sa / 01:00 PM-04:00 PM / 00249 CL / Sa / 01:00 PM-04:00 PM / 05405 WWPH
     Parker, Kathleen 
 
@@ -119019,7 +119019,7 @@ SLAV
 1225
 Cros Cltl Reprstn Prison 20thc
 3 cr.
-LITCOM			
+LIT COM			
 Tu / 06:00 PM-08:30 PM / TBA BCCC
     Wright, Jarrel  
 
@@ -119757,7 +119757,7 @@ MoWe / 04:30 PM-05:45 PM / 00158 BENDM
 
 27239
 2174
-REHSCI
+REHS CI
 1235
 Medical Terminology
 1 cr.
@@ -120181,7 +120181,7 @@ CLASS
 1250
 Law & Society In Greece & Rome
 3 cr.
-HSREG			
+HS REG			
 MoWeFr / 11:00 AM-11:50 AM / 00144 CL
     Jones,Nicholas F 
 
@@ -120671,7 +120671,7 @@ RUSS
 0325
 Russian Short Story In Context
 3 cr.
-LITREG			
+LIT REG			
 Tu / 06:00 PM-08:25 PM / 00129 CL / Tu / 06:00 PM-08:25 PM / 00129 CL
     Secker, Dawn 
 
@@ -120685,7 +120685,7 @@ RUSS
 1210
 Superior Indiv In Lit And Phil
 3 cr.
-EXCOM			
+EX COM			
 MoWe / 03:00 PM-04:15 PM / 00218 CL / MoWe / 03:00 PM-04:15 PM / 00218 CL
     Platt, Jonathan Brooks 
 
@@ -120699,7 +120699,7 @@ PS
 0500
 World Politics
 3 cr.
-SSGLO			
+SS GLO			
 TuTh / 03:00 PM-03:50 PM / 0A221 LANGY
     Spaniel,William J 
 
@@ -120797,7 +120797,7 @@ ANTH
 1752
 Anthropology Of Food
 3 cr.
-IFNGLO			
+IFN GLO			
 TuTh / 01:00 PM-02:15 PM / 03415 WWPH
     Musante,Kathleen 
 
@@ -121007,7 +121007,7 @@ HIST
 0400
 East Asian Civlization To 1800
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 01:00 PM-01:50 PM / 232 CL
     Leung,Vincent Sueh Han 
 
@@ -121021,7 +121021,7 @@ HIST
 1058
 Global History Of Dance
 3 cr.
-MAHSIFNCOM					
+MAHS IFN COM					
 Th / 04:00 PM-05:15 PM / 00339 CL / Tu / 04:00 PM-05:15 PM / 253 CL
     Winerock,Emily Frances and Winerock,Emily Frances 
 
@@ -121035,7 +121035,7 @@ HIST
 1141
 Spain & Portugal 20th Century
 3 cr.
-HSCOMREG			
+HS COMREG			
 TuTh / 11:00 AM-12:15 PM / G18 CL
     Holstein,Diego 
 
@@ -121049,7 +121049,7 @@ HIST
 1420
 Ancient China
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 11:00 AM-12:15 PM / 00352 CL
     Leung,Vincent Sueh Han 
 
@@ -121063,7 +121063,7 @@ HIST
 1425
 History Of Medicine In China
 3 cr.
-HSIFNREG				
+HS IFN REG				
 Th / 06:00 PM-08:25 PM / 00142 CL
     Luesink,David Nanson 
 
@@ -121077,7 +121077,7 @@ HIST
 0487
 World War Ii In Asia
 3 cr.
-HS			
+HS 			
 MoWe / 11:00 AM-11:50 AM / 01501 WWPH
     Ricketts,Jessica Jordan 
 
@@ -121273,7 +121273,7 @@ HAA
 0020
 Introduction To Asian Art
 3 cr.
-MAIFNCOM				
+MAIFN COM				
 MoWe / 03:00 PM-04:15 PM / 00203 FKART
     Luo,Di 
 
@@ -121301,7 +121301,7 @@ HAA
 0520
 Art & Politics In Mod Lat Am
 3 cr.
-MAHSIFNREG					
+MAHS IFN REG					
 TuTh / 02:30 PM-03:45 PM / 00203 FKART
     Josten,Jennifer 
 
@@ -121315,7 +121315,7 @@ HAA
 0640
 Art Of Japan
 3 cr.
-EXIFNREG				
+EXIFN REG				
 TuTh / 09:30 AM-10:45 AM / 00202 FKART
     Gerhart,Karen M 
 
@@ -121483,7 +121483,7 @@ ENGLIT
 1170
 Romantic Nature
 3 cr.
-EXHS				
+EX HS 				
 TuTh / 01:00 PM-02:15 PM / 00230 CL
     Boone,Troy M 
 
@@ -122001,7 +122001,7 @@ JS
 1252
 Holocaust History & Memory
 3 cr.
-HSREG			
+HS REG			
 TuTh / 02:30 PM-03:45 PM / G13 CL
     Kranson,Rachel L 
 
@@ -122015,7 +122015,7 @@ RELGST
 1252
 Holocaust History & Memory
 3 cr.
-HSREG			
+HS REG			
 TuTh / 02:30 PM-03:45 PM / G13 CL
     Kranson,Rachel L 
 
@@ -122029,7 +122029,7 @@ HIST
 1769
 Holocaust History & Memory
 3 cr.
-HSREG			
+HS REG			
 TuTh / 02:30 PM-03:45 PM / G13 CL
     Kranson,Rachel L 
 
@@ -122043,7 +122043,7 @@ JS
 1241
 Gender And Jewish History
 3 cr.
-HSCOM			
+HS COM			
 TuTh / 11:00 AM-12:15 PM / 05404 WWPH
     Kranson,Rachel L 
 
@@ -122057,7 +122057,7 @@ AFRCNA
 1656
 History Of Africa Since 1800
 3 cr.
-IFNREG			
+IFN REG			
 TuTh / 04:00 PM-05:15 PM / 00139 CL
     Miller,James M 
 
@@ -122071,7 +122071,7 @@ HIST
 1796
 History Of Africa Since 1800
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 04:00 PM-05:15 PM / 00139 CL
     Miller,James M 
 
@@ -122141,7 +122141,7 @@ LING
 1263
 Cross-Cultural Communication
 3 cr.
-IFNCOM			
+IFN COM			
 MoWe / 03:00 PM-04:15 PM / 00231 LAWRN
      
 
@@ -122309,7 +122309,7 @@ RELGST
 1160
 Jerusalem: History And Imagn
 3 cr.
-HSREG			
+HS REG			
 MoWe / 03:00 PM-04:15 PM / 221 CL
     Gordon,Benjamin Davis 
 
@@ -122323,7 +122323,7 @@ HAA
 1105
 Jerusalem Histry & Imagination
 3 cr.
-HSREG			
+HS REG			
 MoWe / 03:00 PM-04:15 PM / 221 CL
     Gordon,Benjamin Davis 
 
@@ -122337,7 +122337,7 @@ HIST
 1779
 History And Imagination
 3 cr.
-HSREG			
+HS REG			
 MoWe / 03:00 PM-04:15 PM / 221 CL
     Gordon,Benjamin Davis 
 
@@ -122351,7 +122351,7 @@ JS
 1160
 Jerusalem: History And Imagn
 3 cr.
-HSREG			
+HS REG			
 MoWe / 03:00 PM-04:15 PM / 221 CL
     Gordon,Benjamin Davis 
 
@@ -122379,7 +122379,7 @@ PHIL
 0452
 Thrys Knowl & Reality/Writ Lab
 4 cr.
-PHW			
+PH W			
 TuTh / 03:00 PM-03:50 PM / 00229 CL / TuTh / 02:00 PM-02:50 PM / TBA TBA
     Stovall,Preston John 
 
@@ -122393,7 +122393,7 @@ PHIL
 0212
 Histry Of Mdrn Phil/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 02:00 PM-02:50 PM / 00321 CL / MoWe / 12:00 PM-12:50 PM / TBA TBA
     Love,Suzanne and Engstrom,Stephen 
 
@@ -122407,7 +122407,7 @@ PHIL
 0302
 Introdctn To Ethcs/Writ Prac
 4 cr.
-PHW			
+PH W			
 TuTh / 10:00 AM-10:50 AM / 00113 CL / TuTh / 03:00 PM-03:50 PM / TBA TBA
     De Bruijn,David Micha and Reider,Patrick J 
 
@@ -123313,7 +123313,7 @@ MoWeFr / 11:00 AM-11:50 AM / 00G18 CL
 
 28169
 2174
-REHSCI
+REHS CI
 1292
 Diversity/Cultl Health/Rehab
 3 cr.
@@ -123653,7 +123653,7 @@ PS
 1675
 Politics Of Human Rights
 3 cr.
-SSCOMGLO			
+SS COMGLO			
  / - / TBA TBA
     STUDY ABROAD 
 
@@ -123933,7 +123933,7 @@ PHIL
 0222
 Intro Existentialism/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 01:00 PM-01:50 PM / TBA TBA / MoWe / 02:00 PM-02:50 PM / 00317 CL
     Strom,Gregory B.&nbsp;
 
@@ -124017,7 +124017,7 @@ HPS
 0437
 Darwinism And Its Critics
 3 cr.
-HSREG			
+HS REG			
 MoWe / 09:30 AM-10:45 AM / 00144 CL
     Lennox, James G.&nbsp;
 
@@ -124129,7 +124129,7 @@ HIST
 1124
 Ireland
 3 cr.
-HSREG			
+HS REG			
 Th / 06:00 PM-08:30 PM / 216 CL
     Novosel,Anthony Stephen 
 
@@ -124227,7 +124227,7 @@ MUSIC
 1340
 Music In Africa
 3 cr.
-IFNREG			
+IFN REG			
 Tu / 02:00 PM-04:20 PM / 00123 MUSIC
     Lwanga 
 
@@ -124479,7 +124479,7 @@ ENGLIT
 0354
 Words And Images
 3 cr.
-LITW			
+LIT W			
 TuTh / 09:30 AM-10:45 AM / 0G19A CL
     Whitney,Brenda Joy 
 
@@ -124591,7 +124591,7 @@ RELGST
 1135
 Orthodox Christianity
 3 cr.
-IFNCOM			
+IFN COM			
 TuTh / 04:00 PM-05:15 PM / 00342 CL
     Brady,Joel Christopher 
 
@@ -124871,7 +124871,7 @@ ENGLIT
 0331
 Great Books: Mdrn Hum (Part 2)
 3 cr.
-LITCOM			
+LIT COM			
 Tu / 05:30 PM-08:00 PM / TBA TBA
     Bove,Paul A 
 
@@ -125389,7 +125389,7 @@ GSWS
 0500
 Intro To Feminist Theory
 3 cr.
-PHW			
+PH W			
 TuTh / 04:00 PM-05:15 PM / 00349 CL
     Lovett,Matthew T 
 
@@ -125581,7 +125581,7 @@ Independent Study
 
 28705
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -126309,7 +126309,7 @@ Directed Study
 
 28863
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -126841,7 +126841,7 @@ Nursing Informtcs Practicum 2
 
 28988
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -126855,7 +126855,7 @@ Field Experience
 
 28989
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -127219,7 +127219,7 @@ Clinical Internship
 
 29156
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -127233,7 +127233,7 @@ Field Experience
 
 29157
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -127247,7 +127247,7 @@ Field Experience
 
 29158
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -127261,7 +127261,7 @@ Field Experience
 
 29159
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -127573,7 +127573,7 @@ ENGLIT
 0512
 Narrative And Technology
 3 cr.
-LITW			
+LIT W			
 MoWeFr / 10:00 AM-10:50 AM / 00231 LAWRN
     Best,Mark T 
 
@@ -127587,7 +127587,7 @@ ENGLIT
 0512
 Narrative And Technology
 3 cr.
-LITW			
+LIT W			
 MoWe / 04:30 PM-05:45 PM / 00213 CL
     Horton,Zachary K 
 
@@ -127601,7 +127601,7 @@ ENGLIT
 0512
 Narrative And Technology
 3 cr.
-LITW			
+LIT W			
 TuTh / 01:00 PM-02:15 PM / 00233 LAWRN
     Lavin,Matthew J 
 
@@ -127615,7 +127615,7 @@ ENGLIT
 1350
 Postmodern Literature
 3 cr.
-EXHS				
+EX HS 				
 TuTh / 09:30 AM-10:45 AM / 00213 CL
     Best,Mark T 
 
@@ -127783,7 +127783,7 @@ ENGLIT
 1227
 Harlem Renaissance
 3 cr.
-EXHS				
+EX HS 				
 TuTh / 11:00 AM-12:15 PM / 00213 CL
     Owens,Imani D 
 
@@ -127811,7 +127811,7 @@ ENGLIT
 1325
 Modernism
 3 cr.
-EXHS				
+EX HS 				
 TuTh / 02:30 PM-03:45 PM / 00221 CL
     Rogers,Gayle B 
 
@@ -128021,7 +128021,7 @@ ENGLIT
 1125
 Mastrpcs Of Renaissnc Lit
 3 cr.
-EXHS				
+EX HS 				
 MoWe / 04:30 PM-05:45 PM / 00231 LAWRN
     Rhodes,William McLeod 
 
@@ -128371,7 +128371,7 @@ PS
 1514
 Political Strategy Int'L Rltns
 3 cr.
-QGLO			
+Q GLO			
 TuTh / 11:00 AM-12:15 PM / 158 BENDM
     Spaniel,William J 
 
@@ -128637,7 +128637,7 @@ ANTH
 1530
 Origins Of Cities
 3 cr.
-HSIFNCOMW				
+HS IFN COMW				
 TuTh / 04:00 PM-05:15 PM / 03301 WWPH
     Bermann,Marc P 
 
@@ -128679,7 +128679,7 @@ ANTH
 1734
 Gender In East Asia
 3 cr.
-IFNCOM			
+IFN COM			
 TuTh / 11:00 AM-12:15 PM / 03301 WWPH
     Constable,Nicole 
 
@@ -128805,7 +128805,7 @@ ANTH
 1543
 Ancnt States In The New World
 3 cr.
-HSIFNREG				
+HS IFN REG				
 We / 06:00 PM-08:30 PM / 03300 WWPH
     De Montmollin,Olivier 
 
@@ -128893,7 +128893,7 @@ Aquatic And Sedimentary Geoche
 TuTh / 10:00 AM-11:15 AM / 000B9 THAW
     Werne,Josef P 
 
-         THIS COURSE WIILL EXAMINE THE CHEMISTRY AND GEOCHEMISTRY OF MODERN AND ANCIENT AQUATIC AND SEDIMENTARY SYSTEMS, INCLUDING OCEANS AND FRESH WATERS.  STUDENTS WILL GAIN AN UNDERSTANDING OF THE BIOGEOCHEMICAL PROCESSES OCCURING IN AQUATIC SYSTEMS, AND THE GEOCHEMICAL SIGNATURES THEY LEAVE IN THE SEDIMENTARY RECORD.
+         THIS COURSE WIILL EXAMINE THE CHEMISTRY AND GEOCHEMISTRY OF MODERN AND ANCIENT A QUATIC AND SEDIMENTARY SYSTEMS, INCLUDING OCEANS AND FRESH WATERS.  STUDENTS WILL GAIN AN UNDERSTANDING OF THE BIOGEOCHEMICAL PROCESSES OCCURING IN A QUATIC SYSTEMS, AND THE GEOCHEMICAL SIGNATURES THEY LEAVE IN THE SEDIMENTARY RECORD.
 
         PREQ: (CHEM 0110 and GEOL 0055) or GEOL 0800 or 0860  
 
@@ -128907,7 +128907,7 @@ Aquatic Sedimentary Geochemi
 TuTh / 10:00 AM-11:15 AM / 000B9 THAW
     Werne,Josef P 
 
-         THIS COURSE WIILL EXAMINE THE CHEMISTRY AND GEOCHEMISTRY OF MODERN AND ANCIENT AQUATIC AND SEDIMENTARY SYSTEMS, INCLUDING OCEANS AND FRESH WATERS.  STUDENTS WILL GAIN AN UNDERSTANDING OF THE BIOGEOCHEMICAL PROCESSES OCCURING IN AQUATIC SYSTEMS, AND THE GEOCHEMICAL SIGNATURES THEY LEAVE IN THE SEDIMENTARY RECORD.
+         THIS COURSE WIILL EXAMINE THE CHEMISTRY AND GEOCHEMISTRY OF MODERN AND ANCIENT A QUATIC AND SEDIMENTARY SYSTEMS, INCLUDING OCEANS AND FRESH WATERS.  STUDENTS WILL GAIN AN UNDERSTANDING OF THE BIOGEOCHEMICAL PROCESSES OCCURING IN A QUATIC SYSTEMS, AND THE GEOCHEMICAL SIGNATURES THEY LEAVE IN THE SEDIMENTARY RECORD.
 
         PREQ: (CHEM 0110 and GEOL 0055) or GEOL 0800 or 0860  
 
@@ -128987,7 +128987,7 @@ PS
 1348
 Xenophobia In Modern Europe
 3 cr.
-HSCOMREG			
+HS COMREG			
 TuTh / 02:30 PM-03:45 PM / 01501 WWPH
     Hagerty,Bernard George 
 
@@ -130215,7 +130215,7 @@ Clinical Counseling Mentorship
 
 29647
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -130229,7 +130229,7 @@ Field Experience
 
 29648
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -130243,7 +130243,7 @@ Field Experience
 
 29649
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -130313,7 +130313,7 @@ We / 09:00 AM-10:50 AM / TBA TBA
 
 29654
 2174
-REHSCI
+REHS CI
 1295
 Field Experience
 1 to 3 cr.
@@ -130327,7 +130327,7 @@ Field Experience
 
 29655
 2174
-REHSCI
+REHS CI
 1299
 Independent Study
 1 to 6 cr.
@@ -130387,7 +130387,7 @@ AFRCNA
 1310
 Cultures Of Africa
 3 cr.
-SSIFNREG				
+SS IFN REG				
 MoWe / 10:00 AM-11:15 AM / 04165 WWPH
     Covington-Ward,Yolanda 
 
@@ -130457,7 +130457,7 @@ CHIN
 1084
 Masterpieces Of Chin Lit: Mdrn
 3 cr.
-EXIFNREG				
+EXIFN REG				
 TuTh / 01:00 PM-02:15 PM / 00139 CL
     Qian, Kun 
 
@@ -130499,7 +130499,7 @@ HAA
 0018
 Death In The Ancient World
 3 cr.
-MACOM			
+MA COM			
 TuTh / 02:30 PM-03:45 PM / 00125 FKART
     Weaver,Carrie L 
 
@@ -130695,7 +130695,7 @@ ITAL
 1041
 Italian Theatrical Workshop
 3 cr.
-MAEXW				
+MA EXW				
 TuTh / 04:00 PM-05:15 PM / 00226 CL
     Savoia,Francesca 
 
@@ -130793,7 +130793,7 @@ JPNSE
 1059
 Japanese Literature On Screen
 3 cr.
-IFNREG			
+IFN REG			
 Th / 12:00 PM-03:50 PM / 00358 CL
     Exley,Charles Marvin 
 
@@ -131003,7 +131003,7 @@ SOC
 0312
 Science In Society
 3 cr.
-SSIFNGLO				
+SS IFN GLO				
 MoWeFr / 03:00 PM-03:50 PM / 02200 WWPH
     Cuda,John R 
 
@@ -132277,7 +132277,7 @@ ARABIC
 1615
 Arabic Life And Thought
 3 cr.
-IFNREG			
+IFN REG			
 MoWe / 03:00 PM-04:15 PM / 00237 CL
     Attia, Amani 
 
@@ -132403,7 +132403,7 @@ PHIL
 0212
 Histry Of Mdrn Phil/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 04:00 PM-04:00 PM / TBA TBA / MoWe / 12:00 PM-12:50 PM / TBA TBA
      
 
@@ -132795,7 +132795,7 @@ GSWS
 0100
 Int To Gender, Sexty, & Womnst
 3 cr.
-SSW			
+SS W			
 Mo / 06:00 PM-08:30 PM / 00402 CL
      
 
@@ -132809,7 +132809,7 @@ GSWS
 0550
 Sex And Sexualities
 3 cr.
-HS			
+HS 			
 TuTh / 02:30 PM-03:45 PM / 00330 CL
     Beaulieu,Julie R 
 
@@ -132823,7 +132823,7 @@ GSWS
 0600
 Global Lgbtq Literature
 3 cr.
-LITGLO			
+LIT GLO			
 Tu / 06:00 PM-08:30 PM / 00402 CL
     Beaulieu,Julie R 
 
@@ -133145,7 +133145,7 @@ HIST
 0302
 Soviet Russia
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 11:00 AM-11:50 AM / 00129 VICTO
     Chase,William 
 
@@ -133159,7 +133159,7 @@ HIST
 0200
 East Europe Civilization
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 11:00 AM-12:15 PM / 00139 CL
     Hoxha, Artan 
 
@@ -133173,7 +133173,7 @@ HIST
 0752
 Empires Of The Steppe
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 09:30 AM-10:45 AM / 00358 CL
     Pickett,James R 
 
@@ -133215,7 +133215,7 @@ HIST
 1108
 Comparative European History
 3 cr.
-HSCOM			
+HS COM			
 MoWe / 03:00 PM-04:15 PM / 0300 OEH
     Wezel,Katja 
 
@@ -133229,7 +133229,7 @@ HIST
 1084
 Food And History
 3 cr.
-HSGLO			
+HS GLO			
 TuTh / 11:00 AM-12:15 PM / 0208A CL
     Winerock,Emily Frances 
 
@@ -133257,7 +133257,7 @@ HIST
 1422
 Late Imperial China
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 02:30 PM-03:45 PM / 106 LAWRN
     Luesink,David Nanson 
 
@@ -133271,7 +133271,7 @@ HIST
 1610
 United States Colonial
 3 cr.
-HS			
+HS 			
 We / 12:00 PM-02:25 PM / 00142 CL
     Smith,Randy Scott 
 
@@ -133285,7 +133285,7 @@ HIST
 1617
 United States In The 1960'S
 3 cr.
-HS			
+HS 			
 TuTh / 02:30 PM-03:45 PM / 00104 LAWRN
     Greenwald,Maurine 
 
@@ -133299,7 +133299,7 @@ HIST
 1625
 History Of The Amercn Frontier
 3 cr.
-HS			
+HS 			
 MoWe / 03:00 PM-04:15 PM / 00352 CL
     Smith,Randy Scott 
 
@@ -133313,7 +133313,7 @@ HIST
 1722
 Modern South African History
 3 cr.
-HSIFNREG				
+HS IFN REG				
 TuTh / 09:30 AM-10:45 AM / 00242 CL
     Miller,James M 
 
@@ -133481,7 +133481,7 @@ CS
 0007
 Intro To Computer Programming
 3 cr.
-AQ				
+A Q				
 TuTh / 01:00 PM-02:15 PM / 05502 SENSQ
     Filipski-Bigrigg, Karen 
 
@@ -133663,7 +133663,7 @@ HAA
 0010
 Introduction To World Art
 3 cr.
-MACOM			
+MA COM			
 TuTh / 01:00 PM-02:15 PM / 00202 FKART
     King,Isaac Ogden 
 
@@ -133677,7 +133677,7 @@ HAA
 0040
 Intro To Western Architecture
 3 cr.
-MAREG			
+MA REG			
 MoWe / 03:00 PM-04:15 PM / 00202 FKART
     Beranek,Saskia R 
 
@@ -133705,7 +133705,7 @@ HAA
 0350
 Baroque Art
 3 cr.
-MAEXCOM				
+MA EX COM				
 MoWe / 04:30 PM-05:45 PM / 00202 FKART
     Beranek,Saskia R 
 
@@ -133733,7 +133733,7 @@ HAA
 0620
 Art Of China
 3 cr.
-MAEXIFNREG					
+MA EXIFN REG					
 TuTh / 01:00 PM-02:15 PM / 00203 FKART
     Luo,Di 
 
@@ -133859,7 +133859,7 @@ PHIL
 0332
 Political Philosophy/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 04:00 PM-04:50 PM / 00135 CL / MoWe / 11:00 AM-11:50 AM / TBA TBA
      
 
@@ -133873,7 +133873,7 @@ PHIL
 0332
 Political Philosophy/Writ Prac
 4 cr.
-PHW			
+PH W			
 MoWe / 11:00 AM-11:50 AM / TBA TBA / MoWe / 01:00 PM-01:50 PM / 00121 CL
      
 
@@ -134153,7 +134153,7 @@ PS
 0300
 Comparative Politics
 3 cr.
-SSCOM			
+SS COM			
 Tu / 06:00 PM-08:30 PM / 00230 CL
     Block,Douglas Aaron 
 
@@ -134237,7 +134237,7 @@ RELGST
 1550
 East Asian Buddhism
 3 cr.
-IFNCOM			
+IFN COM			
 MoWe / 03:00 PM-04:15 PM / 249 CL
     Penkower,Linda 
 
@@ -134251,7 +134251,7 @@ HIST
 1475
 East Asian Buddhism
 3 cr.
-IFNCOM			
+IFN COM			
 MoWe / 03:00 PM-04:15 PM / 249 CL
     Penkower,Linda 
 
@@ -134265,7 +134265,7 @@ RELGST
 1570
 Religion in Japan
 3 cr.
-IFNREG			
+IFN REG			
 TuTh / 11:00 AM-12:15 PM / 252 CL
     Chilson, Clark Van Doren 
 
@@ -134279,7 +134279,7 @@ HIST
 1477
 Religion in Japan
 3 cr.
-IFNREG			
+IFN REG			
 TuTh / 11:00 AM-12:15 PM / 252 CL
     Chilson,Clark Van Doren 
 
@@ -134489,7 +134489,7 @@ HIST
 0671
 Afro-American History 2
 3 cr.
-HS			
+HS 			
 Mo / 06:00 PM-08:25 PM / 04165 WWPH
     Tsoukas,Liann E 
 
@@ -134503,7 +134503,7 @@ AFRCNA
 0630
 Afro-American History 2
 3 cr.
-HS			
+HS 			
 Mo / 06:00 PM-08:25 PM / 04165 WWPH
     Tsoukas,Liann E 
 
@@ -134644,7 +134644,7 @@ JS
 1250
 Jews & Judaism In Modern World
 3 cr.
-HS			
+HS 			
 TuTh / 11:00 AM-12:15 PM / 5404 WWPH
     Kranson,Rachel L 
 
@@ -134672,7 +134672,7 @@ RELGST
 1250
 Jews & Judaism In Modern World
 3 cr.
-HS			
+HS 			
 TuTh / 11:00 AM-12:15 PM / 5404 WWPH
     Kranson,Rachel L 
 
@@ -134686,7 +134686,7 @@ JS
 1644
 Chrst Muslims Jews Middle Ages
 3 cr.
-HS			
+HS 			
 TuTh / 09:30 AM-10:45 AM / 00352 CL
     Shear,Adam B 
 
@@ -134700,7 +134700,7 @@ HIST
 1768
 Christians, Muslims, Jews
 3 cr.
-HS			
+HS 			
 TuTh / 09:30 AM-10:45 AM / 00352 CL
     Shear,Adam B 
 
@@ -134714,7 +134714,7 @@ RELGST
 1644
 Chrst Muslims Jews Middle Ages
 3 cr.
-HS			
+HS 			
 TuTh / 09:30 AM-10:45 AM / 00352 CL
     Shear, Adam B 
 
@@ -134756,7 +134756,7 @@ SOC
 1488
 History Medicine & Health Care
 3 cr.
-HS			
+HS 			
 TuTh / 11:00 AM-12:15 PM / 00119 CL
     Chresfield,Michell R 
 
@@ -134770,7 +134770,7 @@ HIST
 1090
 History Medicine & Health Care
 3 cr.
-HS			
+HS 			
 TuTh / 11:00 AM-12:15 PM / 00119 CL
     Chresfield,Michell R 
 
@@ -134798,7 +134798,7 @@ RELGST
 1681
 Inventing Israel
 
-HS			
+HS 			
 TuTh / 1:00 PM-2:15 PM /  
     Shear, Adam 
 
@@ -134812,7 +134812,7 @@ HIST
 1712
 Invent Israel
 3 cr.
-HS			
+HS 			
 TuTh / 01:00 PM-02:15 PM / 00235 CL
     Shear,Adam B 
 
@@ -134826,7 +134826,7 @@ JS
 1681
 Inventing Israel
 3 cr.
-HS			
+HS 			
 TuTh / 01:00 PM-02:15 PM / 00235 CL
     Shear, Adam 
 
@@ -134868,7 +134868,7 @@ HIST
 1175
 Xenophobia In Modern Europe
 3 cr.
-HSCOMREG			
+HS COMREG			
 TuTh / 02:30 PM-03:45 PM / 01501 WWPH
     Hagerty,Bernard George 
 
@@ -134896,7 +134896,7 @@ HAA
 1652
 Japan: Buddhist Art & Ritual
 3 cr.
-IFNREG			
+IFN REG			
 TuTh / 11:00 AM-12:15 PM / 00202 FKART
     Gerhart,Karen M 
 
@@ -135008,7 +135008,7 @@ LING
 1253
 Pidgin And Creole Languages
 3 cr.
-IFNREG			
+IFN REG			
 MoWeFr / 10:00 AM-10:50 AM / 00235 CL
     Gooden,Shelome Antonette 
 
@@ -135218,7 +135218,7 @@ SLAV
 1225
 Cros Cltl Reprstn Prison 20thc
 3 cr.
-LITCOM			
+LIT COM			
 MoWe / 04:30 PM-05:45 PM / 00142 CL / MoWe / 04:30 PM-05:45 PM / 00142 CL
     Wright, Jarrell David 
 
@@ -135302,7 +135302,7 @@ RELGST
 1450
 Islam, Law and Politics
 3 cr.
-IFN			
+IFN 			
 TuTh / 02:30 PM-03:45 PM / 00216 CL
     Jouili,Jeanette Selma Lotte 
 
@@ -135316,7 +135316,7 @@ HIST
 1794
 Islam, Law and Politics
 3 cr.
-IFN			
+IFN 			
 TuTh / 02:30 PM-03:45 PM / 00216 CL
     Jouili,Jeanette Selma Lotte 
 
@@ -135666,7 +135666,7 @@ PS
 1371
 Islam, Law,and Politics
 3 cr.
-IFN			
+IFN 			
 TuTh / 02:30 PM-03:45 PM / 00216 CL
     Jouili,Jeanette Selma Lotte 
 
@@ -136394,7 +136394,7 @@ CLASS
 0618
 Death In The Ancient World
 3 cr.
-MACOM			
+MA COM			
 TuTh / 02:30 PM-03:45 PM / 00125 FKART
     Weaver,Carrie L 
 
@@ -136450,7 +136450,7 @@ HIST
 1145
 Intellcl Foundtns Of Capitlism
 3 cr.
-HSCOM			
+HS COM			
 Th / 01:00 PM-03:25 PM / 00213 CL
     Hammond,Leslie Ann 
 
@@ -136506,7 +136506,7 @@ MUSIC
 1332
 Music In Latin America
 3 cr.
-IFNREG			
+IFN REG			
 MoWe / 12:00 PM-01:15 PM / 00132 MUSIC
     Pinkerton,Emily J 
 
@@ -136520,7 +136520,7 @@ MUSIC
 1270
 Music, Culture & Technology
 3 cr.
-MAHS				
+MAHS 				
 MoWe / 10:00 AM-11:15 AM / 00132 MUSIC
     Johnson,Aaron Joseph 
 
@@ -136716,7 +136716,7 @@ THEA
 1341
 World Theatre: 500 Bce To 1640
 3 cr.
-LITMAHSCOM					
+LIT MAHS COM					
 MoWeFr / 10:00 AM-10:50 AM / 00404 IS
      
 
@@ -136898,7 +136898,7 @@ HIST
 0403
 Hist Of Modern Southeast Asia
 3 cr.
-HSIFNREG				
+HS IFN REG				
 MoWe / 03:00 PM-04:15 PM / G13 CL
     Ricketts,Jessica Jordan 
 
@@ -136912,7 +136912,7 @@ HIST
 1668
 History Of Pittsburgh
 3 cr.
-HS			
+HS 			
 TuTh / 01:00 PM-02:15 PM / 363 CL
     Burstin,Barbara Stern 
 
@@ -136926,7 +136926,7 @@ HIST
 1040
 World War I-Compartv Perspectv
 3 cr.
-HSCOM			
+HS COM			
 We / 06:00 PM-08:30 PM / 00106 LAWRN
     Novosel,Anthony Stephen 
 
@@ -137164,7 +137164,7 @@ SOC
 0473
 Soc Of Globalization & Health
 3 cr.
-SSGLO			
+SS GLO			
 MoWe / 04:00 PM-05:15 PM / 107 LAWRN
     Smith,Jacquelyn Geryl 
 
@@ -137220,7 +137220,7 @@ HIST
 0700
 World History
 3 cr.
-HSIFNGLO				
+HS IFN GLO				
 We / 06:00 PM-08:30 PM / 202 FKART
     Behrendt,Andrew Ernest 
 
@@ -137332,7 +137332,7 @@ KOREAN
 0007
 Int To Korean Cult And Civlz
 3 cr.
-IFNREG			
+IFN REG			
 TuTh / 02:30 PM-03:45 PM / 00239 CL
     SHIN, Seung-Hwan 
 
@@ -137514,7 +137514,7 @@ ECON
 1030
 Intellcl Foundtns Of Capitlism
 3 cr.
-HSCOM			
+HS COM			
 Th / 01:00 PM-03:25 PM / 00213 CL
     Hammond,Leslie Ann 
 
@@ -138452,7 +138452,7 @@ ENGLIT
 0325
 The Short Story
 3 cr.
-LITW			
+LIT W			
 MoWe / 03:00 PM-04:15 PM / TBA TBA
     Staff 
 
@@ -138649,7 +138649,7 @@ CLASS
 0618
 Death in the Ancient World
 3 cr.
-MACOM
+MA COM
 TuTh / 11:00 AM-12:15 PM / 00116 CL 
     Weaver,Carrie L 
 
@@ -138664,7 +138664,7 @@ HIST
 1026
 States and Sex in the Americas  
 
-HSIFNCOMW
+HS IFN COMW
 Th / 01:00 PM-03:25 PM / &nbsp;                                                                                         
 Chresfield, Michell 
          This course will explore the historical use of eugenics as a scientific movement used to justify state interest in the reproductive lives of women in the United States, Latin America, and the Caribbean between 1900 and 1940. As a bio-social movement committed to better breeding, eugenics lent scientific legitimacy to a host of state-sponsored initiatives, such as better baby contests, forced sterilization, and laws against interracial marriage. This course introduces to a variety of primary and secondary sources including photographs and films. Students will write three short papers over the course of the semester and class time will be devoted to discussing, critiquing, and revising written work. ?This course will meet in 3501 Posvar.?
