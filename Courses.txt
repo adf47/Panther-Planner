@@ -32208,10 +32208,9 @@ Intramural Internship
 MoFr / 03:00 PM-04:15 PM / 00G26 BENDM
     Almarza,Alejandro Jose
 
-         span style="font-size:medium">
-Course Objectives: Upon completing the course, the student should be able to prepare a professional quality abstract documenting background, methodology, and results from a research project and make a professional quality oral presentation describing the research.Topics Covered:
+		 Course Objectives: Upon completing the course, the student should be able to prepare a professional quality abstract documenting background, methodology, and results from a research project and make a professional quality oral presentation describing the research.Topics Covered:
 
-          
+        Instructor Permission
 
 13301
 2174
@@ -32223,9 +32222,7 @@ Bioengineering Thermodynamics
 TuTh / 10:00 AM-11:15 AM / 00320 BENDM
     Patzer II,John F
 
-         
-5 or 0476, BIOENG 1070 
-Course Objectives: Upon completing the course, the student should be able to describe how the three laws of thermodynamics impact biological systems and be able to apply fundamental thermodynamics principles to set up and solve problems in physiological systems. Topics Covered:
+         Course Objectives: Upon completing the course, the student should be able to describe how the three laws of thermodynamics impact biological systems and be able to apply fundamental thermodynamics principles to set up and solve problems in physiological systems. Topics Covered:
 
         PREQ: BIOENG 1070 and (MATH 0240 and 0290) and (PHYS 0175 or 0476); PLAN: Bioengineering (BSE or BEH) 
 
@@ -32337,8 +32334,7 @@ Bioengineering Design 2
 Tu / 01:00 PM-03:25 PM / 00320 BENDM
     Gartner,Mark J
 
-         
-Course Objectives: Students will be able to apply appropriate product design-related procedures and tools, maintain design history files, conduct preliminary market/reimbursement studies, and address regulatory affairs in developing a prototype biomedical product or equivalent. Topics Covered:
+		 Course Objectives: Students will be able to apply appropriate product design-related procedures and tools, maintain design history files, conduct preliminary market/reimbursement studies, and address regulatory affairs in developing a prototype biomedical product or equivalent. Topics Covered:
 
         PREQ: BIOENG 1160   PLAN: Bioengineering (BSE or BEH) 
 
@@ -32366,12 +32362,10 @@ Special Projects
  / - / TBA TBA
     Patzer II,John F
 
-         
-BIOENG 1095 Application must be completed and approved prior to registration for BIOENG 1095. 
-Restrictions:     Students CANNOT be paid to perform any project work.       Bioengineering students CANNOT register for BIOENG 1095 prior to completing BIOENG 1002 – Intramural Internship.  
-
+		 Special Projects provides an opportunity for students to develop an individual research project under the guidance of a faculty member/mentor. Projects can involve laboratory research, engineering design, or instructional development. While the project must be related to bioengineering, the mentor can be a faculty member in any department or hospital affiliated with the University of Pittsburgh. 
           
-
+		A BIOENG 1095 Application must be completed and approved prior to registration for BIOENG 1095.
+		  
 13316
 2174
 COE
