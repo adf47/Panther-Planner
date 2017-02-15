@@ -31284,9 +31284,7 @@ Intro To Bioengnrng: Seminar
 Mo / 02:00 PM-02:50 PM / 00157 BENDM
     Patzer II,John F
 
-         
-tudent or Department permission 
-Course Objectives: Student awareness of opportunities that are available and knowledge about how to utilize the opportunities for their benefit.Topics Covered: Some of the topics covered in Seminar include 
+		 Course Objectives: Student awareness of opportunities that are available and knowledge about how to utilize the opportunities for their benefit.Topics Covered: Some of the topics covered in Seminar include 
 
         PROG: Swanson School of Engineering  
 
@@ -138635,7 +138633,6 @@ MoWe / 02:00 PM-03:40 PM / G19B CL
 
          This Swahili language course is a continuation of LING 0501/AFRCNA 0523 Swahili 1
 
-		 
   
 31177
 2174
@@ -138649,8 +138646,10 @@ Tu / 03:30 PM-05:55 PM / 3501 WWPH
 
          This course explores violence and memory in Latin America by focusing on the long history of U.S. military intervention in Central America and the Caribbean. We will first consider the mid-nineteenth century invasions by U.S. filibusters  (?pirates?) and then turn to the lengthy U.S. military occupations of the early twentieth century.  Why did these U.S. interventions, typically made in the name of democracy, engender high levels of violence? And in what ways did the violence leave an imprint on local memories? Much of the course is geared towards guiding students through the stages of writing an approximately 15-page research essay based on primary sources, such as U.S. State Department records, newspapers, and testimonies. No Spanish-language skills are required for this course but students proficient in Spanish are welcome to use Spanish-language sources for their essay.
  
-        
-		
+             
+
+
+  
 31193
 2174
 CLASS
@@ -138663,8 +138662,9 @@ TuTh / 11:00 AM-12:15 PM / 00116 CL
 
          The death of a loved one is an emotional and powerful occurrence that provokes a variety of human responses. In addition to writings describing their funerary practices, the civilizations of the ancient Mediterranean region have left artistic representations of death and dying, built tombs, and objects associated with funerary rituals. The study of these texts, images, structures, and objects allows us to better understand ancient attitudes and reactions to death.
  
-        
-	  
+             
+	
+		  
 31210
 2174
 HIST
@@ -138673,11 +138673,10 @@ States and Sex in the Americas
 
 HSIFNCOMW
 Th / 01:00 PM-03:25 PM / &nbsp;                                                                                         
-	Chresfield, Michell
-	
+Chresfield, Michell 
          This course will explore the historical use of eugenics as a scientific movement used to justify state interest in the reproductive lives of women in the United States, Latin America, and the Caribbean between 1900 and 1940. As a bio-social movement committed to better breeding, eugenics lent scientific legitimacy to a host of state-sponsored initiatives, such as better baby contests, forced sterilization, and laws against interracial marriage. This course introduces to a variety of primary and secondary sources including photographs and films. Students will write three short papers over the course of the semester and class time will be devoted to discussing, critiquing, and revising written work. ?This course will meet in 3501 Posvar.?
  
-        
+             		  
 
 31235
 2174
@@ -138691,4 +138690,4 @@ TuTh / 04:00 PM-05:15 PM / 37 CL
 
          This course will be taught essentially as a literature course; that is to say, attention will be focused on how various authors of classical (chiefly Greek) antiquity used the traditional figures and stories of their culture's mythology in order to say things of lasting value about the conditions and problems of human life.  We shall begin with the emergence of the cosmos as recounted in Hesiod's Theogony and then take up each of the major Olympian dieties in turn, studying the ways in which they are depicted in other works of Greek literature, including the Homeric Hymns, various plays by Aeschylus and Euripides, and Homer's Odyssey. 
  
-        
+             
