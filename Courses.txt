@@ -31606,8 +31606,7 @@ Biomech 1-Mechl Prin Bio Syms
 MoWe / 03:30 PM-04:45 PM / 00320 BENDM
     Chambers,April Jeannette
 
-         
-Course Objectives: After completion of the course, students should be able to describe the general characteristics and material properties for tissue and organs studied in the course, analyze the forces at a skeletal joint for various static and dynamic human activities, state and use the concepts of balance and stability in describing human motion, and compute the stresses and strains in biological tissues, given loading conditions and material properties. Topics Covered:
+		 Course Objectives: After completion of the course, students should be able to describe the general characteristics and material properties for tissue and organs studied in the course, analyze the forces at a skeletal joint for various static and dynamic human activities, state and use the concepts of balance and stability in describing human motion, and compute the stresses and strains in biological tissues, given loading conditions and material properties. Topics Covered:
 
         PREQ: ENGR 0135  PLAN: Bioengineering (BSE or BEH) 
 
