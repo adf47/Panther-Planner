@@ -12,7 +12,7 @@ import CloudKit
 class ViewController: NSViewController {
     
     var file = ""
-    var x = 31752 //Going to need to subtract from this what I delete from database
+    var x = 31724 //Going to need to subtract from this what I delete from database
     
     var classNum = ""
     var term = ""
@@ -45,7 +45,7 @@ class ViewController: NSViewController {
     
     @IBAction func UpdateDatabase(_ sender: Any) {
         
-        if let fileURL = Bundle.main.url(forResource:"Courses2", withExtension: ".txt")
+        if let fileURL = Bundle.main.url(forResource:"Courses3", withExtension: ".txt")
         {
             do {
                 let contents = try String(contentsOf: fileURL, encoding: String.Encoding.utf8)
