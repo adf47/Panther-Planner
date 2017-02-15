@@ -12,7 +12,7 @@ import CloudKit
 class ViewController: NSViewController {
     
     var file = ""
-    var x = 31724 //Going to need to subtract from this what I delete from database
+    var x = 31724 - 112 //Going to need to subtract from this what I delete from database
     
     var classNum = ""
     var term = ""
@@ -117,6 +117,7 @@ class ViewController: NSViewController {
             
             x = x + 14
             print(x)
+            
             //sleep to stall thread for uploading to database
             sleep(5)
         }
