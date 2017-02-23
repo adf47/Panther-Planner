@@ -16,7 +16,7 @@ class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDe
     
     let reuseIdentifier = "cell"
     var items = [String]()
-    
+    var buttons = [MyCollectionViewCell]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -34,8 +34,10 @@ class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDe
     
     // tell the collection view how many cells to make
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        print("HI")
+        
+        //print("HI")
         return self.items.count
+        
     }
     
     // make a cell for each cell index path
@@ -49,6 +51,8 @@ class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDe
         cell.myLabel.text = self.items[indexPath.item]
         cell.backgroundColor = UIColor.blue // make cell more visible in our example project
         
+        self.buttons.append(cell)
+        
         return cell
     }
     
@@ -58,7 +62,8 @@ class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDe
         // handle tap events
         print("You selected \(16 - indexPath.item)!")
         
-        //create segue to go to credits page to load database info here 
+        buttons[indexPath.item].backgroundColor = UIColor.brown
+        
     }
     
     

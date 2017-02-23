@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */; };
+		3D4B962D1E5E996B00B41379 /* IMG_3219.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */; };
 		3D672C481E5E4DE600D56E8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D672C471E5E4DE600D56E8F /* AppDelegate.swift */; };
 		3D672C4A1E5E4DE600D56E8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D672C491E5E4DE600D56E8F /* ViewController.swift */; };
 		3D672C4D1E5E4DE600D56E8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D672C4B1E5E4DE600D56E8F /* Main.storyboard */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeeCreditsView.swift; sourceTree = "<group>"; };
+		3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_3219.PNG; path = ../../../../../../var/folders/xw/d_qjfw2j3cz_gsr48f1ljmz80000gn/T/com.apple.iChat/Messages/Transfers/IMG_3219.PNG; sourceTree = "<group>"; };
 		3D672C441E5E4DE500D56E8F /* iCourse Catalog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iCourse Catalog.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D672C471E5E4DE600D56E8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D672C491E5E4DE600D56E8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,8 +109,10 @@
 				3D672C491E5E4DE600D56E8F /* ViewController.swift */,
 				3D672C4B1E5E4DE600D56E8F /* Main.storyboard */,
 				3D672C751E5E79F200D56E8F /* credits.swift */,
+				3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */,
 				3D672C771E5E7B6600D56E8F /* MyCollectionViewCell.swift */,
 				3D672C4E1E5E4DE600D56E8F /* Assets.xcassets */,
+				3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */,
 				3D672C501E5E4DE600D56E8F /* LaunchScreen.storyboard */,
 				3D672C531E5E4DE700D56E8F /* Info.plist */,
 			);
@@ -241,6 +247,7 @@
 			files = (
 				3D672C521E5E4DE600D56E8F /* LaunchScreen.storyboard in Resources */,
 				3D672C4F1E5E4DE600D56E8F /* Assets.xcassets in Resources */,
+				3D4B962D1E5E996B00B41379 /* IMG_3219.PNG in Resources */,
 				3D672C4D1E5E4DE600D56E8F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,6 +277,7 @@
 				3D672C481E5E4DE600D56E8F /* AppDelegate.swift in Sources */,
 				3D672C781E5E7B6700D56E8F /* MyCollectionViewCell.swift in Sources */,
 				3D672C761E5E79F200D56E8F /* credits.swift in Sources */,
+				3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -520,6 +528,7 @@
 				3D672C6E1E5E4DE800D56E8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3D672C6F1E5E4DE800D56E8F /* Build configuration list for PBXNativeTarget "iCourse CatalogTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +537,7 @@
 				3D672C711E5E4DE800D56E8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3D672C721E5E4DE800D56E8F /* Build configuration list for PBXNativeTarget "iCourse CatalogUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +546,7 @@
 				3D672C741E5E4DE800D56E8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
