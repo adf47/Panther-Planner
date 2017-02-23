@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12106.1" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12074.1"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -22,19 +22,35 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="iCourse Catalog" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rfk-hH-r4O">
-                                <rect key="frame" x="105" y="318" width="165" height="31"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="IMG_3219.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="wsb-hx-cGW">
+                                <rect key="frame" x="67" y="110" width="240" height="240"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rfk-hH-r4O">
+                                <rect key="frame" x="89" y="378" width="196" height="45"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="45" id="Vmr-xT-8bv"/>
+                                </constraints>
+                                <attributedString key="attributedText">
+                                    <fragment content="iCourse Catalog">
+                                        <attributes>
+                                            <color key="NSColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <font key="NSFont" size="24" name="ChalkboardSE-Regular"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
                         <color key="backgroundColor" name="alternateSelectedControlColor" catalog="System" colorSpace="catalog"/>
                         <constraints>
-                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="89" id="fjn-SA-eu5"/>
-                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="hjR-ca-SWm"/>
-                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="298" id="oYt-Q1-szc"/>
-                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="wMn-4C-oxG"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="90" id="0Z5-yP-XyA"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="28R-QN-k8A"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="centerX" secondItem="Rfk-hH-r4O" secondAttribute="centerX" id="Hv6-JQ-dUd"/>
+                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="top" secondItem="wsb-hx-cGW" secondAttribute="bottom" constant="28" id="P6f-Ee-tyc"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="51" id="Y7g-mR-A0J"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="Rfk-hH-r4O" secondAttribute="bottom" constant="244" id="Z5m-Mp-LOM"/>
+                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="73" id="iUf-bh-rwi"/>
                         </constraints>
                     </view>
                 </viewController>
@@ -43,4 +59,7 @@
             <point key="canvasLocation" x="104.8" y="221.73913043478262"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="IMG_3219.PNG" width="1024" height="1024"/>
+    </resources>
 </document>

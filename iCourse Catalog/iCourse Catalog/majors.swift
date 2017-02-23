@@ -15,7 +15,7 @@ class majors:  UIViewController, UICollectionViewDataSource, UICollectionViewDel
     @IBOutlet weak var collectionView: UICollectionView!
     
     struct Constants{
-        static var credits = ""
+        static var major = ""
     }
     
     let reuseIdentifier = "cell"
@@ -58,7 +58,7 @@ class majors:  UIViewController, UICollectionViewDataSource, UICollectionViewDel
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         // handle tap events
         print("You selected \(16 - indexPath.item)!")
-        Constants.credits = "\(16 - indexPath.item) cr."
+        Constants.major = items[indexPath.item]
         buttons[indexPath.item].backgroundColor = UIColor.brown
         
     }

@@ -1,8 +1,8 @@
 //
-//  SeeCreditsView.swift
+//  SeeMajorsView.swift
 //  iCourse Catalog
 //
-//  Created by Antonino Febbraro on 2/22/17.
+//  Created by Antonino Febbraro on 2/23/17.
 //  Copyright © 2017 Antonino Febbraro. All rights reserved.
 //
 
@@ -11,7 +11,7 @@ import UIKit
 import CloudKit
 import MapKit
 
-class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelegate, CLLocationManagerDelegate, MKMapViewDelegate {
+class SeeMajorsView: UIViewController, UITableViewDataSource, UITableViewDelegate, CLLocationManagerDelegate, MKMapViewDelegate {
     
     //Variables for cloudkit
     //var database = CKContainer.default().publicCloudDatabase
@@ -25,6 +25,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
     
     //things for tale view
     @IBOutlet weak var tableView: UITableView!
+    
     
     
     
@@ -42,7 +43,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
     override func viewDidLoad() {
         super.viewDidLoad()
         
-       
+        
         
         DispatchQueue.main.async {
             self.loadData()
@@ -50,7 +51,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
         
         refresh = UIRefreshControl()
         refresh.attributedTitle = NSAttributedString(string: "Pull to Refresh Page")
-        refresh.addTarget(self, action: #selector(SeeCreditsView.loadData), for: .valueChanged)
+        refresh.addTarget(self, action: #selector(SeeMajorsView.loadData), for: .valueChanged)
         self.tableView.addSubview(refresh)
         
         self.tableView.rowHeight = UITableViewAutomaticDimension
@@ -78,7 +79,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
         // Create a predicate to retrieve records within a radius of the user's location
         //let radius: CGFloat = 8.05
         // meters
-        let predicate = NSPredicate(format: "credits = %@", credits.Constants.credits)
+        let predicate = NSPredicate(format: "major = %@", majors.Constants.major)
         
         
         let query = CKQuery(recordType: "Course", predicate: predicate)
@@ -91,7 +92,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
             else {
                 print("Working")
                 if(results! == Optional([])!){
-                   self.loadData()
+                    self.loadData()
                     print("error trying agaon")
                 } //to make sure data loads in time
                 for result in results! {
@@ -101,7 +102,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
                     print(result["classTitle"] as? String)
                     print(result["credits"] as? String)
                     print(credits.Constants.credits)
-                    if(tempCat == credits.Constants.credits){
+                    
                         let tempTitle = result["classTitle"] as? String
                         
                         print("Should be working")
@@ -109,7 +110,6 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
                         self.TitleArray.append(tempTitle!)
                         
                         
-                    }
                 }
                 
                 DispatchQueue.main.async {
@@ -145,9 +145,9 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         print("You tapped cell number \(indexPath.row).")
         
+        
     }
     
     
     
 }
-

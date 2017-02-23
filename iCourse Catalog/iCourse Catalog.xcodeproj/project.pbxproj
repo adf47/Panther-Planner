@@ -7,8 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D17DA2C1E5EBA2900A8A76C /* IMG_3219.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 3D17DA2B1E5EBA2900A8A76C /* IMG_3219.PNG */; };
+		3D17DA2E1E5EBA9D00A8A76C /* SeeMajorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D17DA2D1E5EBA9D00A8A76C /* SeeMajorsView.swift */; };
 		3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */; };
-		3D4B962D1E5E996B00B41379 /* IMG_3219.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */; };
 		3D4B96311E5EA27700B41379 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D4B96301E5EA27700B41379 /* CloudKit.framework */; };
 		3D4B96331E5EB00700B41379 /* majors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B96321E5EB00700B41379 /* majors.swift */; };
 		3D672C481E5E4DE600D56E8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D672C471E5E4DE600D56E8F /* AppDelegate.swift */; };
@@ -40,8 +41,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D17DA2B1E5EBA2900A8A76C /* IMG_3219.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_3219.PNG; sourceTree = "<group>"; };
+		3D17DA2D1E5EBA9D00A8A76C /* SeeMajorsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeeMajorsView.swift; sourceTree = "<group>"; };
 		3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeeCreditsView.swift; sourceTree = "<group>"; };
-		3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_3219.PNG; path = ../../../../../../var/folders/xw/d_qjfw2j3cz_gsr48f1ljmz80000gn/T/com.apple.iChat/Messages/Transfers/IMG_3219.PNG; sourceTree = "<group>"; };
 		3D4B962E1E5EA26B00B41379 /* iCourse Catalog.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "iCourse Catalog.entitlements"; sourceTree = "<group>"; };
 		3D4B96301E5EA27700B41379 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
 		3D4B96321E5EB00700B41379 /* majors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = majors.swift; sourceTree = "<group>"; };
@@ -126,10 +128,11 @@
 				3D672C4B1E5E4DE600D56E8F /* Main.storyboard */,
 				3D672C751E5E79F200D56E8F /* credits.swift */,
 				3D4B96321E5EB00700B41379 /* majors.swift */,
+				3D17DA2D1E5EBA9D00A8A76C /* SeeMajorsView.swift */,
 				3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */,
 				3D672C771E5E7B6600D56E8F /* MyCollectionViewCell.swift */,
 				3D672C4E1E5E4DE600D56E8F /* Assets.xcassets */,
-				3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */,
+				3D17DA2B1E5EBA2900A8A76C /* IMG_3219.PNG */,
 				3D672C501E5E4DE600D56E8F /* LaunchScreen.storyboard */,
 				3D672C531E5E4DE700D56E8F /* Info.plist */,
 			);
@@ -272,7 +275,7 @@
 			files = (
 				3D672C521E5E4DE600D56E8F /* LaunchScreen.storyboard in Resources */,
 				3D672C4F1E5E4DE600D56E8F /* Assets.xcassets in Resources */,
-				3D4B962D1E5E996B00B41379 /* IMG_3219.PNG in Resources */,
+				3D17DA2C1E5EBA2900A8A76C /* IMG_3219.PNG in Resources */,
 				3D672C4D1E5E4DE600D56E8F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +303,7 @@
 			files = (
 				3D672C4A1E5E4DE600D56E8F /* ViewController.swift in Sources */,
 				3D672C481E5E4DE600D56E8F /* AppDelegate.swift in Sources */,
+				3D17DA2E1E5EBA9D00A8A76C /* SeeMajorsView.swift in Sources */,
 				3D672C781E5E7B6700D56E8F /* MyCollectionViewCell.swift in Sources */,
 				3D4B96331E5EB00700B41379 /* majors.swift in Sources */,
 				3D672C761E5E79F200D56E8F /* credits.swift in Sources */,
