@@ -1,8 +1,8 @@
 //
-//  credits.swift
+//  majors.swift
 //  iCourse Catalog
 //
-//  Created by Antonino Febbraro on 2/22/17.
+//  Created by Antonino Febbraro on 2/23/17.
 //  Copyright © 2017 Antonino Febbraro. All rights reserved.
 //
 
@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 import CloudKit
 
-class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
+class majors:  UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
     @IBOutlet weak var collectionView: UICollectionView!
     
@@ -25,14 +25,7 @@ class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDe
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        var x = 16
-        
-        while(x > 0)
-        {
-            self.items.append("\(x)")
-            x = x - 1
-        }
-        
+        items = ["CS","MATH"]
     }
     
     
@@ -69,6 +62,8 @@ class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDe
         buttons[indexPath.item].backgroundColor = UIColor.brown
         
     }
+    
+    
     
     
 }

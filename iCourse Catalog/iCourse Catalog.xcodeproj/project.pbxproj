@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */; };
 		3D4B962D1E5E996B00B41379 /* IMG_3219.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */; };
+		3D4B96311E5EA27700B41379 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D4B96301E5EA27700B41379 /* CloudKit.framework */; };
+		3D4B96331E5EB00700B41379 /* majors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B96321E5EB00700B41379 /* majors.swift */; };
 		3D672C481E5E4DE600D56E8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D672C471E5E4DE600D56E8F /* AppDelegate.swift */; };
 		3D672C4A1E5E4DE600D56E8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D672C491E5E4DE600D56E8F /* ViewController.swift */; };
 		3D672C4D1E5E4DE600D56E8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D672C4B1E5E4DE600D56E8F /* Main.storyboard */; };
@@ -40,6 +42,9 @@
 /* Begin PBXFileReference section */
 		3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeeCreditsView.swift; sourceTree = "<group>"; };
 		3D4B962C1E5E996B00B41379 /* IMG_3219.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_3219.PNG; path = ../../../../../../var/folders/xw/d_qjfw2j3cz_gsr48f1ljmz80000gn/T/com.apple.iChat/Messages/Transfers/IMG_3219.PNG; sourceTree = "<group>"; };
+		3D4B962E1E5EA26B00B41379 /* iCourse Catalog.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "iCourse Catalog.entitlements"; sourceTree = "<group>"; };
+		3D4B96301E5EA27700B41379 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
+		3D4B96321E5EB00700B41379 /* majors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = majors.swift; sourceTree = "<group>"; };
 		3D672C441E5E4DE500D56E8F /* iCourse Catalog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iCourse Catalog.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D672C471E5E4DE600D56E8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D672C491E5E4DE600D56E8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +67,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D4B96311E5EA27700B41379 /* CloudKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,6 +88,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3D4B962F1E5EA27700B41379 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3D4B96301E5EA27700B41379 /* CloudKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		3D672C3B1E5E4DE200D56E8F = {
 			isa = PBXGroup;
 			children = (
@@ -89,6 +103,7 @@
 				3D672C5B1E5E4DE700D56E8F /* iCourse CatalogTests */,
 				3D672C661E5E4DE700D56E8F /* iCourse CatalogUITests */,
 				3D672C451E5E4DE500D56E8F /* Products */,
+				3D4B962F1E5EA27700B41379 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,10 +120,12 @@
 		3D672C461E5E4DE500D56E8F /* iCourse Catalog */ = {
 			isa = PBXGroup;
 			children = (
+				3D4B962E1E5EA26B00B41379 /* iCourse Catalog.entitlements */,
 				3D672C471E5E4DE600D56E8F /* AppDelegate.swift */,
 				3D672C491E5E4DE600D56E8F /* ViewController.swift */,
 				3D672C4B1E5E4DE600D56E8F /* Main.storyboard */,
 				3D672C751E5E79F200D56E8F /* credits.swift */,
+				3D4B96321E5EB00700B41379 /* majors.swift */,
 				3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */,
 				3D672C771E5E7B6600D56E8F /* MyCollectionViewCell.swift */,
 				3D672C4E1E5E4DE600D56E8F /* Assets.xcassets */,
@@ -207,6 +224,14 @@
 						CreatedOnToolsVersion = 8.3;
 						DevelopmentTeam = G3KC28E98R;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 1;
+							};
+							com.apple.iCloud = {
+								enabled = 1;
+							};
+						};
 					};
 					3D672C571E5E4DE700D56E8F = {
 						CreatedOnToolsVersion = 8.3;
@@ -276,6 +301,7 @@
 				3D672C4A1E5E4DE600D56E8F /* ViewController.swift in Sources */,
 				3D672C481E5E4DE600D56E8F /* AppDelegate.swift in Sources */,
 				3D672C781E5E7B6700D56E8F /* MyCollectionViewCell.swift in Sources */,
+				3D4B96331E5EB00700B41379 /* majors.swift in Sources */,
 				3D672C761E5E79F200D56E8F /* credits.swift in Sources */,
 				3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */,
 			);
@@ -431,6 +457,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "iCourse Catalog/iCourse Catalog.entitlements";
 				DEVELOPMENT_TEAM = G3KC28E98R;
 				INFOPLIST_FILE = "iCourse Catalog/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
@@ -445,6 +472,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "iCourse Catalog/iCourse Catalog.entitlements";
 				DEVELOPMENT_TEAM = G3KC28E98R;
 				INFOPLIST_FILE = "iCourse Catalog/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
