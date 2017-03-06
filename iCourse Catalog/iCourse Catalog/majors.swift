@@ -25,7 +25,7 @@ class majors:  UIViewController, UICollectionViewDataSource, UICollectionViewDel
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        items = ["CS","MATH"]
+        items = ["CS","MATH","COMM","ENG"]
     }
     
     
@@ -46,7 +46,7 @@ class majors:  UIViewController, UICollectionViewDataSource, UICollectionViewDel
         // Use the outlet in our custom class to get a reference to the UILabel in the cell
         
         cell.myLabel.text = self.items[indexPath.item]
-        cell.backgroundColor = UIColor.blue // make cell more visible in our example project
+        cell.backgroundColor = UIColor.red // make cell more visible in our example project
         
         self.buttons.append(cell)
         

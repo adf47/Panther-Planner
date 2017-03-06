@@ -12,6 +12,7 @@
 		3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */; };
 		3D4B96311E5EA27700B41379 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D4B96301E5EA27700B41379 /* CloudKit.framework */; };
 		3D4B96331E5EB00700B41379 /* majors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B96321E5EB00700B41379 /* majors.swift */; };
+		3D4B96361E6E246D00B41379 /* ClassCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4B96351E6E246D00B41379 /* ClassCollectionViewCell.swift */; };
 		3D672C481E5E4DE600D56E8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D672C471E5E4DE600D56E8F /* AppDelegate.swift */; };
 		3D672C4A1E5E4DE600D56E8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D672C491E5E4DE600D56E8F /* ViewController.swift */; };
 		3D672C4D1E5E4DE600D56E8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D672C4B1E5E4DE600D56E8F /* Main.storyboard */; };
@@ -47,6 +48,7 @@
 		3D4B962E1E5EA26B00B41379 /* iCourse Catalog.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "iCourse Catalog.entitlements"; sourceTree = "<group>"; };
 		3D4B96301E5EA27700B41379 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
 		3D4B96321E5EB00700B41379 /* majors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = majors.swift; sourceTree = "<group>"; };
+		3D4B96351E6E246D00B41379 /* ClassCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassCollectionViewCell.swift; sourceTree = "<group>"; };
 		3D672C441E5E4DE500D56E8F /* iCourse Catalog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iCourse Catalog.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D672C471E5E4DE600D56E8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D672C491E5E4DE600D56E8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				3D17DA2D1E5EBA9D00A8A76C /* SeeMajorsView.swift */,
 				3D4B962A1E5E8B8700B41379 /* SeeCreditsView.swift */,
 				3D672C771E5E7B6600D56E8F /* MyCollectionViewCell.swift */,
+				3D4B96351E6E246D00B41379 /* ClassCollectionViewCell.swift */,
 				3D672C4E1E5E4DE600D56E8F /* Assets.xcassets */,
 				3D17DA2B1E5EBA2900A8A76C /* IMG_3219.PNG */,
 				3D672C501E5E4DE600D56E8F /* LaunchScreen.storyboard */,
@@ -306,6 +309,7 @@
 				3D17DA2E1E5EBA9D00A8A76C /* SeeMajorsView.swift in Sources */,
 				3D672C781E5E7B6700D56E8F /* MyCollectionViewCell.swift in Sources */,
 				3D4B96331E5EB00700B41379 /* majors.swift in Sources */,
+				3D4B96361E6E246D00B41379 /* ClassCollectionViewCell.swift in Sources */,
 				3D672C761E5E79F200D56E8F /* credits.swift in Sources */,
 				3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */,
 			);

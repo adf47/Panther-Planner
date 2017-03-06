@@ -107,7 +107,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
                         print("Should be working")
                         //self.CategoryArray.append(tempDes!)
                         self.TitleArray.append(tempTitle!)
-                        
+                        //self.classNumArray.append()
                         
                     }
                 }
