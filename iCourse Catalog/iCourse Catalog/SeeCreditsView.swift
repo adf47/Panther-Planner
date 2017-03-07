@@ -11,7 +11,9 @@ import UIKit
 import CloudKit
 import MapKit
 
-class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelegate, CLLocationManagerDelegate, MKMapViewDelegate {
+class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,UICollectionViewDataSource, UICollectionViewDelegate {
+    
+    @IBOutlet weak var collectionView: UICollectionView!
     
     //Variables for cloudkit
     //var database = CKContainer.default().publicCloudDatabase
@@ -34,9 +36,14 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
     var tempDesc = ""
     var arrayName: Array<String> = []
     var TitleArray = [String]()
+    var majorArray = [String]()
+    var creditsArray = [String]()
+    
+    var buttons = [ClassCollectionViewCell]()
+    
     
     // cell reuse id (cells that scroll out of view can be reused)
-    let cellReuseIdentifier = "cell"
+    let reuseIdentifier = "cell2"
     
     
     override func viewDidLoad() {
@@ -48,7 +55,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
             self.loadData()
         }
         
-        refresh = UIRefreshControl()
+       /* refresh = UIRefreshControl()
         refresh.attributedTitle = NSAttributedString(string: "Pull to Refresh Page")
         refresh.addTarget(self, action: #selector(SeeCreditsView.loadData), for: .valueChanged)
         self.tableView.addSubview(refresh)
@@ -61,7 +68,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
         
         // This view controller itself will provide the delegate methods and row data for the table view.
         tableView.delegate = self
-        tableView.dataSource = self
+        tableView.dataSource = self*/
         
         
     }
@@ -98,23 +105,25 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
                     
                     print("in loop ")
                     let tempCat = result["credits"] as? String
-                    print(result["classTitle"] as? String)
-                    print(result["credits"] as? String)
-                    print(credits.Constants.credits)
+                    //print(result["classTitle"] as? String)
+                    //print(result["credits"] as? String)
+                    //print(credits.Constants.credits)
                     if(tempCat == credits.Constants.credits){
                         let tempTitle = result["classTitle"] as? String
-                        
+                        let major = result["major"] as? String
+                        let credits = result["credits"] as? String
                         print("Should be working")
                         //self.CategoryArray.append(tempDes!)
                         self.TitleArray.append(tempTitle!)
-                        //self.classNumArray.append()
+                        self.majorArray.append(major!)
+                        self.creditsArray.append(credits!)
                         
                     }
                 }
                 
                 DispatchQueue.main.async {
-                    self.tableView.reloadData()
-                    self.tableView.isHidden = false
+                    self.collectionView.reloadData()
+                    self.collectionView.isHidden = false
                 }
             }
         }
@@ -124,7 +133,7 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
     
     
     // number of rows in table view
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+   /* func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return (self.TitleArray.count)
     }
     
@@ -144,6 +153,42 @@ class SeeCreditsView: UIViewController, UITableViewDataSource, UITableViewDelega
     // method to run when table view cell is tapped
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         print("You tapped cell number \(indexPath.row).")
+        
+    }*/
+    
+    // tell the collection view how many cells to make
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        
+        print("HI")
+        return self.creditsArray.count
+        
+    }
+    
+    // make a cell for each cell index path
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        
+        // get a reference to our storyboard cell
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: reuseIdentifier, for: indexPath as IndexPath) as! ClassCollectionViewCell
+        
+        // Use the outlet in our custom class to get a reference to the UILabel in the cell
+        
+        cell.courseNum.text = self.majorArray[indexPath.row]
+        cell.className.text = self.TitleArray[indexPath.row]
+        cell.credits.text = "Credits: \(self.creditsArray[indexPath.row])"
+        cell.backgroundColor = UIColor.white // make cell more visible in our example project
+        
+        self.buttons.append(cell)
+        
+        return cell
+    }
+    
+    // MARK: - UICollectionViewDelegate protocol
+    
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        // handle tap events
+        print("You selected \(16 - indexPath.item)!")
+        //Constants.credits = "\(16 - indexPath.item) cr."
+        //buttons[indexPath.item].backgroundColor = UIColor.brown
         
     }
     
