@@ -183,6 +183,8 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
         cell.courseNum.text = self.majorArray[indexPath.row]
         cell.courseNum.layer.masksToBounds = true
         cell.courseNum.layer.cornerRadius = 8.0
+        
+        //change color of box on the left here 
         if(self.majorArray[indexPath.row] == "BUSORG"){
             cell.courseNum.backgroundColor = UIColor.red
         }
