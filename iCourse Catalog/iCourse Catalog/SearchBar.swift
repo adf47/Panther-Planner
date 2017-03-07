@@ -203,6 +203,9 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         
         cell.backgroundColor = UIColor.white // make cell more visible in our example project
         
+        cell.layer.masksToBounds = true
+        cell.layer.cornerRadius = 10.0
+        
         self.buttons.append(cell)
         //print("returning cell!!")
         return cell
