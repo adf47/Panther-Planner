@@ -13,6 +13,7 @@ import MapKit
 
 class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,UICollectionViewDataSource, UICollectionViewDelegate {
     
+    
     @IBOutlet weak var collectionView: UICollectionView!
     
     
