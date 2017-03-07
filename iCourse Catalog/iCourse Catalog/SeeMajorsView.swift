@@ -27,6 +27,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     var refresh:UIRefreshControl!
     
     //things for tale view
+    @IBOutlet weak var majorLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!
     
     var items = ["AFRCNA","ANTH","ARABIC","ASL","ARCH","ARTSC","ASTRON","BIOETH","BIOSC","CHEM","CHLIT","CHIN","CLASS","COMMRC","CS","CLST","EAS","ECON","ENGCMP","ENGFLM","ENGLIT","ENGWRT","ENV","FILMST","FP","FR","FTDA","FTDB","FTDC","GEOL","GREEK","GREEKM","GSWS","HINDI","HIST","HPS","HAA","ISSP","IRISH","ITAL","JPNSE","JS","KOREAN","LATIN","LCTL","LING","MATH","MRST","MUSIC","NROSCI","PERS","PHIL","PEDC","PHYS","POLISH","PS","PORT","PSY","QUECH","REL","RELGST","SERCRO","SLAV","SLOVAK","SOC","SPAN","STAT","SA","SWAHIL","SWE","THEA","TURKSH","UKRAIN","URBNST","VIET"]
@@ -57,6 +58,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        majorLabel.text = majors.Constants.major
         
         
         DispatchQueue.main.async {

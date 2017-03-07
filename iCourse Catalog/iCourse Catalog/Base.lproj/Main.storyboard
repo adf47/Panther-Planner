@@ -301,7 +301,7 @@
                                     <constraint firstAttribute="height" constant="93" id="Zvx-xd-0Jf"/>
                                     <constraint firstAttribute="width" constant="141" id="yVp-Ds-aae"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Search"/>
                                 <connections>
                                     <segue destination="VDg-qX-G2v" kind="show" id="0lC-ZE-nMF"/>
                                 </connections>
@@ -628,6 +628,7 @@
                     </view>
                     <connections>
                         <outlet property="collectionView" destination="v5b-uH-1Fy" id="FHv-pi-ixr"/>
+                        <outlet property="majorLabel" destination="O0a-WZ-ZMK" id="1HE-lO-nDM"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Q0q-03-vlS" userLabel="First Responder" sceneMemberID="firstResponder"/>
