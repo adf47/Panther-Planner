@@ -14,6 +14,10 @@ class ViewController: UIViewController, UITextFieldDelegate {
     
     @IBOutlet weak var searchButton: UIButton!
     
+    struct Constants{
+        static var title = ""
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -40,6 +44,11 @@ class ViewController: UIViewController, UITextFieldDelegate {
         
         if(myTextField.text == ""){
             print("no text")
+            view.endEditing(true)
+        }
+        else{
+            //do search here 
+            Constants.title = myTextField.text!
         }
     }
     
@@ -55,6 +64,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     func textFieldShouldReturn(_ textField: UITextField) -> Bool { //search method here 
         
         print("Search tapped")
+        Constants.title = myTextField.text!
         view.endEditing(true)
         return false
     }
