@@ -13,4 +13,5 @@ class ClassCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var className: UILabel!
     @IBOutlet weak var credits: UILabel!
     @IBOutlet weak var times: UILabel!
+    @IBOutlet weak var professor: UILabel!
 }

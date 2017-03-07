@@ -38,6 +38,9 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     var TitleArray = [String]()
     var majorArray = [String]()
     var creditsArray = [String]()
+    var timesArray = [String]()
+    var profArray = [String]()
+    
     
     var buttons = [ClassCollectionViewCell]()
     
@@ -112,11 +115,16 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
                         let tempTitle = result["classTitle"] as? String
                         let major = result["major"] as? String
                         let credits = result["credits"] as? String
+                        let time = result["DayTimeClassRoomBuilding"] as? String
+                        let teacher = result["prof"] as? String
+                        
                         print("Should be working")
                         //self.CategoryArray.append(tempDes!)
                         self.TitleArray.append(tempTitle!)
                         self.majorArray.append(major!)
                         self.creditsArray.append(credits!)
+                        self.timesArray.append(time!)
+                        self.profArray.append(teacher!)
                         
                     }
                 }
@@ -159,7 +167,7 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     // tell the collection view how many cells to make
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         
-        print("HI")
+        //print("HI") //just for testing
         return self.creditsArray.count
         
     }
@@ -173,8 +181,26 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
         // Use the outlet in our custom class to get a reference to the UILabel in the cell
         
         cell.courseNum.text = self.majorArray[indexPath.row]
+        cell.courseNum.layer.masksToBounds = true
+        cell.courseNum.layer.cornerRadius = 8.0
+        if(self.majorArray[indexPath.row] == "BUSORG"){
+            cell.courseNum.backgroundColor = UIColor.red
+        }
+        else if(self.majorArray[indexPath.row] == "MATH"){
+            cell.courseNum.backgroundColor = UIColor.green
+        }
+        else if(self.majorArray[indexPath.row] == "ECE"){
+            cell.courseNum.backgroundColor = UIColor.yellow
+        }
+        else if(self.majorArray[indexPath.row] == "ADMJ"){
+            cell.courseNum.backgroundColor = UIColor.purple
+        }
+        
         cell.className.text = self.TitleArray[indexPath.row]
         cell.credits.text = "Credits: \(self.creditsArray[indexPath.row])"
+        cell.times.text = "times: \(self.timesArray[indexPath.row])"
+        cell.professor.text = self.profArray[indexPath.row]
+        
         cell.backgroundColor = UIColor.white // make cell more visible in our example project
         
         self.buttons.append(cell)
@@ -187,6 +213,7 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         // handle tap events
         print("You selected \(16 - indexPath.item)!")
+        print("\(buttons[indexPath.item].className)")
         //Constants.credits = "\(16 - indexPath.item) cr."
         //buttons[indexPath.item].backgroundColor = UIColor.brown
         
