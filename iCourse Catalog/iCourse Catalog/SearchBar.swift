@@ -95,8 +95,8 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         //let predicate = NSPredicate(value: true)
         print(ViewController.Constants.title)
         
-        let predicate = NSPredicate(format: "classTitle = %@", ViewController.Constants.title)
-        
+        var predicate = NSPredicate(format: "classTitle = %@", ViewController.Constants.title)
+        predicate = NSPredicate(format: "classTitle BEGINSWITH %@", ViewController.Constants.title)
         
         let query = CKQuery(recordType: "Course", predicate: predicate)
         
@@ -119,7 +119,6 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
                     //print(result["classTitle"] as? String)
                     //print(result["credits"] as? String)
                     //print(ViewController.Constants.title)
-                    if(tempSearch == ViewController.Constants.title){
                         let tempTitle = result["classTitle"] as? String
                         let major = result["major"] as? String
                         let credits = result["credits"] as? String
@@ -134,7 +133,6 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
                         self.timesArray.append(time!)
                         self.profArray.append(teacher!)
                         
-                    }
                 }
                 
                 DispatchQueue.main.async {
