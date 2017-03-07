@@ -13,7 +13,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="iCourse_Catalog" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="pageSheet" id="BYZ-38-t0r" customClass="ViewController" customModule="iCourse_Catalog" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -28,9 +28,6 @@
                                 <color key="textColor" name="alternateSelectedControlColor" catalog="System" colorSpace="catalog"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="words" spellCheckingType="yes" keyboardAppearance="alert" returnKeyType="search" enablesReturnKeyAutomatically="YES"/>
-                                <connections>
-                                    <action selector="textViewExit:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="wuY-P0-Uhv"/>
-                                </connections>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a9R-yg-1jl">
                                 <rect key="frame" x="158" y="367" width="58" height="31"/>
@@ -39,6 +36,9 @@
                                     <constraint firstAttribute="width" constant="58" id="qar-bk-EsH"/>
                                 </constraints>
                                 <state key="normal" title="Search"/>
+                                <connections>
+                                    <action selector="search:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sIz-AP-32x"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="iCourse Catalog" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2q7-V3-t5m">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="55"/>
@@ -95,6 +95,7 @@
                     </view>
                     <connections>
                         <outlet property="myTextField" destination="QJs-PI-JJ6" id="MP0-4v-buV"/>
+                        <outlet property="searchButton" destination="a9R-yg-1jl" id="zMH-uR-1eL"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -628,8 +629,8 @@
         <image name="IMG_3219.PNG" width="1024" height="1024"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="lso-EN-tqY"/>
+        <segue reference="weA-CQ-Cqd"/>
         <segue reference="FFr-0o-OJX"/>
-        <segue reference="DS3-Q0-Iaz"/>
+        <segue reference="JgJ-5a-xzL"/>
     </inferredMetricsTieBreakers>
 </document>

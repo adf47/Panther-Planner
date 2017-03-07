@@ -12,12 +12,21 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var myTextField: UITextField!
     
+    @IBOutlet weak var searchButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
         self.myTextField.delegate = self as? UITextFieldDelegate
         
+        //Looks for single or multiple taps.
+        let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(ViewController.dismissKeyboard))
+        
+        //Uncomment the line below if you want the tap not not interfere and cancel other interactions.
+        //tap.cancelsTouchesInView = false
+        
+        view.addGestureRecognizer(tap)
         
     }
 
@@ -26,18 +35,27 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    
-    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+    //function to search for input
+    @IBAction func search(_ sender: Any) {
         
-        //self.view.endEditing(true)
-        textField.resignFirstResponder()
-        return false
-    
-        
+        if(myTextField.text == ""){
+            print("no text")
+        }
     }
-    @IBAction func textViewExit(_ sender: Any) {
+    
+    //Calls this function when the tap is recognized.
+    func dismissKeyboard(myTextField: UITextField) -> Bool {
+        //Causes the view (or one of its embedded text fields) to resign the first responder status.
+        print("TAPPED!!")
+        //self.myTextField.resignFirstResponder()
+        view.endEditing(true)
+        return true
+    }
+    
+    func textFieldShouldReturn(myTextField: UITextField) -> Bool {
+        print("DONE")
         myTextField.resignFirstResponder()
-        //return false
+        return true
     }
 
 }
