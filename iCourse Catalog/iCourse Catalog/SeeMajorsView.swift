@@ -53,7 +53,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     
     // cell reuse id (cells that scroll out of view can be reused)
     let reuseIdentifier = "cell3"
-    
+    //majorLabel.text = majors.Constants.major
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -92,7 +92,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         let container = CKContainer(identifier: "iCloud.com.antoninofebbraro.iCourse-Database-Uploader")
         let privateDatabase = container.publicCloudDatabase
         //let predicate = NSPredicate(value: true)
-        
+        majorLabel.text = majors.Constants.major
         // Create a predicate to retrieve records within a radius of the user's location
         //let radius: CGFloat = 8.05
         // meters
