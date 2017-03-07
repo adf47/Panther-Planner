@@ -208,8 +208,9 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         cell.professor.text = self.profArray[indexPath.row]
         
         cell.backgroundColor = UIColor.white // make cell more visible in our example project
-        cell.layer.borderWidth = 2
-        cell.layer.borderColor = UIColor.black.cgColor //hexStringToUIColor(hex: "#979797") as? CGColor
+        cell.layer.masksToBounds = true
+        cell.layer.cornerRadius = 10.0
+        
         self.buttons.append(cell)
         //print("returning cell!!")
         return cell
