@@ -10,7 +10,7 @@ import UIKit
 import CloudKit
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class AppDelegate: UIResponder, UIApplicationDelegate, UITextFieldDelegate {
 
     var window: UIWindow?
 

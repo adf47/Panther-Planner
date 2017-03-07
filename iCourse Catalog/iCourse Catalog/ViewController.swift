@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UITextFieldDelegate {
 
     @IBOutlet weak var myTextField: UITextField!
     
@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        self.myTextField.delegate = self as? UITextFieldDelegate
+        self.myTextField.delegate = self 
         
         //Looks for single or multiple taps.
         let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(ViewController.dismissKeyboard))
@@ -52,10 +52,11 @@ class ViewController: UIViewController {
         return true
     }
     
-    func textFieldShouldReturn(myTextField: UITextField) -> Bool {
-        print("DONE")
-        myTextField.resignFirstResponder()
-        return true
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool { //search method here 
+        
+        print("Search tapped")
+        view.endEditing(true)
+        return false
     }
 
 }
