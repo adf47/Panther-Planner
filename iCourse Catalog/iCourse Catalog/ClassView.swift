@@ -51,7 +51,7 @@ class ClassView: UIViewController {
         super.viewDidLoad()
         
         print("Seting up view")
-        print(SearchBar.Classes.descrip)
+        print(ViewController.type.type)
         //set up label text here 
         if(ViewController.type.type == "search"){
             SubjectClassNum.text = SearchBar.Classes.subjNum
@@ -70,8 +70,9 @@ class ClassView: UIViewController {
             preq.text = SeeMajorsView.Classes.preq
         }
         else if(ViewController.type.type == "credits"){
+            print(SeeCreditsView.Classes.descrip)
             SubjectClassNum.text = SeeCreditsView.Classes.subjNum
-            SubjectClassNum.backgroundColor = hexStringToUIColor(hex: SeeCreditsView.Classes.color)
+            SubjectClassNum.backgroundColor = UIColor.black//hexStringToUIColor(hex: SeeCreditsView.Classes.color)
             ClassTitle.text = SeeCreditsView.Classes.name
             Description.text = SeeCreditsView.Classes.descrip
             credits.text = SeeCreditsView.Classes.credits

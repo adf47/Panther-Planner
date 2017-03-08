@@ -229,8 +229,8 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         // handle tap events
-        print("You selected \(16 - indexPath.item)!")
-        print("\(buttons[indexPath.item].className)")
+        //print("You selected \(16 - indexPath.item)!")
+        //print("\(buttons[indexPath.item].className)")
         //Constants.credits = "\(16 - indexPath.item) cr."
         //buttons[indexPath.item].backgroundColor = UIColor.brown
         

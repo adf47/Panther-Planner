@@ -252,7 +252,6 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="majorButPressed" destination="ZVd-dv-6cL" id="izU-e2-S0f"/>
                         <outlet property="myTextField" destination="QJs-PI-JJ6" id="MP0-4v-buV"/>
                         <outlet property="searchButton" destination="a9R-yg-1jl" id="zMH-uR-1eL"/>
                     </connections>

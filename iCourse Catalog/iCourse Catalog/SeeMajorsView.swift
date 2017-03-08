@@ -248,7 +248,18 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         Classes.descrip = self.descArray[indexPath.item]
         Classes.subjNum = "\(self.majorArray[indexPath.item]) \(self.classNumArray[indexPath.item])"
         Classes.preq = self.preqArray[indexPath.item]
-        let colorIndex = items.index(of: self.majorArray[indexPath.item])
+        var colorIndex = items.index(of: self.majorArray[indexPath.item])
+        if(colorIndex != nil){
+            Classes.color = self.colors[colorIndex!]
+        }
+        
+        //update class struct here
+        Classes.name = self.TitleArray[indexPath.item]
+        Classes.credits = self.creditsArray[indexPath.item]
+        Classes.descrip = self.descArray[indexPath.item]
+        Classes.subjNum = "\(self.majorArray[indexPath.item]) \(self.classNumArray[indexPath.item])"
+        Classes.preq = self.preqArray[indexPath.item]
+        colorIndex = items.index(of: self.majorArray[indexPath.item])
         if(colorIndex != nil){
             Classes.color = self.colors[colorIndex!]
         }
