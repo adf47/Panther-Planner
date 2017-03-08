@@ -17,6 +17,9 @@ class ViewController: UIViewController, UITextFieldDelegate {
     struct Constants{
         static var title = ""
     }
+    struct type {
+        static var type = ""
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -49,6 +52,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         else{
             //do search here 
             Constants.title = myTextField.text!
+            type.type = "search"
         }
     }
     
@@ -65,9 +69,17 @@ class ViewController: UIViewController, UITextFieldDelegate {
         
         print("Search tapped")
         Constants.title = myTextField.text!
+        type.type = "search"
         view.endEditing(true)
         return false
     }
 
+    @IBAction func majorBtPressed(_ sender: Any) {
+        type.type = "major"
+    }
+    @IBAction func credBtPressed(_ sender: Any) {
+        type.type = "credits"
+    }
+    
 }
 

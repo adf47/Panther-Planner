@@ -37,16 +37,49 @@ class ClassView: UIViewController {
     
     
     
-    // Data model: These strings will be the data for the table view cells
-    var CategoryArray = [String]()
-    var tempTitle = ""
-    var tempDesc = ""
-    var arrayName: Array<String> = []
-    var TitleArray = [String]()
-    var majorArray = [String]()
-    var creditsArray = [String]()
-    var timesArray = [String]()
-    var profArray = [String]()
+    @IBOutlet weak var SubjectClassNum: UILabel!
+    
+    @IBOutlet weak var ClassTitle: UILabel!
+    
+    @IBOutlet weak var Description: UILabel!
+    
+    @IBOutlet weak var credits: UILabel!
+    
+    @IBOutlet weak var preq: UILabel!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        print("Seting up view")
+        print(SearchBar.Classes.descrip)
+        //set up label text here 
+        if(ViewController.type.type == "search"){
+            SubjectClassNum.text = SearchBar.Classes.subjNum
+            SubjectClassNum.backgroundColor = hexStringToUIColor(hex: SearchBar.Classes.color)
+            ClassTitle.text = SearchBar.Classes.name
+            Description.text = SearchBar.Classes.descrip
+            credits.text = SearchBar.Classes.credits
+            preq.text = SearchBar.Classes.preq
+        }
+        else if(ViewController.type.type == "major"){
+            SubjectClassNum.text = SeeMajorsView.Classes.subjNum
+            SubjectClassNum.backgroundColor = hexStringToUIColor(hex: SeeMajorsView.Classes.color)
+            ClassTitle.text = SeeMajorsView.Classes.name
+            Description.text = SeeMajorsView.Classes.descrip
+            credits.text = SeeMajorsView.Classes.credits
+            preq.text = SeeMajorsView.Classes.preq
+        }
+        else if(ViewController.type.type == "credits"){
+            SubjectClassNum.text = SeeCreditsView.Classes.subjNum
+            SubjectClassNum.backgroundColor = hexStringToUIColor(hex: SeeCreditsView.Classes.color)
+            ClassTitle.text = SeeCreditsView.Classes.name
+            Description.text = SeeCreditsView.Classes.descrip
+            credits.text = SeeCreditsView.Classes.credits
+            preq.text = SeeCreditsView.Classes.preq
+        }
+        
+        
+    }
     
     
     @IBAction func goBack(_ sender: Any) {
@@ -62,6 +95,29 @@ class ClassView: UIViewController {
         } else {
             self.dismiss(animated: true, completion: nil)
         }
+    }
+    
+    //coverts hex colors to UIColors that are useable
+    func hexStringToUIColor (hex:String) -> UIColor {
+        var cString:String = hex.trimmingCharacters(in: .whitespacesAndNewlines).uppercased()
+        
+        if (cString.hasPrefix("#")) {
+            cString.remove(at: cString.startIndex)
+        }
+        
+        if ((cString.characters.count) != 6) {
+            return UIColor.gray
+        }
+        
+        var rgbValue:UInt32 = 0
+        Scanner(string: cString).scanHexInt32(&rgbValue)
+        
+        return UIColor(
+            red: CGFloat((rgbValue & 0xFF0000) >> 16) / 255.0,
+            green: CGFloat((rgbValue & 0x00FF00) >> 8) / 255.0,
+            blue: CGFloat(rgbValue & 0x0000FF) / 255.0,
+            alpha: CGFloat(1.0)
+        )
     }
     
 }

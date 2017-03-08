@@ -21,6 +21,14 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     var Record = CKRecord(recordType: "Course")
     var category = ""
     
+    struct Classes{
+        static var descrip = ""
+        static var credits = ""
+        static var preq = ""
+        static var subjNum = ""
+        static var name = ""
+        static var color = ""
+    }
     
     var sweets = [CKRecord]()
     var refresh:UIRefreshControl!
@@ -43,6 +51,9 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     var creditsArray = [String]()
     var timesArray = [String]()
     var profArray = [String]()
+    var descArray = [String]()
+    var classNumArray = [String]()
+    var preqArray = [String]()
     
     
     var buttons = [ClassCollectionViewCell]()
@@ -120,6 +131,9 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
                         let credits = result["credits"] as? String
                         let time = result["DayTimeClassRoomBuilding"] as? String
                         let teacher = result["prof"] as? String
+                        let des = result["descrip"] as? String
+                        let num = result["courseNum"] as? String
+                        let pre = result["prerequisites"] as? String
                         
                         print("Should be working")
                         //self.CategoryArray.append(tempDes!)
@@ -128,6 +142,9 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
                         self.creditsArray.append(credits!)
                         self.timesArray.append(time!)
                         self.profArray.append(teacher!)
+                        self.descArray.append(des!)
+                        self.classNumArray.append(num!)
+                        self.preqArray.append(pre!)
                         
                     }
                 }
@@ -217,6 +234,16 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
         //Constants.credits = "\(16 - indexPath.item) cr."
         //buttons[indexPath.item].backgroundColor = UIColor.brown
         
+        //update class struct here
+        Classes.name = self.TitleArray[indexPath.item]
+        Classes.credits = self.creditsArray[indexPath.item]
+        Classes.descrip = self.descArray[indexPath.item]
+        Classes.subjNum = "\(self.majorArray[indexPath.item]) \(self.classNumArray[indexPath.item])"
+        Classes.preq = self.preqArray[indexPath.item]
+        let colorIndex = items.index(of: self.majorArray[indexPath.item])
+        if(colorIndex != nil){
+            Classes.color = self.colors[colorIndex!]
+        }
     }
     
     
