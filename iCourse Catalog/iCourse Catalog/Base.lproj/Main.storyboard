@@ -377,10 +377,10 @@
             </objects>
             <point key="canvasLocation" x="1012" y="152.47376311844079"/>
         </scene>
-        <!--View Controller-->
+        <!--Class View-->
         <scene sceneID="EKG-4g-LfV">
             <objects>
-                <viewController id="Jix-Zz-3lu" sceneMemberID="viewController">
+                <viewController id="Jix-Zz-3lu" customClass="ClassView" customModule="iCourse_Catalog" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="lmo-Af-SJS"/>
                         <viewControllerLayoutGuide type="bottom" id="aeo-VG-qbf"/>
@@ -397,13 +397,27 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u1a-Ri-5zC">
+                                <rect key="frame" x="16" y="12" width="46" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="46" id="4jD-yK-l2m"/>
+                                </constraints>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="goBack:" destination="Jix-Zz-3lu" eventType="touchUpInside" id="a8L-WR-orP"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="Luz-l7-wZj" firstAttribute="leading" secondItem="AFA-Ob-4Ex" secondAttribute="leading" id="Vvo-my-VBi"/>
-                            <constraint firstAttribute="trailing" secondItem="Luz-l7-wZj" secondAttribute="trailing" id="gVh-jT-aW1"/>
-                            <constraint firstItem="Luz-l7-wZj" firstAttribute="top" secondItem="AFA-Ob-4Ex" secondAttribute="top" id="j4M-eB-X2K"/>
-                            <constraint firstItem="aeo-VG-qbf" firstAttribute="top" secondItem="Luz-l7-wZj" secondAttribute="bottom" constant="612" id="jpL-Ob-lqo"/>
+                            <constraint firstItem="aeo-VG-qbf" firstAttribute="top" secondItem="Luz-l7-wZj" secondAttribute="bottom" constant="612" id="6Og-Nb-BAe"/>
+                            <constraint firstItem="u1a-Ri-5zC" firstAttribute="leading" secondItem="AFA-Ob-4Ex" secondAttribute="leadingMargin" id="Btm-7j-0sA"/>
+                            <constraint firstAttribute="trailing" secondItem="Luz-l7-wZj" secondAttribute="trailing" id="KA0-Ot-Y6g"/>
+                            <constraint firstItem="Luz-l7-wZj" firstAttribute="leading" secondItem="AFA-Ob-4Ex" secondAttribute="leading" id="P0y-f8-MCa"/>
+                            <constraint firstItem="Luz-l7-wZj" firstAttribute="top" secondItem="AFA-Ob-4Ex" secondAttribute="top" id="Yv4-PR-9zt"/>
+                            <constraint firstItem="Luz-l7-wZj" firstAttribute="centerY" secondItem="u1a-Ri-5zC" secondAttribute="centerY" id="z0B-rV-cjF"/>
                         </constraints>
                     </view>
                 </viewController>
@@ -823,10 +837,10 @@
         <image name="IMG_3219.PNG" width="1024" height="1024"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="sqL-pb-dfY"/>
         <segue reference="f6Y-QS-FyM"/>
-        <segue reference="FFr-0o-OJX"/>
-        <segue reference="DS3-Q0-Iaz"/>
         <segue reference="eDt-0c-jZ9"/>
-        <segue reference="lso-EN-tqY"/>
+        <segue reference="JgJ-5a-xzL"/>
+        <segue reference="weA-CQ-Cqd"/>
     </inferredMetricsTieBreakers>
 </document>
