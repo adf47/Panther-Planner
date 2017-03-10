@@ -24,6 +24,11 @@ class ViewController: UIViewController, UITextFieldDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        print("View Loading")
+        
+        myTextField.text = ""
+        
+        type.type = ""
         
         self.myTextField.delegate = self 
         
@@ -62,7 +67,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         print("TAPPED!!")
         //self.myTextField.resignFirstResponder()
         view.endEditing(true)
-        return true
+        return false
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool { //search method here 

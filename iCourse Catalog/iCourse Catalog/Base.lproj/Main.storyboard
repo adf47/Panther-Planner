@@ -178,59 +178,11 @@
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img2.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="nl0-6b-YFp">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="668"/>
                             </imageView>
-                            <button opaque="NO" alpha="0.69999999999999996" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZVd-dv-6cL">
-                                <rect key="frame" x="0.0" y="618" width="188" height="50"/>
-                                <color key="backgroundColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="8Ie-oa-hwb"/>
-                                    <constraint firstAttribute="width" constant="188" id="ntb-cx-tIm"/>
-                                </constraints>
-                                <state key="normal" title="Browse By Subject">
-                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                    <color key="titleShadowColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="majorBtPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CZ5-xR-g71"/>
-                                    <segue destination="Olt-ha-fbf" kind="show" id="JgJ-5a-xzL"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" alpha="0.69999999999999996" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KRD-qY-RM3">
-                                <rect key="frame" x="187" y="618" width="188" height="50"/>
-                                <color key="backgroundColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="188" id="UWj-oc-79u"/>
-                                </constraints>
-                                <state key="normal" title="Browse By Credits">
-                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="credBtPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0uM-3w-cUS"/>
-                                    <segue destination="alP-ve-gl1" kind="popoverPresentation" popoverAnchorView="KRD-qY-RM3" id="weA-CQ-Cqd">
-                                        <popoverArrowDirection key="popoverArrowDirection" up="YES" down="YES" left="YES" right="YES"/>
-                                    </segue>
-                                </connections>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FlG-RQ-SnL">
-                                <rect key="frame" x="62" y="72" width="281" height="86"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="86" id="0Gx-wh-xxC"/>
-                                </constraints>
-                                <attributedString key="attributedText">
-                                    <fragment content="Panther Planner">
-                                        <attributes>
-                                            <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                            <font key="NSFont" size="36" name="ChalkboardSE-Regular"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                </attributedString>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a9R-yg-1jl">
                                 <rect key="frame" x="47" y="315" width="281" height="43"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="43" id="sCA-hN-CVQ"/>
+                                    <constraint firstAttribute="height" constant="43" id="Amj-L8-lIr"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Search">
@@ -247,36 +199,81 @@
                                 <color key="backgroundColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <color key="tintColor" name="alternateSelectedControlColor" catalog="System" colorSpace="catalog"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="48" id="EY5-NV-87C"/>
+                                    <constraint firstAttribute="height" constant="48" id="Lpn-YS-cmH"/>
                                 </constraints>
                                 <color key="textColor" red="0.89792195429999999" green="0.89792195429999999" blue="0.89792195429999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="words" spellCheckingType="yes" keyboardAppearance="alert" returnKeyType="search" enablesReturnKeyAutomatically="YES"/>
-                                <connections>
-                                    <segue destination="D83-He-lmM" kind="show" id="f6Y-QS-FyM"/>
-                                </connections>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="words" spellCheckingType="yes" keyboardAppearance="alert" returnKeyType="done" enablesReturnKeyAutomatically="YES"/>
                             </textField>
+                            <button opaque="NO" alpha="0.69999999999999996" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZVd-dv-6cL">
+                                <rect key="frame" x="0.0" y="618" width="188" height="50"/>
+                                <color key="backgroundColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="fkf-sG-H9a"/>
+                                    <constraint firstAttribute="width" constant="188" id="qpv-uf-F6a"/>
+                                </constraints>
+                                <state key="normal" title="Browse By Subject">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="majorBtPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CZ5-xR-g71"/>
+                                    <segue destination="Olt-ha-fbf" kind="show" id="JgJ-5a-xzL"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" alpha="0.69999999999999996" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KRD-qY-RM3">
+                                <rect key="frame" x="187" y="618" width="188" height="50"/>
+                                <color key="backgroundColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="188" id="LeU-Dj-Dub"/>
+                                </constraints>
+                                <state key="normal" title="Browse By Credits">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="credBtPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0uM-3w-cUS"/>
+                                    <segue destination="alP-ve-gl1" kind="popoverPresentation" popoverAnchorView="KRD-qY-RM3" id="weA-CQ-Cqd">
+                                        <popoverArrowDirection key="popoverArrowDirection" up="YES" down="YES" left="YES" right="YES"/>
+                                    </segue>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FlG-RQ-SnL">
+                                <rect key="frame" x="47" y="72" width="281" height="86"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="86" id="sCe-13-Pp7"/>
+                                </constraints>
+                                <attributedString key="attributedText">
+                                    <fragment content="Panther Planner">
+                                        <attributes>
+                                            <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                            <font key="NSFont" size="36" name="ChalkboardSE-Regular"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <constraints>
-                            <constraint firstItem="nl0-6b-YFp" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="6Wj-aB-KWM"/>
-                            <constraint firstItem="ZVd-dv-6cL" firstAttribute="top" secondItem="KRD-qY-RM3" secondAttribute="top" id="8ge-AH-1IB"/>
-                            <constraint firstItem="nl0-6b-YFp" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="99Y-sS-Y7F"/>
-                            <constraint firstItem="ZVd-dv-6cL" firstAttribute="baseline" secondItem="KRD-qY-RM3" secondAttribute="firstBaseline" id="Aip-ub-JvX"/>
-                            <constraint firstItem="nl0-6b-YFp" firstAttribute="trailing" secondItem="KRD-qY-RM3" secondAttribute="trailing" id="HW9-9F-nk1"/>
-                            <constraint firstItem="KRD-qY-RM3" firstAttribute="baseline" secondItem="ZVd-dv-6cL" secondAttribute="firstBaseline" id="I1s-yq-sA8"/>
-                            <constraint firstItem="nl0-6b-YFp" firstAttribute="bottom" secondItem="KRD-qY-RM3" secondAttribute="bottom" id="JmA-5c-pdB"/>
-                            <constraint firstItem="QJs-PI-JJ6" firstAttribute="top" secondItem="FlG-RQ-SnL" secondAttribute="bottom" constant="51" id="Kd5-Yc-jZz"/>
-                            <constraint firstItem="QJs-PI-JJ6" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="31" id="OxU-uV-ZmJ"/>
-                            <constraint firstItem="nl0-6b-YFp" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Twr-61-jdU"/>
-                            <constraint firstItem="nl0-6b-YFp" firstAttribute="leading" secondItem="ZVd-dv-6cL" secondAttribute="leading" id="XK4-Sn-37s"/>
-                            <constraint firstItem="a9R-yg-1jl" firstAttribute="top" secondItem="QJs-PI-JJ6" secondAttribute="bottom" constant="58" id="hak-V8-xYr"/>
-                            <constraint firstItem="QJs-PI-JJ6" firstAttribute="leading" secondItem="a9R-yg-1jl" secondAttribute="leading" id="jfg-5I-a5W"/>
-                            <constraint firstItem="QJs-PI-JJ6" firstAttribute="trailing" secondItem="a9R-yg-1jl" secondAttribute="trailing" id="l7N-dX-Ew5"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="FlG-RQ-SnL" secondAttribute="trailing" constant="16" id="lfS-Pe-d0p"/>
-                            <constraint firstItem="FlG-RQ-SnL" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="46" id="mg9-ea-h1o"/>
-                            <constraint firstItem="FlG-RQ-SnL" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="52" id="pkm-fj-ize"/>
-                            <constraint firstItem="nl0-6b-YFp" firstAttribute="centerX" secondItem="QJs-PI-JJ6" secondAttribute="centerX" id="rPW-XY-3J4"/>
-                            <constraint firstAttribute="trailing" secondItem="nl0-6b-YFp" secondAttribute="trailing" id="wa8-fq-HiC"/>
+                            <constraint firstItem="KRD-qY-RM3" firstAttribute="baseline" secondItem="ZVd-dv-6cL" secondAttribute="firstBaseline" id="7ga-jb-8Qy"/>
+                            <constraint firstItem="FlG-RQ-SnL" firstAttribute="trailing" secondItem="QJs-PI-JJ6" secondAttribute="trailing" id="B1T-L4-pz3"/>
+                            <constraint firstItem="nl0-6b-YFp" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Cuc-NP-XHB"/>
+                            <constraint firstItem="QJs-PI-JJ6" firstAttribute="top" secondItem="FlG-RQ-SnL" secondAttribute="bottom" constant="51" id="EjK-f5-L71"/>
+                            <constraint firstItem="nl0-6b-YFp" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="ErU-mm-SCw"/>
+                            <constraint firstItem="nl0-6b-YFp" firstAttribute="leading" secondItem="ZVd-dv-6cL" secondAttribute="leading" id="JOU-Oz-a1k"/>
+                            <constraint firstItem="FlG-RQ-SnL" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="52" id="N2W-IK-wcN"/>
+                            <constraint firstItem="nl0-6b-YFp" firstAttribute="centerX" secondItem="FlG-RQ-SnL" secondAttribute="centerX" id="N84-oF-dki"/>
+                            <constraint firstItem="nl0-6b-YFp" firstAttribute="trailing" secondItem="KRD-qY-RM3" secondAttribute="trailing" id="PwG-RE-P21"/>
+                            <constraint firstItem="a9R-yg-1jl" firstAttribute="top" secondItem="QJs-PI-JJ6" secondAttribute="bottom" constant="58" id="QDx-we-KAT"/>
+                            <constraint firstItem="nl0-6b-YFp" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="aGg-J6-aCD"/>
+                            <constraint firstItem="ZVd-dv-6cL" firstAttribute="top" secondItem="KRD-qY-RM3" secondAttribute="top" id="aef-bR-xlF"/>
+                            <constraint firstItem="ZVd-dv-6cL" firstAttribute="baseline" secondItem="KRD-qY-RM3" secondAttribute="firstBaseline" id="dHb-ya-jK3"/>
+                            <constraint firstAttribute="trailing" secondItem="nl0-6b-YFp" secondAttribute="trailing" id="jnf-vW-1bS"/>
+                            <constraint firstItem="nl0-6b-YFp" firstAttribute="bottom" secondItem="ZVd-dv-6cL" secondAttribute="bottom" id="kaP-Zg-yit"/>
+                            <constraint firstItem="FlG-RQ-SnL" firstAttribute="leading" secondItem="QJs-PI-JJ6" secondAttribute="leading" id="x94-r5-Ji4"/>
+                            <constraint firstItem="QJs-PI-JJ6" firstAttribute="trailing" secondItem="a9R-yg-1jl" secondAttribute="trailing" id="yEi-Ev-XNb"/>
+                            <constraint firstItem="FlG-RQ-SnL" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="31" id="ybi-kv-mNU"/>
+                            <constraint firstItem="QJs-PI-JJ6" firstAttribute="leading" secondItem="a9R-yg-1jl" secondAttribute="leading" id="zvg-Xv-Cgl"/>
                         </constraints>
                     </view>
                     <connections>
@@ -970,9 +967,8 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="sqL-pb-dfY"/>
-        <segue reference="f6Y-QS-FyM"/>
-        <segue reference="eDt-0c-jZ9"/>
         <segue reference="JgJ-5a-xzL"/>
         <segue reference="weA-CQ-Cqd"/>
+        <segue reference="eDt-0c-jZ9"/>
     </inferredMetricsTieBreakers>
 </document>
