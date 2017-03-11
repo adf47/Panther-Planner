@@ -9,6 +9,7 @@
         <capability name="Alignment constraints to the first baseline" minToolsVersion="6.0"/>
         <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Segues with Peek and Pop" minToolsVersion="7.1"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -123,7 +124,10 @@
                                             <outlet property="credits" destination="tF0-ag-BQp" id="Jmn-RQ-lg2"/>
                                             <outlet property="professor" destination="dOo-Xy-74Y" id="GK9-0t-Fub"/>
                                             <outlet property="times" destination="Ill-l3-1jH" id="3qu-0U-eIg"/>
-                                            <segue destination="Jix-Zz-3lu" kind="show" id="eDt-0c-jZ9"/>
+                                            <segue destination="Jix-Zz-3lu" kind="show" id="eDt-0c-jZ9">
+                                                <segue key="commit" inheritsFrom="parent" id="ZN6-gh-pCv"/>
+                                                <segue key="preview" inheritsFrom="commit" id="DqO-ge-ro9"/>
+                                            </segue>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -405,10 +409,10 @@
             </objects>
             <point key="canvasLocation" x="1012" y="152.47376311844079"/>
         </scene>
-        <!--Class View-->
+        <!--ClassLayout-->
         <scene sceneID="EKG-4g-LfV">
             <objects>
-                <viewController id="Jix-Zz-3lu" customClass="ClassView" customModule="iCourse_Catalog" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="ClassLayout" id="Jix-Zz-3lu" customClass="ClassView" customModule="iCourse_Catalog" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="lmo-Af-SJS"/>
                         <viewControllerLayoutGuide type="bottom" id="aeo-VG-qbf"/>
@@ -621,7 +625,10 @@
                                         </constraints>
                                         <connections>
                                             <outlet property="myLabel" destination="6Qz-IN-a1c" id="ipD-be-pQZ"/>
-                                            <segue destination="VDg-qX-G2v" kind="show" id="yaq-BQ-OnT"/>
+                                            <segue destination="VDg-qX-G2v" kind="show" id="yaq-BQ-OnT">
+                                                <segue key="commit" inheritsFrom="parent" id="DE6-i5-fOQ"/>
+                                                <segue key="preview" inheritsFrom="commit" id="shV-ta-L3C"/>
+                                            </segue>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -773,7 +780,10 @@
                                             <outlet property="credits" destination="4di-Ux-bRo" id="O56-PA-cSn"/>
                                             <outlet property="professor" destination="40y-lM-C5w" id="TYv-Gz-pNC"/>
                                             <outlet property="times" destination="X6I-6F-1Er" id="LRq-KA-UOQ"/>
-                                            <segue destination="Jix-Zz-3lu" kind="show" id="4oR-Q5-n2P"/>
+                                            <segue destination="Jix-Zz-3lu" kind="show" id="4oR-Q5-n2P">
+                                                <segue key="commit" inheritsFrom="parent" id="9Dh-3Y-QcQ"/>
+                                                <segue key="preview" inheritsFrom="commit" id="WrT-le-pqd"/>
+                                            </segue>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -928,7 +938,10 @@
                                             <outlet property="credits" destination="UjV-Wa-p9K" id="MxJ-m0-ikh"/>
                                             <outlet property="professor" destination="IMt-7O-4hC" id="7nK-iQ-wph"/>
                                             <outlet property="times" destination="jRC-xv-328" id="XbZ-iX-Rha"/>
-                                            <segue destination="Jix-Zz-3lu" kind="show" id="MPo-4w-gcG"/>
+                                            <segue destination="Jix-Zz-3lu" kind="show" identifier="MAJOR" id="MPo-4w-gcG">
+                                                <segue key="commit" inheritsFrom="parent" id="05K-fc-De7"/>
+                                                <segue key="preview" inheritsFrom="commit" id="Cyt-Bh-XLl"/>
+                                            </segue>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -966,9 +979,10 @@
         <image name="img2.jpg" width="510" height="768"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="sqL-pb-dfY"/>
-        <segue reference="JgJ-5a-xzL"/>
         <segue reference="weA-CQ-Cqd"/>
+        <segue reference="FFr-0o-OJX"/>
+        <segue reference="JgJ-5a-xzL"/>
+        <segue reference="yaq-BQ-OnT"/>
         <segue reference="eDt-0c-jZ9"/>
     </inferredMetricsTieBreakers>
 </document>

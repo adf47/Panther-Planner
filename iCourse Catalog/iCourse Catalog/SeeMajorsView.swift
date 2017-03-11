@@ -16,6 +16,18 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     
     @IBOutlet weak var collectionView: UICollectionView!
     
+    let blogSegueIdentifier = "MAJOR"
+    
+    // MARK: - Navigation
+    func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        if  segue.identifier == blogSegueIdentifier
+        {
+            print("Preparing")
+        }
+    }
+    
+    
+    
     struct Classes{
         static var descrip = ""
         static var credits = ""
@@ -261,26 +273,23 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         //buttons[indexPath.item].backgroundColor = UIColor.brown
         
         //update class struct here
-        Classes.name = self.TitleArray[indexPath.item]
-        Classes.credits = self.creditsArray[indexPath.item]
-        Classes.descrip = self.descArray[indexPath.item]
-        Classes.subjNum = "\(self.majorArray[indexPath.item]) \(self.classNumArray[indexPath.item])"
-        Classes.preq = self.preqArray[indexPath.item]
-        var colorIndex = items.index(of: self.majorArray[indexPath.item])
-        if(colorIndex != nil){
-            Classes.color = self.colors[colorIndex!]
-        }
+        print("Strating")
         
-        //update class struct here
-        Classes.name = self.TitleArray[indexPath.item]
-        Classes.credits = self.creditsArray[indexPath.item]
-        Classes.descrip = self.descArray[indexPath.item]
-        Classes.subjNum = "\(self.majorArray[indexPath.item]) \(self.classNumArray[indexPath.item])"
-        Classes.preq = self.preqArray[indexPath.item]
-        colorIndex = items.index(of: self.majorArray[indexPath.item])
-        if(colorIndex != nil){
-            Classes.color = self.colors[colorIndex!]
-        }
+            Classes.name = self.TitleArray[indexPath.item]
+            Classes.credits = self.creditsArray[indexPath.item]
+            Classes.descrip = self.descArray[indexPath.item]
+            Classes.subjNum = "\(self.majorArray[indexPath.item]) \(self.classNumArray[indexPath.item])"
+            Classes.preq = self.preqArray[indexPath.item]
+            let colorIndex = self.items.index(of: self.majorArray[indexPath.item])
+            if(colorIndex != nil){
+                Classes.color = self.colors[colorIndex!]
+            }
+        
+        
+            let view2 = ClassView()
+            //view2.loadAgain()
+        
+        print("Done")
     }
     
     //coverts hex colors to UIColors that are useable
@@ -307,5 +316,8 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     }
     
     
+    func timeToMoveOn() {
+        self.performSegue(withIdentifier: "MAJOR", sender: self)
+    }
     
 }

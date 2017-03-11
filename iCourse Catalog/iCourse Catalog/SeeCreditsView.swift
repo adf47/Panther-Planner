@@ -15,6 +15,17 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     
     @IBOutlet weak var collectionView: UICollectionView!
     
+    let blogSegueIdentifier = "CREDITS"
+    
+    // MARK: - Navigation
+    func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        if  segue.identifier == blogSegueIdentifier
+        {
+            print("Preparing")
+        }
+    }
+    
+    
     //Variables for cloudkit
     //var database = CKContainer.default().publicCloudDatabase
     

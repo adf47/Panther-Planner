@@ -50,9 +50,20 @@ class ClassView: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Seting up view")
+        print("Seting up view for class")
         print(ViewController.type.type)
-        //set up label text here 
+        print(SearchBar.Classes.subjNum)
+        
+        _ = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(ClassView.loadAgain), userInfo: nil, repeats: true)
+        //loadAgain()
+        
+
+    }
+    
+    func loadAgain(){
+        
+        print("in load again")
+        //set up label text here
         if(ViewController.type.type == "search"){
             SubjectClassNum.text = SearchBar.Classes.subjNum
             SubjectClassNum.backgroundColor = hexStringToUIColor(hex: SearchBar.Classes.color)
@@ -68,20 +79,19 @@ class ClassView: UIViewController {
             Description.text = SeeMajorsView.Classes.descrip
             credits.text = SeeMajorsView.Classes.credits
             preq.text = SeeMajorsView.Classes.preq
+            
         }
         else if(ViewController.type.type == "credits"){
             print(SeeCreditsView.Classes.descrip)
             SubjectClassNum.text = SeeCreditsView.Classes.subjNum
-            SubjectClassNum.backgroundColor = UIColor.black//hexStringToUIColor(hex: SeeCreditsView.Classes.color)
+            SubjectClassNum.backgroundColor = hexStringToUIColor(hex: SeeCreditsView.Classes.color)
             ClassTitle.text = SeeCreditsView.Classes.name
             Description.text = SeeCreditsView.Classes.descrip
             credits.text = SeeCreditsView.Classes.credits
             preq.text = SeeCreditsView.Classes.preq
         }
         
-        
     }
-    
     
     @IBAction func goBack(_ sender: Any) {
         print("Go Back")
