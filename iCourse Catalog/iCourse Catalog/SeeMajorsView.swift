@@ -29,12 +29,15 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     
     
     struct Classes{
+        
         static var descrip = ""
         static var credits = ""
         static var preq = ""
         static var subjNum = ""
         static var name = ""
         static var color = ""
+        static var classNum = ""
+        
     }
     
     //Variables for cloudkit
@@ -44,6 +47,9 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     var category = ""
     
     var tagCount = 0 //for bookmark buttons
+    
+    //for book marking
+    var bookmarkArray = [String]()
     
     
     var sweets = [CKRecord]()
@@ -88,6 +94,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     var profArray = [String]()
     var descArray = [String]()
     var classNumArray = [String]()
+     var classNumArray2 = [String]()
     var preqArray = [String]()
     
     
@@ -102,7 +109,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         super.viewDidLoad()
         //print(majors.Constants.major)
         
-        
+        checkBookmarks()
         
         DispatchQueue.main.async {
             self.loadData()
@@ -127,6 +134,17 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         
     }
     
+    
+    func checkBookmarks(){
+        
+        let defaultss = UserDefaults.standard
+        if(defaultss.array(forKey: "SavedClasses") != nil){
+            bookmarkArray = defaultss.array(forKey: "SavedClasses") as! [String]
+            //bookmarkclasses = Array.
+        }
+        
+        
+    }
     
     
     //method for getting all the data
@@ -175,6 +193,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
                         let des = result["descrip"] as? String
                         let num = result["courseNum"] as? String
                         let pre = result["prerequisites"] as? String
+                        let classNum = result["classNum"] as? String
                         
                         print("Should be working")
                         //self.CategoryArray.append(tempDes!)
@@ -186,6 +205,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
                         self.descArray.append(des!)
                         self.classNumArray.append(num!)
                         self.preqArray.append(pre!)
+                        self.classNumArray2.append(classNum!)
                         
                     }
                 }
@@ -262,6 +282,14 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         
         cell.bookmark.tag = tagCount
         
+        cell.classNum = self.classNumArray2[indexPath.row]
+        
+        if(bookmarkArray.contains(self.classNumArray2[indexPath.row])){
+            if let image = UIImage(named: "bookmarkpressed.png") {
+                cell.bookmark.setImage(image, for: .normal)
+            }
+        }
+        
         self.buttons.append(cell)
         tagCount+=1
         //print("returning cell!!")
@@ -325,10 +353,35 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         self.performSegue(withIdentifier: "MAJOR", sender: self)
     }
     
+    //buton action for bookmarking
     @IBAction func BookMark(_ sender: Any) {
         print("BOOKMARKED!")
         if let image = UIImage(named: "bookmarkpressed.png") {
             buttons[(sender as AnyObject).tag as Int].bookmark.setImage(image, for: .normal)
         }
+        
+        //save Class here
+        
+        
+        //retrive array
+        var classesArray = [String]()
+        let defaultss = UserDefaults.standard
+        if(defaultss.array(forKey: "SavedClasses") != nil){
+                classesArray = defaultss.array(forKey: "SavedClasses") as! [String] 
+        }
+        
+        let classToBeSaved = buttons[(sender as AnyObject).tag as Int].classNum
+    
+        classesArray.append(classToBeSaved)
+        print(classesArray)
+        
+        //save / bookmark the class
+        let defaults = UserDefaults.standard
+        defaults.set(classesArray, forKey: "SavedClasses")
+        
+        
+        print(classesArray)
+        
+        
     }
 }

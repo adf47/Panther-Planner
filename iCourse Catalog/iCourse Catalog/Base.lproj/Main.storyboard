@@ -774,6 +774,9 @@
                                                         <constraint firstAttribute="height" constant="45" id="qcm-fA-iqt"/>
                                                     </constraints>
                                                     <state key="normal" title="Bookmark" image="bookmark.png"/>
+                                                    <connections>
+                                                        <action selector="bookMarked:" destination="ZpT-Jw-ieZ" eventType="touchUpInside" id="ZYI-Nh-XNf"/>
+                                                    </connections>
                                                 </button>
                                             </subviews>
                                         </view>
@@ -799,6 +802,7 @@
                                             <constraint firstItem="j7l-Se-Kso" firstAttribute="leading" secondItem="3y3-aZ-NIH" secondAttribute="trailing" constant="20" id="ySX-Zm-Lki"/>
                                         </constraints>
                                         <connections>
+                                            <outlet property="bookmarkCred" destination="lM8-D7-lJe" id="g8q-Fj-gPl"/>
                                             <outlet property="className" destination="j7l-Se-Kso" id="mgW-3I-g3s"/>
                                             <outlet property="courseNum" destination="3y3-aZ-NIH" id="a7u-Gc-bSQ"/>
                                             <outlet property="credits" destination="4di-Ux-bRo" id="O56-PA-cSn"/>
@@ -1021,9 +1025,9 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="sqL-pb-dfY"/>
-        <segue reference="MPo-4w-gcG"/>
-        <segue reference="yaq-BQ-OnT"/>
-        <segue reference="DS3-Q0-Iaz"/>
+        <segue reference="WrT-le-pqd"/>
         <segue reference="lso-EN-tqY"/>
+        <segue reference="DS3-Q0-Iaz"/>
+        <segue reference="yaq-BQ-OnT"/>
     </inferredMetricsTieBreakers>
 </document>
