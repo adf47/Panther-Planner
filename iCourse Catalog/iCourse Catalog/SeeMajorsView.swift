@@ -43,6 +43,8 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     var Record = CKRecord(recordType: "Course")
     var category = ""
     
+    var tagCount = 0 //for bookmark buttons
+    
     
     var sweets = [CKRecord]()
     var refresh:UIRefreshControl!
@@ -258,7 +260,10 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         cell.layer.masksToBounds = true
         cell.layer.cornerRadius = 10.0
         
+        cell.bookmark.tag = tagCount
+        
         self.buttons.append(cell)
+        tagCount+=1
         //print("returning cell!!")
         return cell
     }
@@ -320,4 +325,10 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         self.performSegue(withIdentifier: "MAJOR", sender: self)
     }
     
+    @IBAction func BookMark(_ sender: Any) {
+        print("BOOKMARKED!")
+        if let image = UIImage(named: "bookmarkpressed.png") {
+            buttons[(sender as AnyObject).tag as Int].bookmark.setImage(image, for: .normal)
+        }
+    }
 }
