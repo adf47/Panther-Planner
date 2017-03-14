@@ -263,7 +263,7 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
         
         //change color of box on the left here
         let colorIndex = items.index(of: self.majorArray[indexPath.row])
-        if(colorIndex != nil){
+        if(colorIndex != nil && colorIndex! < self.colors.count){
             cell.courseNum.backgroundColor = hexStringToUIColor(hex: self.colors[colorIndex!])
         }
         
