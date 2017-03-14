@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12106.1" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12074.1"/>
         <capability name="Alignment constraints to the first baseline" minToolsVersion="6.0"/>
         <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
@@ -107,6 +107,9 @@
                                                         <constraint firstAttribute="width" constant="45" id="VCg-Qq-5b9"/>
                                                     </constraints>
                                                     <state key="normal" title="Bookmark" image="bookmark.png"/>
+                                                    <connections>
+                                                        <action selector="bookmark:" destination="D83-He-lmM" eventType="touchUpInside" id="Kho-V0-wtM"/>
+                                                    </connections>
                                                 </button>
                                             </subviews>
                                         </view>
@@ -131,6 +134,7 @@
                                             <constraint firstItem="Fu0-pX-yBF" firstAttribute="leading" secondItem="w9B-LW-qsn" secondAttribute="trailing" constant="20" id="xLa-mA-W9G"/>
                                         </constraints>
                                         <connections>
+                                            <outlet property="bookmarkSearch" destination="7NE-AR-9KH" id="Amr-m9-rWg"/>
                                             <outlet property="className" destination="Fu0-pX-yBF" id="YAv-RM-K0L"/>
                                             <outlet property="courseNum" destination="w9B-LW-qsn" id="b8w-Gf-XDM"/>
                                             <outlet property="credits" destination="tF0-ag-BQp" id="Jmn-RQ-lg2"/>
@@ -1025,9 +1029,9 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="sqL-pb-dfY"/>
-        <segue reference="WrT-le-pqd"/>
-        <segue reference="lso-EN-tqY"/>
+        <segue reference="eDt-0c-jZ9"/>
         <segue reference="DS3-Q0-Iaz"/>
         <segue reference="yaq-BQ-OnT"/>
+        <segue reference="lso-EN-tqY"/>
     </inferredMetricsTieBreakers>
 </document>

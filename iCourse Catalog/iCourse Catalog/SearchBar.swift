@@ -22,6 +22,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         static var subjNum = ""
         static var name = ""
         static var color = ""
+        static var classNum = ""
     }
     
     //Variables for cloudkit
@@ -30,6 +31,10 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
     var Record = CKRecord(recordType: "Course")
     var category = ""
     
+    var tagCount = 0 //for bookmark buttons
+    
+    //for book marking
+    var bookmarkArray = [String]()
     
     var sweets = [CKRecord]()
     var refresh:UIRefreshControl!
@@ -73,6 +78,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
     var profArray = [String]()
     var descArray = [String]()
     var classNumArray = [String]()
+    var classNumArray2 = [String]()
     var preqArray = [String]()
     
     var buttons = [ClassCollectionViewCell]()
@@ -84,6 +90,8 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        checkBookmarks()
         
         print(ViewController.Constants.title)
         
@@ -111,7 +119,16 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         
     }
     
-    
+    func checkBookmarks(){
+        
+        let defaultss = UserDefaults.standard
+        if(defaultss.array(forKey: "SavedClasses") != nil){
+            bookmarkArray = defaultss.array(forKey: "SavedClasses") as! [String]
+            //bookmarkclasses = Array.
+        }
+        
+        
+    }
     
     //method for getting all the data
     func loadData() {
@@ -145,25 +162,27 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
                     //print(result["classTitle"] as? String)
                     //print(result["credits"] as? String)
                     //print(ViewController.Constants.title)
-                        let tempTitle = result["classTitle"] as? String
-                        let major = result["major"] as? String
-                        let credits = result["credits"] as? String
-                        let time = result["DayTimeClassRoomBuilding"] as? String
-                        let teacher = result["prof"] as? String
-                        let des = result["descrip"] as? String
-                        let num = result["courseNum"] as? String
-                        let pre = result["prerequisites"] as? String
+                    let tempTitle = result["classTitle"] as? String
+                    let major = result["major"] as? String
+                    let credits = result["credits"] as? String
+                    let time = result["DayTimeClassRoomBuilding"] as? String
+                    let teacher = result["prof"] as? String
+                    let des = result["descrip"] as? String
+                    let num = result["courseNum"] as? String
+                    let pre = result["prerequisites"] as? String
+                    let classNum = result["classNum"] as? String
                     
-                        print("Should be working")
-                        //self.CategoryArray.append(tempDes!)
-                        self.TitleArray.append(tempTitle!)
-                        self.majorArray.append(major!)
-                        self.creditsArray.append(credits!)
-                        self.timesArray.append(time!)
-                        self.profArray.append(teacher!)
-                        self.descArray.append(des!)
-                        self.classNumArray.append(num!)
-                        self.preqArray.append(pre!)
+                    print("Should be working")
+                    //self.CategoryArray.append(tempDes!)
+                    self.TitleArray.append(tempTitle!)
+                    self.majorArray.append(major!)
+                    self.creditsArray.append(credits!)
+                    self.timesArray.append(time!)
+                    self.profArray.append(teacher!)
+                    self.descArray.append(des!)
+                    self.classNumArray.append(num!)
+                    self.preqArray.append(pre!)
+                    self.classNumArray2.append(classNum!)
                 }
                 
                 DispatchQueue.main.async {
@@ -223,7 +242,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         
         //change color of box on the left here
         let colorIndex = items.index(of: self.majorArray[indexPath.row])
-        if(colorIndex != nil){
+        if(colorIndex != nil && colorIndex! < self.colors.count){
             cell.courseNum.backgroundColor = hexStringToUIColor(hex: self.colors[colorIndex!])
         }
         
@@ -233,11 +252,21 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         cell.professor.text = self.profArray[indexPath.row]
         
         cell.backgroundColor = UIColor.white // make cell more visible in our example project
-        
         cell.layer.masksToBounds = true
         cell.layer.cornerRadius = 10.0
         
+        cell.bookmarkSearch.tag = tagCount
+        
+        cell.classNum = self.classNumArray2[indexPath.row]
+        
+        if(bookmarkArray.contains(self.classNumArray2[indexPath.row])){
+            if let image = UIImage(named: "bookmarkpressed.png") {
+                cell.bookmarkSearch.setImage(image, for: .normal)
+            }
+        }
+        
         self.buttons.append(cell)
+        self.tagCount+=1
         //print("returning cell!!")
         return cell
     }
@@ -288,6 +317,37 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         )
     }
     
+    @IBAction func bookmark(_ sender: Any) {
+        
+        
+        print("BOOKMARKED!")
+        if let image = UIImage(named: "bookmarkpressed.png") {
+            buttons[(sender as AnyObject).tag as Int].bookmarkSearch.setImage(image, for: .normal)
+        }
+        
+        //save Class here
+        
+        
+        //retrive array
+        var classesArray = [String]()
+        let defaultss = UserDefaults.standard
+        if(defaultss.array(forKey: "SavedClasses") != nil){
+            classesArray = defaultss.array(forKey: "SavedClasses") as! [String]
+        }
+        
+        let classToBeSaved = buttons[(sender as AnyObject).tag as Int].classNum
+        
+        classesArray.append(classToBeSaved)
+        print(classesArray)
+        
+        //save / bookmark the class
+        let defaults = UserDefaults.standard
+        defaults.set(classesArray, forKey: "SavedClasses")
+        
+        
+        print(classesArray)
+        
+    }
     
     
 }

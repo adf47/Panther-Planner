@@ -341,7 +341,7 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
         
         print("BOOKMARKED!")
         if let image = UIImage(named: "bookmarkpressed.png") {
-            buttons[(sender as AnyObject).tag as Int].bookmark.setImage(image, for: .normal)
+            buttons[(sender as AnyObject).tag as Int].bookmarkCred.setImage(image, for: .normal)
         }
         
         //save Class here

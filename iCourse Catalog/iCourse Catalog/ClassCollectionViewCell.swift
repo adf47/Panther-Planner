@@ -16,6 +16,7 @@ class ClassCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var professor: UILabel!
     @IBOutlet weak var bookmark: UIButton!
     
+    @IBOutlet weak var bookmarkSearch: UIButton!
     @IBOutlet weak var bookmarkCred: UIButton!
     var classNum = ""
 }
