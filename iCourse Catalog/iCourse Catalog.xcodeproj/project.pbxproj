@@ -28,6 +28,9 @@
 		3D678C8C1E736A03001E392E /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D678C8B1E736A03001E392E /* img2.jpg */; };
 		3D728AAB1E771C3A00D074A2 /* bookmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AAA1E771C3A00D074A2 /* bookmark.png */; };
 		3D728AAD1E771C4000D074A2 /* bookmarkpressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AAC1E771C4000D074A2 /* bookmarkpressed.png */; };
+		3D728AAF1E7F28A200D074A2 /* bookmark_unpressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AAE1E7F28A200D074A2 /* bookmark_unpressed.png */; };
+		3D728AB11E7F28B000D074A2 /* bookmark_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AB01E7F28B000D074A2 /* bookmark_pressed.png */; };
+		3D728AB31E7F2BCC00D074A2 /* main_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AB21E7F2BCC00D074A2 /* main_bg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +79,9 @@
 		3D678C8B1E736A03001E392E /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = img2.jpg; path = ../../img2.jpg; sourceTree = "<group>"; };
 		3D728AAA1E771C3A00D074A2 /* bookmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookmark.png; sourceTree = "<group>"; };
 		3D728AAC1E771C4000D074A2 /* bookmarkpressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookmarkpressed.png; sourceTree = "<group>"; };
+		3D728AAE1E7F28A200D074A2 /* bookmark_unpressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookmark_unpressed.png; sourceTree = "<group>"; };
+		3D728AB01E7F28B000D074A2 /* bookmark_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookmark_pressed.png; sourceTree = "<group>"; };
+		3D728AB21E7F2BCC00D074A2 /* main_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main_bg.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,8 +156,11 @@
 				3D4B96351E6E246D00B41379 /* ClassCollectionViewCell.swift */,
 				3D672C4E1E5E4DE600D56E8F /* Assets.xcassets */,
 				3D17DA2B1E5EBA2900A8A76C /* IMG_3219.PNG */,
+				3D728AB21E7F2BCC00D074A2 /* main_bg.png */,
 				3D678C8B1E736A03001E392E /* img2.jpg */,
 				3D678C891E73663F001E392E /* images.jpg */,
+				3D728AAE1E7F28A200D074A2 /* bookmark_unpressed.png */,
+				3D728AB01E7F28B000D074A2 /* bookmark_pressed.png */,
 				3D728AAA1E771C3A00D074A2 /* bookmark.png */,
 				3D728AAC1E771C4000D074A2 /* bookmarkpressed.png */,
 				3D672C501E5E4DE600D56E8F /* LaunchScreen.storyboard */,
@@ -296,9 +305,12 @@
 			files = (
 				3D672C521E5E4DE600D56E8F /* LaunchScreen.storyboard in Resources */,
 				3D678C8A1E73663F001E392E /* images.jpg in Resources */,
+				3D728AAF1E7F28A200D074A2 /* bookmark_unpressed.png in Resources */,
 				3D728AAD1E771C4000D074A2 /* bookmarkpressed.png in Resources */,
 				3D672C4F1E5E4DE600D56E8F /* Assets.xcassets in Resources */,
+				3D728AB31E7F2BCC00D074A2 /* main_bg.png in Resources */,
 				3D17DA2C1E5EBA2900A8A76C /* IMG_3219.PNG in Resources */,
+				3D728AB11E7F28B000D074A2 /* bookmark_pressed.png in Resources */,
 				3D678C8C1E736A03001E392E /* img2.jpg in Resources */,
 				3D728AAB1E771C3A00D074A2 /* bookmark.png in Resources */,
 				3D672C4D1E5E4DE600D56E8F /* Main.storyboard in Resources */,

@@ -285,7 +285,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         cell.classNum = self.classNumArray2[indexPath.row]
         
         if(bookmarkArray.contains(self.classNumArray2[indexPath.row])){
-            if let image = UIImage(named: "bookmarkpressed.png") {
+            if let image = UIImage(named: "bookmark_pressed.png") {
                 cell.bookmark.setImage(image, for: .normal)
             }
         }
@@ -356,7 +356,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
     //buton action for bookmarking
     @IBAction func BookMark(_ sender: Any) {
         print("BOOKMARKED!")
-        if let image = UIImage(named: "bookmarkpressed.png") {
+        if let image = UIImage(named: "bookmark_pressed.png") {
             buttons[(sender as AnyObject).tag as Int].bookmark.setImage(image, for: .normal)
         }
         

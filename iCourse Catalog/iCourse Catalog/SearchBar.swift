@@ -260,7 +260,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         cell.classNum = self.classNumArray2[indexPath.row]
         
         if(bookmarkArray.contains(self.classNumArray2[indexPath.row])){
-            if let image = UIImage(named: "bookmarkpressed.png") {
+            if let image = UIImage(named: "bookmark_pressed.png") {
                 cell.bookmarkSearch.setImage(image, for: .normal)
             }
         }
@@ -321,7 +321,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         
         
         print("BOOKMARKED!")
-        if let image = UIImage(named: "bookmarkpressed.png") {
+        if let image = UIImage(named: "bookmark_pressed.png") {
             buttons[(sender as AnyObject).tag as Int].bookmarkSearch.setImage(image, for: .normal)
         }
         

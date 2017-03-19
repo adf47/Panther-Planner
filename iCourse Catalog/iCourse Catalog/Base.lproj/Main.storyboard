@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12106.1" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12074.1"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
         <capability name="Alignment constraints to the first baseline" minToolsVersion="6.0"/>
         <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
@@ -106,7 +106,7 @@
                                                         <constraint firstAttribute="height" constant="45" id="Sdr-vc-PrL"/>
                                                         <constraint firstAttribute="width" constant="45" id="VCg-Qq-5b9"/>
                                                     </constraints>
-                                                    <state key="normal" title="Bookmark" image="bookmark.png"/>
+                                                    <state key="normal" title="Bookmark" image="bookmark_unpressed.png"/>
                                                     <connections>
                                                         <action selector="bookmark:" destination="D83-He-lmM" eventType="touchUpInside" id="Kho-V0-wtM"/>
                                                     </connections>
@@ -195,7 +195,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img2.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="nl0-6b-YFp">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="main_bg.png" translatesAutoresizingMaskIntoConstraints="NO" id="nl0-6b-YFp">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="668"/>
                             </imageView>
                             <button opaque="NO" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a9R-yg-1jl">
@@ -777,7 +777,7 @@
                                                         <constraint firstAttribute="width" constant="45" id="L0K-2V-ipa"/>
                                                         <constraint firstAttribute="height" constant="45" id="qcm-fA-iqt"/>
                                                     </constraints>
-                                                    <state key="normal" title="Bookmark" image="bookmark.png"/>
+                                                    <state key="normal" title="Bookmark" image="bookmark_unpressed.png"/>
                                                     <connections>
                                                         <action selector="bookMarked:" destination="ZpT-Jw-ieZ" eventType="touchUpInside" id="ZYI-Nh-XNf"/>
                                                     </connections>
@@ -951,7 +951,7 @@
                                                         <constraint firstAttribute="height" constant="45" id="UzX-0X-WiV"/>
                                                         <constraint firstAttribute="width" constant="45" id="hwW-5M-k50"/>
                                                     </constraints>
-                                                    <state key="normal" title="Bookmark" image="bookmark.png"/>
+                                                    <state key="normal" title="Bookmark" image="bookmark_unpressed.png"/>
                                                     <connections>
                                                         <action selector="BookMark:" destination="VDg-qX-G2v" eventType="touchUpInside" id="LmP-8w-E8F"/>
                                                     </connections>
@@ -1024,14 +1024,14 @@
         </scene>
     </scenes>
     <resources>
-        <image name="bookmark.png" width="200" height="200"/>
-        <image name="img2.jpg" width="510" height="768"/>
+        <image name="bookmark_unpressed.png" width="159" height="225"/>
+        <image name="main_bg.png" width="1242" height="2208"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="weA-CQ-Cqd"/>
         <segue reference="sqL-pb-dfY"/>
         <segue reference="eDt-0c-jZ9"/>
-        <segue reference="DS3-Q0-Iaz"/>
+        <segue reference="JgJ-5a-xzL"/>
         <segue reference="yaq-BQ-OnT"/>
-        <segue reference="lso-EN-tqY"/>
     </inferredMetricsTieBreakers>
 </document>
