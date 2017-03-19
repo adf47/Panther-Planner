@@ -66,9 +66,16 @@ class majors:  UIViewController, UICollectionViewDataSource, UICollectionViewDel
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: reuseIdentifier, for: indexPath as IndexPath) as! MyCollectionViewCell
         
         // Use the outlet in our custom class to get a reference to the UILabel in the cell
+        var color1 = UIColor.blue
         
         cell.myLabel.text = self.items[indexPath.item]
-        let color1 = hexStringToUIColor(hex: self.colors[indexPath.item])
+        if(indexPath.item >= self.colors.count){
+            //out of bounds dont change color 
+        }
+        else{
+            color1 = hexStringToUIColor(hex: self.colors[indexPath.item])
+        }
+        
         cell.myLabel.backgroundColor = color1 // make cell more visible in our example project
         cell.myLabel.layer.masksToBounds = true
         cell.myLabel.layer.cornerRadius = 8.0

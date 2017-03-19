@@ -267,7 +267,11 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         
         //change color of box on the left here
         let colorIndex = items.index(of: self.majorArray[indexPath.row])
-        if(colorIndex != nil){
+        
+        if(colorIndex! >= self.colors.count){
+            //out of bounds dont change color
+        }
+        else{
             cell.courseNum.backgroundColor = hexStringToUIColor(hex: self.colors[colorIndex!])
         }
         
