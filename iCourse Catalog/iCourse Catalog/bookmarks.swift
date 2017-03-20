@@ -1,8 +1,8 @@
 //
-//  SearchBar.swift
+//  bookmarks.swift
 //  iCourse Catalog
 //
-//  Created by Antonino Febbraro on 3/7/17.
+//  Created by Antonino Febbraro on 3/20/17.
 //  Copyright © 2017 Antonino Febbraro. All rights reserved.
 //
 
@@ -11,9 +11,10 @@ import UIKit
 import CloudKit
 import MapKit
 
-class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,UICollectionViewDataSource, UICollectionViewDelegate {
+class bookmarks: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,UICollectionViewDataSource, UICollectionViewDelegate {
     
     @IBOutlet weak var collectionView: UICollectionView!
+    
     
     struct Classes{
         static var descrip = ""
@@ -125,6 +126,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         if(defaultss.array(forKey: "SavedClasses") != nil){
             bookmarkArray = defaultss.array(forKey: "SavedClasses") as! [String]
             //bookmarkclasses = Array.
+            
         }
         
         
@@ -132,14 +134,24 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
     
     //method for getting all the data
     func loadData() {
+        
         print("Inside load data now")
         let container = CKContainer(identifier: "iCloud.com.antoninofebbraro.iCourse-Database-Uploader")
         let privateDatabase = container.publicCloudDatabase
         //let predicate = NSPredicate(value: true)
         print(ViewController.Constants.title)
         
-        var predicate = NSPredicate(format: "classTitle = %@", ViewController.Constants.title)
-        predicate = NSPredicate(format: "classTitle BEGINSWITH %@", ViewController.Constants.title)
+        var predicate = NSPredicate()
+        
+        for books in bookmarkArray{
+            
+            if(bookmarkArray == nil || bookmarkArray.count == 0){
+                break
+            }
+            
+            predicate = NSPredicate(format: "classNum = %@", books)
+        
+        //predicate = NSPredicate(format: "classTitle BEGINSWITH %@", ViewController.Constants.title)
         
         let query = CKQuery(recordType: "Course", predicate: predicate)
         
@@ -191,7 +203,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
                 }
             }
         }
-        
+        }
     }
     
     
@@ -255,18 +267,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         cell.layer.masksToBounds = true
         cell.layer.cornerRadius = 10.0
         
-        cell.bookmarkSearch.tag = tagCount
         
-        cell.classNum = self.classNumArray2[indexPath.row]
-        
-        if(bookmarkArray.contains(self.classNumArray2[indexPath.row])){
-            if let image = UIImage(named: "bookmark_pressed.png") {
-                cell.bookmarkSearch.setImage(image, for: .normal)
-            }
-        }
-        
-        self.buttons.append(cell)
-        self.tagCount+=1
         //print("returning cell!!")
         return cell
     }
@@ -276,11 +277,11 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         // handle tap events
         print("You selected \(16 - indexPath.item)!")
-        print("\(buttons[indexPath.item].className)")
+       // print("\(buttons[indexPath.item].className)")
         //Constants.credits = "\(16 - indexPath.item) cr."
         //buttons[indexPath.item].backgroundColor = UIColor.brown
         
-        //update class struct here 
+        //update class struct here
         Classes.name = self.TitleArray[indexPath.item]
         Classes.credits = self.creditsArray[indexPath.item]
         Classes.descrip = self.descArray[indexPath.item]
@@ -347,7 +348,6 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         
         print(classesArray)
         
-    }
-    
-    
+}
+
 }

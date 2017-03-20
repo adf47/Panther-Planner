@@ -32,6 +32,7 @@
 		3D728AB11E7F28B000D074A2 /* bookmark_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AB01E7F28B000D074A2 /* bookmark_pressed.png */; };
 		3D728AB31E7F2BCC00D074A2 /* main_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AB21E7F2BCC00D074A2 /* main_bg.png */; };
 		3D728AB51E8026D600D074A2 /* panther_planner.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D728AB41E8026D600D074A2 /* panther_planner.png */; };
+		3D728AB71E80286800D074A2 /* bookmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D728AB61E80286800D074A2 /* bookmarks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		3D728AB01E7F28B000D074A2 /* bookmark_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookmark_pressed.png; sourceTree = "<group>"; };
 		3D728AB21E7F2BCC00D074A2 /* main_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main_bg.png; sourceTree = "<group>"; };
 		3D728AB41E8026D600D074A2 /* panther_planner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = panther_planner.png; sourceTree = "<group>"; };
+		3D728AB61E80286800D074A2 /* bookmarks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bookmarks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				3D672C471E5E4DE600D56E8F /* AppDelegate.swift */,
 				3D672C491E5E4DE600D56E8F /* ViewController.swift */,
 				3D672C4B1E5E4DE600D56E8F /* Main.storyboard */,
+				3D728AB61E80286800D074A2 /* bookmarks.swift */,
 				3D4B96391E6F87D800B41379 /* ClassView.swift */,
 				3D4B96371E6F5D2800B41379 /* SearchBar.swift */,
 				3D672C751E5E79F200D56E8F /* credits.swift */,
@@ -352,6 +355,7 @@
 				3D4B96361E6E246D00B41379 /* ClassCollectionViewCell.swift in Sources */,
 				3D672C761E5E79F200D56E8F /* credits.swift in Sources */,
 				3D4B962B1E5E8B8700B41379 /* SeeCreditsView.swift in Sources */,
+				3D728AB71E80286800D074A2 /* bookmarks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

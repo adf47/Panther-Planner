@@ -308,7 +308,7 @@ class SeeCreditsView: UIViewController, CLLocationManagerDelegate, MKMapViewDele
         Classes.subjNum = "\(self.majorArray[indexPath.item]) \(self.classNumArray[indexPath.item])"
         Classes.preq = self.preqArray[indexPath.item]
         let colorIndex = items.index(of: self.majorArray[indexPath.item])
-        if(colorIndex != nil){
+        if(colorIndex != nil && colorIndex! < self.colors.count){
             Classes.color = self.colors[colorIndex!]
         }
     }
