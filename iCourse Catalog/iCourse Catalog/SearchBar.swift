@@ -140,9 +140,14 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
         
         var predicate = NSPredicate(format: "classTitle = %@", ViewController.Constants.title)
         predicate = NSPredicate(format: "classTitle BEGINSWITH %@", ViewController.Constants.title)
+        /*let predicate3 = NSPredicate(format: "prof = %@", ViewController.Constants.title)
+        let predicate4 = NSPredicate(format: "prof BEGINSWITH %@", ViewController.Constants.title)
+        let predicate = NSCompoundPredicate(type: NSCompoundPredicate.LogicalType.and, subpredicates: [predicate1,predicate2,predicate3,predicate4]) */
+        
+        //predicate = NSCompoundPredicate(format: "prof CONTAINS %@", ViewController.Constants.title)
         
         let query = CKQuery(recordType: "Course", predicate: predicate)
-        
+        //let w = CKQuery.
         privateDatabase.perform(query, inZoneWith: nil) { (results, error) -> Void in
             if error != nil {
                 print(error!)
@@ -151,13 +156,14 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
             else {
                 print("Working")
                 if(results! == Optional([])!){
-                    self.loadData()
+                    //self.loadData()
                     print(ViewController.Constants.title)
-                    print("error trying agaon")
+                    print("no results found")
+                    
                 } //to make sure data loads in time
                 for result in results! {
                     
-                    print("in loop ")
+                    //print("in loop ")
                     let tempSearch = result["classTitle"] as? String
                     //print(result["classTitle"] as? String)
                     //print(result["credits"] as? String)
@@ -172,7 +178,7 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
                     let pre = result["prerequisites"] as? String
                     let classNum = result["classNum"] as? String
                     
-                    print("Should be working")
+                    //print("Should be working")
                     //self.CategoryArray.append(tempDes!)
                     self.TitleArray.append(tempTitle!)
                     self.majorArray.append(major!)
@@ -191,6 +197,136 @@ class SearchBar: UIViewController, CLLocationManagerDelegate, MKMapViewDelegate,
                 }
             }
         }
+        
+        //loading rof query here
+        let privateDatabase2 = container.publicCloudDatabase
+        
+        var predicate2 = NSPredicate(format: "prof = %@", ViewController.Constants.title)
+        predicate2 = NSPredicate(format: "prof BEGINSWITH %@", ViewController.Constants.title)
+        /*let predicate3 = NSPredicate(format: "prof = %@", ViewController.Constants.title)
+         let predicate4 = NSPredicate(format: "prof BEGINSWITH %@", ViewController.Constants.title)
+         let predicate = NSCompoundPredicate(type: NSCompoundPredicate.LogicalType.and, subpredicates: [predicate1,predicate2,predicate3,predicate4]) */
+        
+        //predicate = NSCompoundPredicate(format: "prof CONTAINS %@", ViewController.Constants.title)
+        
+        let query2 = CKQuery(recordType: "Course", predicate: predicate2)
+        //let w = CKQuery.
+        privateDatabase2.perform(query2, inZoneWith: nil) { (results2, error) -> Void in
+            if error != nil {
+                print(error!)
+                print("Somthing went wrong")
+            }
+            else {
+                print("Working 2")
+                if(results2! == Optional([])!){
+                    //self.loadData()
+                    print(ViewController.Constants.title)
+                    print("no results found 2")
+                    //self.loadData()
+                } //to make sure data loads in time
+                for result in results2! {
+                    
+                    //print("in loop ")
+                    let tempSearch = result["classTitle"] as? String
+                    //print(result["classTitle"] as? String)
+                    //print(result["credits"] as? String)
+                    //print(ViewController.Constants.title)
+                    let tempTitle = result["classTitle"] as? String
+                    let major = result["major"] as? String
+                    let credits = result["credits"] as? String
+                    let time = result["DayTimeClassRoomBuilding"] as? String
+                    let teacher = result["prof"] as? String
+                    let des = result["descrip"] as? String
+                    let num = result["courseNum"] as? String
+                    let pre = result["prerequisites"] as? String
+                    let classNum = result["classNum"] as? String
+                    
+                    //print("Should be working")
+                    //self.CategoryArray.append(tempDes!)
+                    self.TitleArray.append(tempTitle!)
+                    self.majorArray.append(major!)
+                    self.creditsArray.append(credits!)
+                    self.timesArray.append(time!)
+                    self.profArray.append(teacher!)
+                    self.descArray.append(des!)
+                    self.classNumArray.append(num!)
+                    self.preqArray.append(pre!)
+                    self.classNumArray2.append(classNum!)
+                }
+                
+                DispatchQueue.main.async {
+                    self.collectionView.reloadData()
+                    self.collectionView.isHidden = false
+                }
+            }
+        }
+        
+        
+        
+        //loading courseNum query here
+        let privateDatabase3 = container.publicCloudDatabase
+        
+        var predicate3 = NSPredicate(format: "courseNum = %@", ViewController.Constants.title)
+        predicate3 = NSPredicate(format: "courseNum BEGINSWITH %@", ViewController.Constants.title)
+        /*let predicate3 = NSPredicate(format: "prof = %@", ViewController.Constants.title)
+         let predicate4 = NSPredicate(format: "prof BEGINSWITH %@", ViewController.Constants.title)
+         let predicate = NSCompoundPredicate(type: NSCompoundPredicate.LogicalType.and, subpredicates: [predicate1,predicate2,predicate3,predicate4]) */
+        
+        //predicate = NSCompoundPredicate(format: "prof CONTAINS %@", ViewController.Constants.title)
+        
+        let query3 = CKQuery(recordType: "Course", predicate: predicate3)
+        //let w = CKQuery.
+        privateDatabase3.perform(query3, inZoneWith: nil) { (results3, error) -> Void in
+            if error != nil {
+                print(error!)
+                print("Somthing went wrong")
+            }
+            else {
+                print("Working 3")
+                if(results3! == Optional([])!){
+                    //self.loadData()
+                    print(ViewController.Constants.title)
+                    print("no results found 3")
+                    //self.loadData()
+                } //to make sure data loads in time
+                for result in results3! {
+                    
+                    //print("in loop ")
+                    let tempSearch = result["classTitle"] as? String
+                    //print(result["classTitle"] as? String)
+                    //print(result["credits"] as? String)
+                    //print(ViewController.Constants.title)
+                    let tempTitle = result["classTitle"] as? String
+                    let major = result["major"] as? String
+                    let credits = result["credits"] as? String
+                    let time = result["DayTimeClassRoomBuilding"] as? String
+                    let teacher = result["prof"] as? String
+                    let des = result["descrip"] as? String
+                    let num = result["courseNum"] as? String
+                    let pre = result["prerequisites"] as? String
+                    let classNum = result["classNum"] as? String
+                    
+                    //print("Should be working")
+                    //self.CategoryArray.append(tempDes!)
+                    self.TitleArray.append(tempTitle!)
+                    self.majorArray.append(major!)
+                    self.creditsArray.append(credits!)
+                    self.timesArray.append(time!)
+                    self.profArray.append(teacher!)
+                    self.descArray.append(des!)
+                    self.classNumArray.append(num!)
+                    self.preqArray.append(pre!)
+                    self.classNumArray2.append(classNum!)
+                }
+                
+                DispatchQueue.main.async {
+                    self.collectionView.reloadData()
+                    self.collectionView.isHidden = false
+                }
+            }
+        }
+        
+        
         
     }
     
