@@ -10,28 +10,24 @@ import Foundation
 import UIKit
 import CloudKit
 
-class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
+class credits:  UIViewController, UICollectionViewDataSource,UIPickerViewDelegate, UICollectionViewDelegate, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
     @IBOutlet weak var collectionView: UICollectionView!
+    @IBOutlet weak var picker: UIPickerView!
     
     struct Constants{
         static var credits = ""
     }
     
     let reuseIdentifier = "cell"
+    var pickerData = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"]
     var items = [String]()
     var buttons = [MyCollectionViewCell]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        var x = 16
-        
-        while(x > 0)
-        {
-            self.items.append("\(x)")
-            x = x - 1
-        }
+        picker.delegate = self
         
     }
     
@@ -70,5 +66,41 @@ class credits:  UIViewController, UICollectionViewDataSource, UICollectionViewDe
         
     }
     
+    
+    //METHODS FOR THE PICKER
+    func numberOfComponentsInPickerView(pickerView: UIPickerView) -> Int {
+        return 1
+    }
+    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+        return pickerData.count
+    }
+    //MARK: Delegates
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+        return pickerData[row]
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+        //myLabel.text = pickerData[row]
+        print(pickerData[row])
+        
+        print("You selected \(pickerData[row])!")
+        Constants.credits = "\(pickerData[row]) cr."
+        
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, attributedTitleForRow row: Int, forComponent component: Int) -> NSAttributedString? {
+        let titleData = pickerData[row]
+        let myTitle = NSAttributedString(string: titleData, attributes: [NSFontAttributeName:UIFont(name: "Georgia", size: 26.0)!,NSForegroundColorAttributeName:UIColor.blue])
+        return myTitle
+    }
+    
+    
+    func textView(_ textView: UITextView, shouldChangeTextIn range: NSRange, replacementText text: String) -> Bool {
+        if(text == "\n") {
+            textView.resignFirstResponder()
+            return false
+        }
+        return true
+    }
     
 }

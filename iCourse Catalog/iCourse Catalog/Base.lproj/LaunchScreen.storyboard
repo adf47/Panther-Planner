@@ -22,35 +22,23 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="IMG_3219.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="wsb-hx-cGW">
-                                <rect key="frame" x="67" y="110" width="240" height="240"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="main_bg.png" translatesAutoresizingMaskIntoConstraints="NO" id="wsb-hx-cGW">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rfk-hH-r4O">
-                                <rect key="frame" x="89" y="378" width="196" height="45"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="45" id="Vmr-xT-8bv"/>
-                                </constraints>
-                                <attributedString key="attributedText">
-                                    <fragment content="iCourse Catalog">
-                                        <attributes>
-                                            <color key="NSColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                            <font key="NSFont" size="24" name="ChalkboardSE-Regular"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                </attributedString>
-                                <nil key="highlightedColor"/>
-                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="panther_planner.png" translatesAutoresizingMaskIntoConstraints="NO" id="aAd-30-JCx">
+                                <rect key="frame" x="16" y="28" width="343" height="128"/>
+                            </imageView>
                         </subviews>
-                        <color key="backgroundColor" name="alternateSelectedControlColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="wsb-hx-cGW" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="90" id="0Z5-yP-XyA"/>
-                            <constraint firstItem="wsb-hx-cGW" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="28R-QN-k8A"/>
-                            <constraint firstItem="wsb-hx-cGW" firstAttribute="centerX" secondItem="Rfk-hH-r4O" secondAttribute="centerX" id="Hv6-JQ-dUd"/>
-                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="top" secondItem="wsb-hx-cGW" secondAttribute="bottom" constant="28" id="P6f-Ee-tyc"/>
-                            <constraint firstItem="wsb-hx-cGW" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="51" id="Y7g-mR-A0J"/>
-                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="Rfk-hH-r4O" secondAttribute="bottom" constant="244" id="Z5m-Mp-LOM"/>
-                            <constraint firstItem="Rfk-hH-r4O" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="73" id="iUf-bh-rwi"/>
+                            <constraint firstAttribute="trailing" secondItem="wsb-hx-cGW" secondAttribute="trailing" id="Ae2-aO-ArK"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="L7q-TP-uCC"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="centerX" secondItem="aAd-30-JCx" secondAttribute="centerX" id="RM4-oL-Jcg"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="UDI-Kc-Ydl"/>
+                            <constraint firstItem="aAd-30-JCx" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="8" symbolic="YES" id="cDY-pT-zNa"/>
+                            <constraint firstItem="wsb-hx-cGW" firstAttribute="bottom" secondItem="xb3-aO-Qok" secondAttribute="top" id="eYy-Ua-7mK"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="aAd-30-JCx" secondAttribute="bottom" constant="511" id="ujb-35-LCG"/>
+                            <constraint firstItem="aAd-30-JCx" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="xf2-KZ-lxV"/>
                         </constraints>
                     </view>
                 </viewController>
@@ -60,6 +48,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="IMG_3219.PNG" width="1024" height="1024"/>
+        <image name="main_bg.png" width="1242" height="2208"/>
+        <image name="panther_planner.png" width="2625" height="267"/>
     </resources>
 </document>
