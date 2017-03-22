@@ -54,7 +54,7 @@ class ClassView: UIViewController {
         print(ViewController.type.type)
         print(SearchBar.Classes.subjNum)
         
-        _ = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(ClassView.loadAgain), userInfo: nil, repeats: true)
+        _ = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(ClassView.loadAgain), userInfo: nil, repeats: false)
         //loadAgain()
         
 
@@ -131,4 +131,68 @@ class ClassView: UIViewController {
         )
     }
     
+    
+    //funcion for when rate button is clicked to rate class
+    @IBAction func rateClass(_ sender: Any) {
+        print("Rate button pressed")
+        //display content here
+        let alertController2 = UIAlertController(
+            title: "Rate Class",
+            message:"Give it a star rating!",
+            preferredStyle: UIAlertControllerStyle.actionSheet)
+        
+        let action = UIAlertAction(
+        title: "Cancel", style: UIAlertActionStyle.default) {
+            (action) -> Void in
+        }
+        
+        let upVote1 = UIAlertAction(
+        title: "1 Star", style: UIAlertActionStyle.default) {
+            (action) -> Void in
+            
+            print("Liked!")
+            
+        
+            
+        }
+        let upVote2 = UIAlertAction(
+        title: "2 Stars", style: UIAlertActionStyle.default) {
+            (action) -> Void in
+            
+           print("Dislike")
+            
+        }
+        let upVote3 = UIAlertAction(
+        title: "3 Stars", style: UIAlertActionStyle.default) {
+            (action) -> Void in
+            
+            print("Dislike")
+            
+        }
+        let upVote4 = UIAlertAction(
+        title: "4 Stars", style: UIAlertActionStyle.default) {
+            (action) -> Void in
+            
+            print("Dislike")
+            
+        }
+        let upVote5 = UIAlertAction(
+        title: "5 Stars", style: UIAlertActionStyle.default) {
+            (action) -> Void in
+            
+            print("Dislike")
+            
+        }
+        
+        
+        alertController2.addAction(action)
+        alertController2.addAction(upVote1)
+        alertController2.addAction(upVote2)
+        alertController2.addAction(upVote3)
+        alertController2.addAction(upVote4)
+        alertController2.addAction(upVote5)
+        
+        self.present(alertController2, animated: true, completion: nil)
+        
+    }
 }
