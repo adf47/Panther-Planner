@@ -1211,10 +1211,10 @@
         <image name="rating_3star.png" width="570" height="90"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="sqL-pb-dfY"/>
-        <segue reference="eDt-0c-jZ9"/>
-        <segue reference="lso-EN-tqY"/>
-        <segue reference="yaq-BQ-OnT"/>
+        <segue reference="FFr-0o-OJX"/>
         <segue reference="DS3-Q0-Iaz"/>
+        <segue reference="yaq-BQ-OnT"/>
+        <segue reference="MPo-4w-gcG"/>
+        <segue reference="lso-EN-tqY"/>
     </inferredMetricsTieBreakers>
 </document>
