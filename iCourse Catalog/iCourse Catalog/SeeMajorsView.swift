@@ -159,6 +159,7 @@ class SeeMajorsView: UIViewController, CLLocationManagerDelegate, MKMapViewDeleg
         //change label of major here
         var index = items.index(of: majors.Constants.major)
         majorLabel.text = names[index!]
+        majorLabel.backgroundColor = hexStringToUIColor(hex: self.colors[index!])
         
         
         let predicate = NSPredicate(format: "major = %@", majors.Constants.major)

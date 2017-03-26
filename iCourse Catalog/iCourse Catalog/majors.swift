@@ -79,6 +79,8 @@ class majors:  UIViewController, UICollectionViewDataSource, UICollectionViewDel
         cell.myLabel.layer.masksToBounds = true
         cell.myLabel.layer.cornerRadius = 8.0
         
+        cell.nameLabel.text = names[indexPath.item]
+        
         self.buttons.append(cell)
         
         return cell
