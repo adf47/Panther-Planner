@@ -11,7 +11,7 @@ public class html{
 
       
 
-        PrintWriter writer = new PrintWriter("Courses.txt", "UTF-8"); //instanciate print writer
+        PrintWriter writer = new PrintWriter("CoursesFall2017.txt", "UTF-8"); //instanciate print writer
 
        	while(classNum != 40000) //gets 1000 classes from the website
        	{
@@ -19,7 +19,7 @@ public class html{
 				classNum++;
 			else
 			{ */
-       		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+classNum+"&TERM=2174");
+       		String url = getUrlSource("http://www.courses.as.pitt.edu/detail.asp?CLASSNUM="+classNum+"&TERM=2181");
        		if(!url.equals("")) //make sure the webspage actually exsists
       		{
       			//System.out.println("Class # - " + classNum);
@@ -58,7 +58,7 @@ public class html{
             while ((inputLine = in.readLine()) != null)
             {
 
-            	if(inputLine.contains("<td>2174</td>")) //to find place where we need to start parsing,
+            	if(inputLine.contains("<td>2181</td>")) //to find place where we need to start parsing,
             	{												//Always change the term number to current term when updating
             		temp.append(inputLine+"\n");
             		temp.delete(0,8);
